@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800");
+
+* {
+  box-sizing: border-box;
+}
+body {
+  background: #fff !important;
+  min-height: 100vh;
+  display: flex;
+  font-weight: 400;
+  font-family: "Fira Sans", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label,
+span {
+  font-weight: 500;
+  font-family: "Fira Sans", sans-serif;
+}
+
+body,
+html,
+.App,
+#root,
+.auth-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.navbar-light {
+  background-color: #ffffff;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+}
+
+.auth-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+}
+
+.auth-inner {
+  width: 450px;
+  margin: auto;
+  background: #ffffff;
+  box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+  padding: 40px 55px 45px 55px;
+  border-radius: 15px;
+  transition: all 0.3s;
+}
+
+.auth-wrapper .form-control:focus {
+  border-color: #167bff;
+  box-shadow: none;
+}
+
+.auth-wrapper h3 {
+  text-align: center;
+  margin: 0;
+  line-height: 1;
+  padding-bottom: 20px;
+}
+
+.custom-control-label {
+  font-weight: 400;
+}
+
+.forgot-password,
+.forgot-password a {
+  text-align: right;
+  font-size: 13px;
+  padding-top: 10px;
+  color: #7f7d7d;
+  margin: 0;
+}
+
+.forgot-password a {
+  color: #167bff;
+}
+
+table,
+th,
+td {
+  border: 1px solid black !important;
+}
+
+.btn.btn-link {
+  background-color: transparent;
+  color: #007bff;
+  border: none;
+  padding: 0;
+  font-size: 1rem;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.3s ease-in-out;
+}
+
+.btn.btn-link:hover {
+  color: #0056b3;
+}
+
+.btn-box {
+  display: inline-block;
+  margin: 0 5px;
+  margin-top: 9px;
+}
+
+.password-input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.password-input i {
+  margin-right: 5px;
+}
+
+
+
+  /* Custom radio buttons */
+  .custom-radio input[type="radio"] {
+    opacity: 0;
+    position: absolute;
+    left: -9999px;
+  }
+
+  .custom-radio input[type="radio"] + label {
+    position: relative;
+    padding-left: 35px;
+    cursor: pointer;
+  }
+
+  .custom-radio input[type="radio"] + label:before,
+  .custom-radio input[type="radio"] + label:after {
+    content: '';
+    position: absolute;
+  }
+
+  .custom-radio input[type="radio"] + label:before {
+    left: 0;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    border: 2px solid #007bff;
+    border-radius: 50%;
+  }
+
+  .custom-radio input[type="radio"] + label:after {
+    left: 5px;
+    top: 5px;
+    width: 10px;
+    height: 10px;
+    background-color: #007bff;
+    border-radius: 50%;
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+
+  .custom-radio input[type="radio"]:checked + label:after {
+    opacity: 1;
+  }
+
+  /* Styling for the "Register As" section */
+  .register-as-section {
+    margin-bottom: 20px;
+  }
+
+  .register-as-label {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .register-as-options {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }

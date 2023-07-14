@@ -1,0 +1,2270 @@
+[
+    {
+        "metadata": {
+            "title": "BleepingComputer",
+            "description": "BleepingComputer - All Stories",
+            "published-date": "Feed published-date not available"
+        },
+        "entries": [
+            {
+                "title": "Shutterfly says Clop ransomware attack did not impact customer data",
+                "link": "https://www.bleepingcomputer.com/news/security/shutterfly-says-clop-ransomware-attack-did-not-impact-customer-data/",
+                "updated": "Fri, 14 Jul 2023 08:09:40 +0100"
+            },
+            {
+                "title": "AVrecon malware infects 70,000 Linux routers to build botnet",
+                "link": "https://www.bleepingcomputer.com/news/security/avrecon-malware-infects-70-000-linux-routers-to-build-botnet/",
+                "updated": "Fri, 14 Jul 2023 06:35:08 +0100"
+            },
+            {
+                "title": "Cisco SD-WAN vManage impacted by unauthenticated REST API access",
+                "link": "https://www.bleepingcomputer.com/news/security/cisco-sd-wan-vmanage-impacted-by-unauthenticated-rest-api-access/",
+                "updated": "Thu, 13 Jul 2023 21:53:30 +0100"
+            },
+            {
+                "title": "Google Play will enforce business checks to curb malware submissions",
+                "link": "https://www.bleepingcomputer.com/news/google/google-play-will-enforce-business-checks-to-curb-malware-submissions/",
+                "updated": "Thu, 13 Jul 2023 19:20:30 +0100"
+            },
+            {
+                "title": "Windows 11 23H2 coming this fall as a small enablement package",
+                "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-coming-this-fall-as-a-small-enablement-package/",
+                "updated": "Thu, 13 Jul 2023 18:55:04 +0100"
+            },
+            {
+                "title": "Fake Linux vulnerability exploit drops data-stealing malware",
+                "link": "https://www.bleepingcomputer.com/news/security/fake-linux-vulnerability-exploit-drops-data-stealing-malware/",
+                "updated": "Thu, 13 Jul 2023 18:28:48 +0100"
+            },
+            {
+                "title": "Zimbra urges admins to manually fix zero-day exploited in attacks",
+                "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-admins-to-manually-fix-zero-day-exploited-in-attacks/",
+                "updated": "Thu, 13 Jul 2023 17:54:13 +0100"
+            },
+            {
+                "title": "Source code for BlackLotus Windows UEFI malware leaked on GitHub",
+                "link": "https://www.bleepingcomputer.com/news/security/source-code-for-blacklotus-windows-uefi-malware-leaked-on-github/",
+                "updated": "Thu, 13 Jul 2023 15:14:29 +0100"
+            },
+            {
+                "title": "Cyberattacks through Browser Extensions \u2013 the Importance of MFA",
+                "link": "https://www.bleepingcomputer.com/news/security/cyberattacks-through-browser-extensions-the-importance-of-mfa/",
+                "updated": "Thu, 13 Jul 2023 14:02:01 +0100"
+            },
+            {
+                "title": "USB drive malware attacks spiking again in first half of 2023",
+                "link": "https://www.bleepingcomputer.com/news/security/usb-drive-malware-attacks-spiking-again-in-first-half-of-2023/",
+                "updated": "Thu, 13 Jul 2023 05:02:04 +0100"
+            },
+            {
+                "title": "New PyLoose Linux malware mines crypto directly from memory",
+                "link": "https://www.bleepingcomputer.com/news/security/new-pyloose-linux-malware-mines-crypto-directly-from-memory/",
+                "updated": "Wed, 12 Jul 2023 21:50:44 +0100"
+            },
+            {
+                "title": "Apple re-releases zero-day patch after fixing browsing issue",
+                "link": "https://www.bleepingcomputer.com/news/apple/apple-re-releases-zero-day-patch-after-fixing-browsing-issue/",
+                "updated": "Wed, 12 Jul 2023 21:27:07 +0100"
+            },
+            {
+                "title": "SonicWall warns admins to patch critical auth bypass bugs immediately",
+                "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-admins-to-patch-critical-auth-bypass-bugs-immediately/",
+                "updated": "Wed, 12 Jul 2023 20:08:41 +0100"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "Dark Reading",
+            "description": "Dark Reading: Connecting the Information and Security Community",
+            "published-date": "Fri, 14 Jul 2023 11:45:12 GMT"
+        },
+        "entries": [
+            {
+                "title": "White House Fills in Details Of National Cybersecurity Strategy",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/white-house-releases-implementation-plan-for-cybersecurity-strategy",
+                "updated": "Thu, 13 Jul 2023 21:48:00 +0100"
+            },
+            {
+                "title": "Secure Code Warrior Raises $50M to Accelerate Product Innovation",
+                "link": "https://www.darkreading.com/operations/secure-code-warrior-raises-50m-to-accelerate-product-innovation",
+                "updated": "Thu, 13 Jul 2023 21:24:00 +0100"
+            },
+            {
+                "title": "Black Hat Announces Sustainability Pledge",
+                "link": "https://www.darkreading.com/threat-intelligence/-black-hat-announces-sustainability-pledge",
+                "updated": "Thu, 13 Jul 2023 21:19:00 +0100"
+            },
+            {
+                "title": "Secure Code Warrior Ushers in Next Era in Developer Driven Security With $50M Series C Funding Round",
+                "link": "https://www.darkreading.com/application-security/secure-code-warrior-ushers-in-next-era-in-developer-driven-security-with-50m-series-c-funding-round",
+                "updated": "Thu, 13 Jul 2023 21:15:00 +0100"
+            },
+            {
+                "title": "Introducing EncryptionSafe: A Free and Easy-to-Use Encryption App for Windows PC",
+                "link": "https://www.darkreading.com/remote-workforce/introducing-encryptionsafe-a-free-and-easy-to-use-encryption-app-for-windows-pc",
+                "updated": "Thu, 13 Jul 2023 21:07:00 +0100"
+            },
+            {
+                "title": "Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks",
+                "link": "https://www.darkreading.com/endpoint/facebook-and-microsoft-are-the-most-impersonated-brands-in-phishing-attacks",
+                "updated": "Thu, 13 Jul 2023 20:42:00 +0100"
+            },
+            {
+                "title": "Safe Security Acquires RiskLens",
+                "link": "https://www.darkreading.com/risk/safe-security-acquires-risklens-",
+                "updated": "Thu, 13 Jul 2023 20:31:00 +0100"
+            },
+            {
+                "title": "Linux Hacker Exploits Researchers With Fake PoCs Posted to GitHub",
+                "link": "https://www.darkreading.com/attacks-breaches/linux-hacker-exploits-researchers-with-fake-pocs-posted-to-github",
+                "updated": "Thu, 13 Jul 2023 20:23:00 +0100"
+            },
+            {
+                "title": "Cybersecurity Leaders Report Reduction in Disruptive Cyber Incidents With MSS/MDR Solutions",
+                "link": "https://www.darkreading.com/operations/cybersecurity-leaders-report-reduction-in-disruptive-cyber-incidents-with-mss-mdr-solutions",
+                "updated": "Thu, 13 Jul 2023 19:48:00 +0100"
+            },
+            {
+                "title": "Orca Sues Wiz for 'Copying' Its Cloud Security Tech",
+                "link": "https://www.darkreading.com/cloud/orca-sues-wiz-patent-infringement-cloud-security",
+                "updated": "Thu, 13 Jul 2023 19:16:00 +0100"
+            },
+            {
+                "title": "How the EU AI Act Will Affect Businesses, Cybersecurity",
+                "link": "https://www.darkreading.com/edge/how-the-eu-ai-act-will-affect-businesses-cybersecurity",
+                "updated": "Thu, 13 Jul 2023 19:11:00 +0100"
+            },
+            {
+                "title": "WormGPT Cybercrime Tool Heralds an Era of AI Malware vs. AI Defenses",
+                "link": "https://www.darkreading.com/attacks-breaches/wormgpt-heralds-an-era-of-using-ai-defenses-to-battle-ai-malware",
+                "updated": "Thu, 13 Jul 2023 18:38:00 +0100"
+            },
+            {
+                "title": "Critical RCE Bug in Rockwell Automation PLCs Zaps Industrial Sites",
+                "link": "https://www.darkreading.com/ics-ot/critical-rce-vulnerability-rockwell-automation-plc-industrial",
+                "updated": "Thu, 13 Jul 2023 18:15:00 +0100"
+            },
+            {
+                "title": "Okta, Ping Identity, CyberArk & Oracle Lead the IDaaS Omdia Universe",
+                "link": "https://www.darkreading.com/omdia/okta-ping-identity-cyberark-oracle-lead-the-idaas-omdia-universe",
+                "updated": "Thu, 13 Jul 2023 17:00:00 +0100"
+            },
+            {
+                "title": "SolarWinds Attackers Dangle BMWs to Spy on Diplomats",
+                "link": "https://www.darkreading.com/endpoint/solarwinds-attackers-bmws-spy-diplomats",
+                "updated": "Thu, 13 Jul 2023 15:48:58 +0100"
+            },
+            {
+                "title": "Creating a Patch Management Playbook: 6 Key Questions",
+                "link": "https://www.darkreading.com/operations/creating-a-patch-management-playbook-6-key-questions",
+                "updated": "Thu, 13 Jul 2023 14:00:00 +0100"
+            },
+            {
+                "title": "Killnet Tries Building Russian Hacktivist Clout With Media Stunts",
+                "link": "https://www.darkreading.com/attacks-breaches/killnet-wants-to-consolidate-russian-hacktivist-groups",
+                "updated": "Thu, 13 Jul 2023 14:00:00 +0100"
+            },
+            {
+                "title": "Hackers Target Gamers With Microsoft-Signed Rootkit",
+                "link": "https://www.darkreading.com/attacks-breaches/researchers-discover-microsoft-signed-rootkit-for-loading-2nd-stage-kernel-module",
+                "updated": "Thu, 13 Jul 2023 00:03:00 +0100"
+            },
+            {
+                "title": "Startup Spotlight: Mobb Aims to Be the Fixer",
+                "link": "https://www.darkreading.com/dr-tech/startup-spotlight-mobb-aims-to-be-the-fixer",
+                "updated": "Wed, 12 Jul 2023 21:47:00 +0100"
+            },
+            {
+                "title": "Chinese APT Cracks Microsoft Outlook Emails at 25 Government Agencies",
+                "link": "https://www.darkreading.com/endpoint/chinese-apt-cracks-microsoft-outlook-emails-government-agencies",
+                "updated": "Wed, 12 Jul 2023 20:27:00 +0100"
+            },
+            {
+                "title": "Hackers Say Generative AI Unlikely to Replace Human Cybersecurity Skills According to Bugcrowd Survey",
+                "link": "https://www.darkreading.com/threat-intelligence/hackers-say-generative-ai-unlikely-to-replace-human-cybersecurity-skills-according-to-bugcrowd-survey",
+                "updated": "Wed, 12 Jul 2023 19:46:00 +0100"
+            },
+            {
+                "title": "Firedome Integrates With Microsoft Defender for IoT to Enhance IoT Device Security, Using Microsoft Sentinel",
+                "link": "https://www.darkreading.com/iot/firedome-integrates-with-microsoft-defender-for-iot-to-enhance-iot-device-security-using-microsoft-sentinel",
+                "updated": "Wed, 12 Jul 2023 19:30:00 +0100"
+            },
+            {
+                "title": "Console & Associates, P.C. Investigates HCA Healthcare After Report of Data Breach Affecting an Estimated 11M Patients",
+                "link": "https://www.darkreading.com/attacks-breaches/console-associates-p-c-investigates-hca-healthcare-after-report-of-data-breach-affecting-an-estimated-11m-patients",
+                "updated": "Wed, 12 Jul 2023 19:25:00 +0100"
+            },
+            {
+                "title": "(ISC)\u00b2 Strengthens DEI Initiatives through Global Partnerships",
+                "link": "https://www.darkreading.com/dr-global/-isc-strengthens-dei-initiatives-through-global-partnerships",
+                "updated": "Wed, 12 Jul 2023 19:23:00 +0100"
+            },
+            {
+                "title": "Less Than Half of SMBs Deploy Privileged Access Management",
+                "link": "https://www.darkreading.com/remote-workforce/less-than-half-of-smbs-deploy-privileged-access-management",
+                "updated": "Wed, 12 Jul 2023 19:07:00 +0100"
+            },
+            {
+                "title": "QuickBlox API Vulnerabilities Open Video, Chat Users to Data Theft",
+                "link": "https://www.darkreading.com/application-security/team82-check-point-research-uncover-quickblox-api-vulnerabilities",
+                "updated": "Wed, 12 Jul 2023 18:00:00 +0100"
+            },
+            {
+                "title": "How to Put Generative AI to Work in Your Security Operations Center",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/how-to-put-generative-ai-to-work-in-your-security-operations-center",
+                "updated": "Wed, 12 Jul 2023 17:00:00 +0100"
+            },
+            {
+                "title": "White House Urged to Quickly Nominate National Cyber Director",
+                "link": "https://www.darkreading.com/ics-ot/white-house-urged-quickly-nominate-national-cyber-director",
+                "updated": "Wed, 12 Jul 2023 15:55:34 +0100"
+            },
+            {
+                "title": "Hackers Exploit Policy Loophole in Windows Kernel Drivers",
+                "link": "https://www.darkreading.com/endpoint/hackers-exploit-policy-loophole-windows-kernel-drivers",
+                "updated": "Wed, 12 Jul 2023 15:27:00 +0100"
+            },
+            {
+                "title": "Ransomware, From a Different Perspective",
+                "link": "https://www.darkreading.com/omdia/ransomware-from-a-different-perspective",
+                "updated": "Wed, 12 Jul 2023 14:00:00 +0100"
+            },
+            {
+                "title": "Microsoft Discloses 5 Zero-Days in Voluminous July Security Update",
+                "link": "https://www.darkreading.com/application-security/microsoft-discloses--zero-days-in-voluminous-july-security-update",
+                "updated": "Tue, 11 Jul 2023 22:16:00 +0100"
+            },
+            {
+                "title": "Mastodon Patches 4 Bugs, but Is the Twitter Killer Safe to Use?",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/mastodon-patches-4-bugs-but-is-the-twitter-killer-safe-to-use-",
+                "updated": "Tue, 11 Jul 2023 22:00:00 +0100"
+            },
+            {
+                "title": "Hubble Announces Aurora\u2122, the Category Defining Cybersecurity Asset Intelligence\u2122 Platform",
+                "link": "https://www.darkreading.com/operations/hubble-announces-aurora-the-category-defining-cybersecurity-asset-intelligence-platform",
+                "updated": "Tue, 11 Jul 2023 20:57:00 +0100"
+            },
+            {
+                "title": "SpecterOps Closes Series A Extension From Ballistic Ventures, Bringing Funding Round Total to $33.5M",
+                "link": "https://www.darkreading.com/threat-intelligence/specterops-closes-series-a-extension-from-ballistic-ventures-bringing-funding-round-total-to-33-5m",
+                "updated": "Tue, 11 Jul 2023 20:56:00 +0100"
+            },
+            {
+                "title": "Tracy Resident Charged With Computer Attack On Discovery Bay Water Treatment Facility",
+                "link": "https://www.darkreading.com/careers-and-people/tracy-resident-charged-with-computer-attack-on-discovery-bay-water-treatment-facility",
+                "updated": "Tue, 11 Jul 2023 20:39:00 +0100"
+            },
+            {
+                "title": "11M HCA Healthcare Patients Impacted by Data Breach",
+                "link": "https://www.darkreading.com/attacks-breaches/11m-hca-healthcare-patients-impacted-data-breach",
+                "updated": "Tue, 11 Jul 2023 19:36:00 +0100"
+            },
+            {
+                "title": "Microsoft Expands Entra Into Secure Service Edge",
+                "link": "https://www.darkreading.com/dr-tech/microsoft-expands-entra-into-secure-service-edge",
+                "updated": "Tue, 11 Jul 2023 18:05:00 +0100"
+            },
+            {
+                "title": "Bangladesh Government Website Leaks Personal Data",
+                "link": "https://www.darkreading.com/dr-global/bangladesh-government-website-leaks-personal-data",
+                "updated": "Tue, 11 Jul 2023 17:52:00 +0100"
+            },
+            {
+                "title": "Cyberattacks Are a War We'll Never Win, but We Can Defend Ourselves",
+                "link": "https://www.darkreading.com/attacks-breaches/cyberattacks-are-a-war-we-ll-never-win-but-we-can-defend-ourselves",
+                "updated": "Tue, 11 Jul 2023 17:00:00 +0100"
+            },
+            {
+                "title": "Apple's Rapid Zero-Day Patch Causes Safari Issues, Users Say",
+                "link": "https://www.darkreading.com/endpoint/apple-rapid-zero-day-patch-causes-safari-issues",
+                "updated": "Tue, 11 Jul 2023 16:30:20 +0100"
+            },
+            {
+                "title": "Critical VMware Bug Exploit Code Released Into the Wild",
+                "link": "https://www.darkreading.com/cloud/critical-vmware-bug-exploit-code-released",
+                "updated": "Tue, 11 Jul 2023 15:06:00 +0100"
+            },
+            {
+                "title": "RomCom Spies Target NATO Summit Ahead of Zelensky\u2019s Arrival",
+                "link": "https://www.darkreading.com/endpoint/romcom-spies-nato-summit-zelensky-arrival",
+                "updated": "Tue, 11 Jul 2023 14:05:00 +0100"
+            },
+            {
+                "title": "Top Takeaways From Table Talks With Fortune 100 CISOs",
+                "link": "https://www.darkreading.com/attacks-breaches/top-takeaways-from-table-talks-fortune-100-cisos",
+                "updated": "Tue, 11 Jul 2023 14:00:00 +0100"
+            },
+            {
+                "title": "'ScarletEel' Hackers Worm Into AWS Cloud",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/scarleteel-hackers-worm-into-aws-cloud",
+                "updated": "Tue, 11 Jul 2023 10:00:00 +0100"
+            },
+            {
+                "title": "Analysts: Cybersecurity Funding Set for Rebound",
+                "link": "https://www.darkreading.com/operations/analysts-cybersecurity-funding-uptick-2h-2023",
+                "updated": "Mon, 10 Jul 2023 22:28:00 +0100"
+            },
+            {
+                "title": "NIST Launches Generative AI Working Group",
+                "link": "https://www.darkreading.com/dr-tech/nist-launches-generative-ai-working-group",
+                "updated": "Mon, 10 Jul 2023 21:45:00 +0100"
+            },
+            {
+                "title": "Honeywell to Acquire SCADAfence, Strengthening its Cybersecurity Software Portfolio",
+                "link": "https://www.darkreading.com/ics-ot/honeywell-to-acquire-scadafence-strengthening-its-cybersecurity-software-portfolio",
+                "updated": "Mon, 10 Jul 2023 20:41:00 +0100"
+            },
+            {
+                "title": "Guardz Identifies New 'ShadowVault' macOS Stealer Malware",
+                "link": "https://www.darkreading.com/endpoint/guardz-identifies-new-shadowvault-macos-stealer-malware",
+                "updated": "Mon, 10 Jul 2023 20:38:00 +0100"
+            },
+            {
+                "title": "Amazon Prime Day Draws Out Cyber Scammers",
+                "link": "https://www.darkreading.com/endpoint/amazon-prime-day-cyber-scammers",
+                "updated": "Mon, 10 Jul 2023 19:57:00 +0100"
+            },
+            {
+                "title": "10 Features an API Security Service Needs to Offer",
+                "link": "https://www.darkreading.com/edge/10-features-an-api-security-service-needs-to-offer",
+                "updated": "Mon, 10 Jul 2023 18:04:00 +0100"
+            },
+            {
+                "title": "APT35 Develops Mac Bespoke Malware",
+                "link": "https://www.darkreading.com/dr-global/apt35-mac-bespoke-malware",
+                "updated": "Mon, 10 Jul 2023 17:58:00 +0100"
+            },
+            {
+                "title": "Deepfake Quantum AI Investment Scam Pops Up on Facebook",
+                "link": "https://www.darkreading.com/endpoint/deepfake-quantum-ai-investment-facebook",
+                "updated": "Mon, 10 Jul 2023 16:43:00 +0100"
+            },
+            {
+                "title": "Banking Firms Under Attack by Sophisticated 'Toitoin' Campaign",
+                "link": "https://www.darkreading.com/remote-workforce/banking-firms-attack-toitoin-cyber-campaign",
+                "updated": "Mon, 10 Jul 2023 15:08:00 +0100"
+            },
+            {
+                "title": "Zero Trust Keeps Digital Attacks From Entering the Real World",
+                "link": "https://www.darkreading.com/ics-ot/zero-trust-keeps-digital-attacks-from-entering-the-real-world",
+                "updated": "Mon, 10 Jul 2023 14:00:00 +0100"
+            },
+            {
+                "title": "Why Hybrid Work Has Made Secure Access So Complicated",
+                "link": "https://www.darkreading.com/cloud/why-hybrid-work-has-made-secure-access-so-complicated",
+                "updated": "Mon, 10 Jul 2023 07:01:00 +0100"
+            },
+            {
+                "title": "How to Use Log Management to Retrace Your Digital Footsteps",
+                "link": "https://www.darkreading.com/cloud/use-log-management-retrace-your-digital-footsteps",
+                "updated": "Mon, 10 Jul 2023 04:01:00 +0100"
+            },
+            {
+                "title": "Exposure Management Looks to Attack Paths, Identity to Better Measure Risk",
+                "link": "https://www.darkreading.com/dr-tech/exposure-management-looks-to-attack-paths-identity-to-better-measure-risk",
+                "updated": "Fri, 07 Jul 2023 22:43:20 +0100"
+            },
+            {
+                "title": "How to Safely Architect AI in Your Cybersecurity Programs",
+                "link": "https://www.darkreading.com/edge/how-to-safely-architect-ai-in-your-cybersecurity-programs",
+                "updated": "Fri, 07 Jul 2023 21:38:00 +0100"
+            },
+            {
+                "title": "Global Hacking Competition Addresses Critical Increase in Cybersecurity Threats for Businesses",
+                "link": "https://www.darkreading.com/attacks-breaches/global-hacking-competition-addresses-critical-increase-in-cybersecurity-threats-for-businesses",
+                "updated": "Fri, 07 Jul 2023 21:36:00 +0100"
+            },
+            {
+                "title": "Meta's Rush to Topple Twitter Sets Up Looming Privacy Debate",
+                "link": "https://www.darkreading.com/endpoint/meta-rush-to-topple-twitter-sets-up-looming-privacy-debate",
+                "updated": "Fri, 07 Jul 2023 21:11:00 +0100"
+            },
+            {
+                "title": "CISA: Truebot Malware Variants Turn to Netwirx Auditor RCE Bug",
+                "link": "https://www.darkreading.com/threat-intelligence/truebot-malware-variants-abound-according-to-cisa-advisory",
+                "updated": "Fri, 07 Jul 2023 20:22:00 +0100"
+            },
+            {
+                "title": "Spyware Gamed 1.5M Users of Google Play Store",
+                "link": "https://www.darkreading.com/threat-intelligence/spyware-gamed-1-5m-users-of-google-play-store-",
+                "updated": "Fri, 07 Jul 2023 18:40:00 +0100"
+            },
+            {
+                "title": "MOVEit Transfer Faces Another Critical Data-Theft Bug",
+                "link": "https://www.darkreading.com/endpoint/moveit-transfer-another-critical-data-theft-bug",
+                "updated": "Fri, 07 Jul 2023 18:20:49 +0100"
+            },
+            {
+                "title": "Can Generative AI Be Trusted to Fix Your Code?",
+                "link": "https://www.darkreading.com/application-security/can-generative-ai-be-trusted-to-fix-your-code-",
+                "updated": "Fri, 07 Jul 2023 14:00:00 +0100"
+            },
+            {
+                "title": "Startup Spotlight: Endor Labs Focuses on Reachability",
+                "link": "https://www.darkreading.com/dr-tech/startup-spotlight-endor-labs-focuses-on-reachability",
+                "updated": "Fri, 07 Jul 2023 04:37:00 +0100"
+            },
+            {
+                "title": "Black Hat Announces Maria Markstedter, Jen Easterly, Viktor Zhora, and Kemba Walden As Keynote Speakers for Black Hat USA 2023",
+                "link": "https://www.darkreading.com/endpoint/black-hat-announces-maria-markstedter-jen-easterly-viktor-zhora-and-kemba-walden-as-keynote-speakers-for-black-hat-usa-2023",
+                "updated": "Thu, 06 Jul 2023 21:33:00 +0100"
+            },
+            {
+                "title": "StackRot Linux Kernel Bug Has Exploit Code on the Way",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/stackrot-linux-kernel-bug-exploit-code",
+                "updated": "Thu, 06 Jul 2023 21:27:00 +0100"
+            },
+            {
+                "title": "Patchless Cisco Flaw Breaks Cloud Encryption for ACI Traffic",
+                "link": "https://www.darkreading.com/perimeter/patchless-cisco-flaw-cloud-encryption-aci-traffic",
+                "updated": "Thu, 06 Jul 2023 20:03:00 +0100"
+            },
+            {
+                "title": "Shell Becomes Latest Cl0p MOVEit Victim",
+                "link": "https://www.darkreading.com/attacks-breaches/shell-latest-cl0p-moveit-victim",
+                "updated": "Thu, 06 Jul 2023 18:43:00 +0100"
+            },
+            {
+                "title": "Privacy Woes Hold Up Global Instagram Threads Launch",
+                "link": "https://www.darkreading.com/endpoint/privacy-woes-hold-up-global-instagram-threads-launch",
+                "updated": "Thu, 06 Jul 2023 17:25:44 +0100"
+            },
+            {
+                "title": "Cybersecurity's Future Hinges on Stronger Public-Private Partnerships",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-future-hinges-stronger-public-private-partnerships",
+                "updated": "Thu, 06 Jul 2023 17:00:00 +0100"
+            },
+            {
+                "title": "Google Searches for 'USPS Package Tracking' Lead to Banking Theft",
+                "link": "https://www.darkreading.com/endpoint/google-searches-usps-tracking-banking-theft",
+                "updated": "Thu, 06 Jul 2023 15:11:35 +0100"
+            },
+            {
+                "title": "CISOs Find 'Business as Usual' Shows the Harsh Realities of Cyber-Risk",
+                "link": "https://www.darkreading.com/risk/cisos-find-business-as-usual-shows-the-harsh-realities-of-cyber-risk",
+                "updated": "Thu, 06 Jul 2023 14:00:00 +0100"
+            },
+            {
+                "title": "Botnets Send Exploits Within Days to Weeks After Published PoC",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/botnets-send-exploits-only-day-to-weeks-after-published-poc",
+                "updated": "Thu, 06 Jul 2023 13:45:00 +0100"
+            },
+            {
+                "title": "6 Steps To Outsmart Business Email Compromise Scammers",
+                "link": "https://www.darkreading.com/microsoft/6-steps-to-outsmarting-business-email-compromise-scammers",
+                "updated": "Thu, 06 Jul 2023 13:00:00 +0100"
+            },
+            {
+                "title": "Startup Spotlight: Gomboc.ai Balances Cloud Infrastructure Security",
+                "link": "https://www.darkreading.com/dr-tech/startup-spotlight-gomboc-ai-balances-cloud-infrastructure-security",
+                "updated": "Thu, 06 Jul 2023 03:46:00 +0100"
+            },
+            {
+                "title": "3 Critical RCE Bugs Threaten Industrial Solar Panels, Endangering Grid Systems",
+                "link": "https://www.darkreading.com/ics-ot/3-critical-rce-bugs-threaten-industrial-solar-panels",
+                "updated": "Thu, 06 Jul 2023 01:00:00 +0100"
+            },
+            {
+                "title": "Mitigating Risk With Threat Intelligence",
+                "link": "https://www.darkreading.com/edge/mitigating-risk-with-threat-intelligence",
+                "updated": "Thu, 06 Jul 2023 00:10:00 +0100"
+            },
+            {
+                "title": "83% of Brits Demand Messaging Apps Remain Private, Ahead of Threat From Online Safety Bill",
+                "link": "https://www.darkreading.com/iot/83-of-brits-demand-messaging-apps-remain-private-ahead-of-threat-from-online-safety-bill",
+                "updated": "Wed, 05 Jul 2023 21:12:00 +0100"
+            },
+            {
+                "title": "Microsoft Teams Exploit Tool Auto-Delivers Malware",
+                "link": "https://www.darkreading.com/perimeter/microsoft-teams-exploit-toll-autodeliver-malware",
+                "updated": "Wed, 05 Jul 2023 21:09:00 +0100"
+            },
+            {
+                "title": "OPERA1ER Cybercrime Group's Leader Arrested by Interpol",
+                "link": "https://www.darkreading.com/dr-global/opera1er-cybercrime-leader-arrested-interpol",
+                "updated": "Wed, 05 Jul 2023 19:09:00 +0100"
+            },
+            {
+                "title": "Ransomware Halts Operations at Japan's Port of Nagoya",
+                "link": "https://www.darkreading.com/attacks-breaches/ransomware-halts-operations-at-japan-port-of-nagoya",
+                "updated": "Wed, 05 Jul 2023 17:50:00 +0100"
+            },
+            {
+                "title": "A Golden Age of AI \u2026 or Security Threats?",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/a-golden-age-of-ai-or-security-threats-",
+                "updated": "Wed, 05 Jul 2023 17:00:00 +0100"
+            },
+            {
+                "title": "Cl0p's MOVEit Campaign Represents a New Era in Cyberattacks",
+                "link": "https://www.darkreading.com/attacks-breaches/c10p-moveit-campaign-new-era-cyberattacks",
+                "updated": "Wed, 05 Jul 2023 16:46:00 +0100"
+            },
+            {
+                "title": "China's Mustang Panda Linked to SmugX Attacks on European Governments",
+                "link": "https://www.darkreading.com/endpoint/group-tied-to-china-s-mustang-panda-targets-european-governments-with-smugx",
+                "updated": "Wed, 05 Jul 2023 15:47:00 +0100"
+            },
+            {
+                "title": "Microsoft Can Fix Ransomware Tomorrow",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-can-fix-ransomware-tomorrow",
+                "updated": "Wed, 05 Jul 2023 14:00:00 +0100"
+            },
+            {
+                "title": "Fortanix Builds Hardware Security Wall Around Plaintext Search",
+                "link": "https://www.darkreading.com/dr-tech/fortanix-builds-hardware-security-wall-around-plaintext-search",
+                "updated": "Tue, 04 Jul 2023 01:24:00 +0100"
+            },
+            {
+                "title": "Researchers Develop Exploit Code for Critical Fortinet VPN Bug",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/researchers-develop-exploit-code-for-critical-fortinet-bug",
+                "updated": "Mon, 03 Jul 2023 20:00:00 +0100"
+            },
+            {
+                "title": "Russian Satellite Internet Downed via Attackers Claiming Ties to Wagner Group",
+                "link": "https://www.darkreading.com/attacks-breaches/hackers-claiming-wagner-group-ties-down-russian-satellite-internet-comms-",
+                "updated": "Mon, 03 Jul 2023 18:03:00 +0100"
+            },
+            {
+                "title": "Israel Aided UAE in Defending Against DDoS Attack",
+                "link": "https://www.darkreading.com/dr-global/israel-aided-uae-in-defending-against-ddos-attack",
+                "updated": "Mon, 03 Jul 2023 17:40:00 +0100"
+            },
+            {
+                "title": "SSH Servers Hit in 'Proxyjacking' Cyberattacks",
+                "link": "https://www.darkreading.com/risk/ssh-servers-hit-in-proxyjacking-cyberattacks",
+                "updated": "Mon, 03 Jul 2023 14:40:00 +0100"
+            },
+            {
+                "title": "A CISO's Guide to Paying Down Software Supply Chain Security Debt",
+                "link": "https://www.darkreading.com/vulnerabilities-threats/ciso-guide-paying-down-software-supply-chain-security-debt",
+                "updated": "Mon, 03 Jul 2023 14:00:00 +0100"
+            },
+            {
+                "title": "Name That Edge Toon: Three-Ring Circus",
+                "link": "https://www.darkreading.com/edge-articles/name-that-edge-toon-three-ring-circus",
+                "updated": "Mon, 03 Jul 2023 14:00:00 +0100"
+            },
+            {
+                "title": "Architecting XDR to Save Money and Your SOC's Sanity",
+                "link": "https://www.darkreading.com/operations/architecting-xdr-save-money-and-your-soc-sanity",
+                "updated": "Mon, 03 Jul 2023 04:01:00 +0100"
+            },
+            {
+                "title": "Chip Giant TSMC Blames $70M LockBit Breach on IT Hardware Supplier",
+                "link": "https://www.darkreading.com/attacks-breaches/chip-giant-tsmc-blames-lockbit-breach-it-hardware-supplier",
+                "updated": "Fri, 30 Jun 2023 19:50:16 +0100"
+            },
+            {
+                "title": "Mobile Cyberattacks Soar, Especially Against Android Users",
+                "link": "https://www.darkreading.com/endpoint/mobile-cyberattacks-soar-andoird-users",
+                "updated": "Fri, 30 Jun 2023 19:25:00 +0100"
+            },
+            {
+                "title": "Nokod Raises $8M Seed Round From Seasoned Cybersecurity Investors to Enhance Low-Code/No-Code App Security",
+                "link": "https://www.darkreading.com/application-security/nokod-raises-8m-seed-round-from-seasoned-cybersecurity-investors-to-enhance-low-code-no-code-app-security",
+                "updated": "Fri, 30 Jun 2023 18:17:00 +0100"
+            },
+            {
+                "title": "Iran-Linked APT35 Targets Israeli Media With Upgraded Spear-Phishing Tools",
+                "link": "https://www.darkreading.com/dr-global/iran-linked-apt35-israeli-media-upgraded-spear-phishing",
+                "updated": "Fri, 30 Jun 2023 17:53:00 +0100"
+            },
+            {
+                "title": "African Nations Face Escalating Phishing & Compromised Password Cyberattacks",
+                "link": "https://www.darkreading.com/dr-global/african-nations-escalating-phishing-compromised-password-cyberattacks",
+                "updated": "Fri, 30 Jun 2023 17:12:03 +0100"
+            },
+            {
+                "title": "Russian Hacktivist Platform 'DDoSia' Grows Exponentially",
+                "link": "https://www.darkreading.com/threat-intelligence/russian-hacktivist-platform-ddosia-grows-exponentially",
+                "updated": "Fri, 30 Jun 2023 17:02:17 +0100"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "The Hacker News",
+            "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals \u2014 Send TIPs to admin@thehackernews.com",
+            "published-date": "Fri, 14 Jul 2023 15:42:15 +0530"
+        },
+        "entries": [
+            {
+                "title": "Defend Against Insider Threats: Join this Webinar on SaaS Security Posture Management",
+                "link": "https://thehackernews.com/2023/07/defend-against-insider-threats-join.html",
+                "updated": "Fri, 14 Jul 2023 11:08:00 +0100"
+            },
+            {
+                "title": "AIOS WordPress Plugin Faces Backlash for Storing User Passwords in Plain Text",
+                "link": "https://thehackernews.com/2023/07/aios-wordpress-plugin-faces-backlash.html",
+                "updated": "Fri, 14 Jul 2023 11:07:00 +0100"
+            },
+            {
+                "title": "TeamTNT's Cloud Credential Stealing Campaign Now Targets Azure and Google Cloud",
+                "link": "https://thehackernews.com/2023/07/teamtnts-cloud-credential-stealing.html",
+                "updated": "Fri, 14 Jul 2023 10:12:00 +0100"
+            },
+            {
+                "title": "New SOHO Router Botnet AVrecon Spreads to 70,000 Devices Across 20 Countries",
+                "link": "https://thehackernews.com/2023/07/new-soho-router-botnet-avrecon-spreads.html",
+                "updated": "Fri, 14 Jul 2023 07:40:00 +0100"
+            },
+            {
+                "title": "Zimbra Warns of Critical Zero-Day Flaw in Email Software Amid Active Exploitation",
+                "link": "https://thehackernews.com/2023/07/zimbra-warns-of-critical-zero-day-flaw.html",
+                "updated": "Fri, 14 Jul 2023 07:05:00 +0100"
+            },
+            {
+                "title": "PicassoLoader Malware Used in Ongoing Attacks on Ukraine and Poland",
+                "link": "https://thehackernews.com/2023/07/picassoloader-malware-used-in-ongoing.html",
+                "updated": "Thu, 13 Jul 2023 16:07:00 +0100"
+            },
+            {
+                "title": "TeamTNT's Silentbob Botnet Infecting 196 Hosts in Cloud Attack Campaign",
+                "link": "https://thehackernews.com/2023/07/teamtnts-silentbob-botnet-infecting-196.html",
+                "updated": "Thu, 13 Jul 2023 15:55:00 +0100"
+            },
+            {
+                "title": "Fake PoC for Linux Kernel Vulnerability on GitHub Exposes Researchers to Malware",
+                "link": "https://thehackernews.com/2023/07/blog-post.html",
+                "updated": "Thu, 13 Jul 2023 12:56:00 +0100"
+            },
+            {
+                "title": "Rockwell Automation ControlLogix Bugs Expose Industrial Systems to Remote Attacks",
+                "link": "https://thehackernews.com/2023/07/rockwell-automation-controllogix-bugs.html",
+                "updated": "Thu, 13 Jul 2023 09:00:00 +0100"
+            },
+            {
+                "title": "U.S. Government Agencies' Emails Compromised in China-Backed Cyber Attack",
+                "link": "https://thehackernews.com/2023/07/us-government-agencies-emails.html",
+                "updated": "Thu, 13 Jul 2023 06:14:00 +0100"
+            },
+            {
+                "title": "New Vulnerabilities Disclosed in SonicWall and Fortinet Network Security Products",
+                "link": "https://thehackernews.com/2023/07/new-vulnerabilities-disclosed-in.html",
+                "updated": "Thu, 13 Jul 2023 05:16:00 +0100"
+            },
+            {
+                "title": "Ransomware Extortion Skyrockets in 2023, Reaching $449.1 Million and Counting",
+                "link": "https://thehackernews.com/2023/07/ransomware-extortion-skyrockets-in-2023.html",
+                "updated": "Wed, 12 Jul 2023 13:09:00 +0100"
+            },
+            {
+                "title": "The Risks and Preventions of AI in Business: Safeguarding Against Potential Pitfalls",
+                "link": "https://thehackernews.com/2023/07/the-risks-and-preventions-of-ai-in.html",
+                "updated": "Wed, 12 Jul 2023 11:04:00 +0100"
+            },
+            {
+                "title": "Microsoft Thwarts Chinese Cyber Attack Targeting Western European Governments",
+                "link": "https://thehackernews.com/2023/07/microsoft-thwarts-chinese-cyber-attack.html",
+                "updated": "Wed, 12 Jul 2023 10:45:00 +0100"
+            },
+            {
+                "title": "Chinese Hackers Deploy Microsoft-Signed Rootkit to Target Gaming Sector",
+                "link": "https://thehackernews.com/2023/07/chinese-hackers-deploy-microsoft-signed.html",
+                "updated": "Wed, 12 Jul 2023 10:26:00 +0100"
+            },
+            {
+                "title": "Python-Based PyLoose Fileless Attack Targets Cloud Workloads for Cryptocurrency Mining",
+                "link": "https://thehackernews.com/2023/07/python-based-pyloose-fileless-attack.html",
+                "updated": "Wed, 12 Jul 2023 07:39:00 +0100"
+            },
+            {
+                "title": "Microsoft Releases Patches for 132 Vulnerabilities, Including 6 Under Active Attack",
+                "link": "https://thehackernews.com/2023/07/microsoft-releases-patches-for-130.html",
+                "updated": "Wed, 12 Jul 2023 05:34:00 +0100"
+            },
+            {
+                "title": "Hackers Exploit Windows Policy Loophole to Forge Kernel-Mode Driver Signatures",
+                "link": "https://thehackernews.com/2023/07/hackers-exploit-windows-policy-loophole.html",
+                "updated": "Tue, 11 Jul 2023 16:59:00 +0100"
+            },
+            {
+                "title": "How to Apply MITRE ATT&CK to Your Organization",
+                "link": "https://thehackernews.com/2023/07/how-to-apply-mitre-att-to-your.html",
+                "updated": "Tue, 11 Jul 2023 11:15:00 +0100"
+            },
+            {
+                "title": "SCARLETEEL Cryptojacking Campaign Exploiting AWS Fargate in Ongoing Campaign",
+                "link": "https://thehackernews.com/2023/07/scarleteel-cryptojacking-campaign.html",
+                "updated": "Tue, 11 Jul 2023 09:58:00 +0100"
+            },
+            {
+                "title": "Beware of Big Head Ransomware: Spreading Through Fake Windows Updates",
+                "link": "https://thehackernews.com/2023/07/beware-of-big-head-ransomware-spreading.html",
+                "updated": "Tue, 11 Jul 2023 08:45:00 +0100"
+            },
+            {
+                "title": "Apple Issues Urgent Patch for Zero-Day Flaw Targeting iOS, iPadOS, macOS, and Safari",
+                "link": "https://thehackernews.com/2023/07/apple-issues-urgent-patch-for-zero-day.html",
+                "updated": "Tue, 11 Jul 2023 04:08:00 +0100"
+            },
+            {
+                "title": "New Mozilla Feature Blocks Risky Add-Ons on Specific Websites to Safeguard User Security",
+                "link": "https://thehackernews.com/2023/07/new-mozilla-feature-blocks-risky-add.html",
+                "updated": "Mon, 10 Jul 2023 12:57:00 +0100"
+            },
+            {
+                "title": "New TOITOIN Banking Trojan Targeting Latin American Businesses",
+                "link": "https://thehackernews.com/2023/07/new-toitoin-banking-trojan-targeting.html",
+                "updated": "Mon, 10 Jul 2023 12:22:00 +0100"
+            },
+            {
+                "title": "Global Retailers Must Keep an Eye on Their SaaS Stack",
+                "link": "https://thehackernews.com/2023/07/global-retailers-must-keep-eye-on-their.html",
+                "updated": "Mon, 10 Jul 2023 11:35:00 +0100"
+            },
+            {
+                "title": "RomCom RAT Targeting NATO and Ukraine Support Groups",
+                "link": "https://thehackernews.com/2023/07/romcom-rat-targeting-nato-and-ukraine.html",
+                "updated": "Mon, 10 Jul 2023 06:42:00 +0100"
+            },
+            {
+                "title": "Revolut Faces $20 Million Loss as Attackers Exploit Payment System Weakness",
+                "link": "https://thehackernews.com/2023/07/hackers-steal-20-million-by-exploiting.html",
+                "updated": "Mon, 10 Jul 2023 05:20:00 +0100"
+            },
+            {
+                "title": "Two Spyware Apps on Google Play with 1.5 Million Users Sending Data to China",
+                "link": "https://thehackernews.com/2023/07/two-spyware-apps-on-google-play-with-15.html",
+                "updated": "Sat, 08 Jul 2023 07:45:00 +0100"
+            },
+            {
+                "title": "Improve Your Security WordPress Spam Protection With CleanTalk Anti-Spam",
+                "link": "https://thehackernews.com/2023/07/improve-your-security-wordpress-spam.html",
+                "updated": "Sat, 08 Jul 2023 06:14:00 +0100"
+            },
+            {
+                "title": "Vishing Goes High-Tech: New 'Letscall' Malware Employs Voice Traffic Routing",
+                "link": "https://thehackernews.com/2023/07/vishing-goes-high-tech-new-letscall.html",
+                "updated": "Fri, 07 Jul 2023 18:12:00 +0100"
+            },
+            {
+                "title": "Another Critical Unauthenticated SQLi Flaw Discovered in MOVEit Transfer Software",
+                "link": "https://thehackernews.com/2023/07/another-critical-unauthenticated-sqli.html",
+                "updated": "Fri, 07 Jul 2023 14:01:00 +0100"
+            },
+            {
+                "title": "Mastodon Social Network Patches Critical Flaws Allowing Server Takeover",
+                "link": "https://thehackernews.com/2023/07/mastodon-social-network-patches.html",
+                "updated": "Fri, 07 Jul 2023 12:55:00 +0100"
+            },
+            {
+                "title": "Close Security Gaps with Continuous Threat Exposure Management",
+                "link": "https://thehackernews.com/2023/07/close-security-gaps-with-continuous.html",
+                "updated": "Fri, 07 Jul 2023 10:37:00 +0100"
+            },
+            {
+                "title": "BlackByte 2.0 Ransomware: Infiltrate, Encrypt, and Extort in Just 5 Days",
+                "link": "https://thehackernews.com/2023/07/blackbyte-20-ransomware-infiltrate.html",
+                "updated": "Fri, 07 Jul 2023 10:20:00 +0100"
+            },
+            {
+                "title": "Google Releases Android Patch Update for 3 Actively Exploited Vulnerabilities",
+                "link": "https://thehackernews.com/2023/07/google-releases-android-patch-update.html",
+                "updated": "Fri, 07 Jul 2023 07:24:00 +0100"
+            },
+            {
+                "title": "JumpCloud Resets API Keys Amid Ongoing Cybersecurity Incident",
+                "link": "https://thehackernews.com/2023/07/jumpcloud-resets-api-keys-amid-ongoing.html",
+                "updated": "Fri, 07 Jul 2023 06:17:00 +0100"
+            },
+            {
+                "title": "Cybersecurity Agencies Sound Alarm on Rising TrueBot Malware Attacks",
+                "link": "https://thehackernews.com/2023/07/cybersecurity-agencies-sound-alarm-on.html",
+                "updated": "Fri, 07 Jul 2023 05:12:00 +0100"
+            },
+            {
+                "title": "Iranian Hackers' Sophisticated Malware Targets Windows and macOS Users",
+                "link": "https://thehackernews.com/2023/07/iranian-hackers-sophisticated-malware.html",
+                "updated": "Thu, 06 Jul 2023 18:06:00 +0100"
+            },
+            {
+                "title": "Surviving the 800 Gbps Storm: Gain Insights from Gcore's 2023 DDoS Attack Statistics",
+                "link": "https://thehackernews.com/2023/07/surviving-800-gbps-storm-gain-insights.html",
+                "updated": "Thu, 06 Jul 2023 11:22:00 +0100"
+            },
+            {
+                "title": "Researchers Uncover New Linux Kernel 'StackRot' Privilege Escalation Vulnerability",
+                "link": "https://thehackernews.com/2023/07/researchers-uncover-new-linux-kernel.html",
+                "updated": "Thu, 06 Jul 2023 10:55:00 +0100"
+            },
+            {
+                "title": "How Pen Testing can Soften the Blow on Rising Costs of Cyber Insurance",
+                "link": "https://thehackernews.com/2023/07/how-pen-testing-can-soften-blow-on.html",
+                "updated": "Thu, 06 Jul 2023 10:47:00 +0100"
+            },
+            {
+                "title": "Silentbob Campaign: Cloud-Native Environments Under Attack",
+                "link": "https://thehackernews.com/2023/07/silentbob-campaign-cloud-native.html",
+                "updated": "Thu, 06 Jul 2023 10:38:00 +0100"
+            },
+            {
+                "title": "INTERPOL Nabs Hacking Crew OPERA1ER's Leader Behind $11 Million Cybercrime",
+                "link": "https://thehackernews.com/2023/07/interpol-nabs-hacking-crew-opera1ers.html",
+                "updated": "Thu, 06 Jul 2023 08:52:00 +0100"
+            },
+            {
+                "title": "RedEnergy Stealer-as-a-Ransomware Threat Targeting Energy and Telecom Sectors",
+                "link": "https://thehackernews.com/2023/07/redenergy-stealer-as-ransomware-threat.html",
+                "updated": "Wed, 05 Jul 2023 14:10:00 +0100"
+            },
+            {
+                "title": "Secrets, Secrets Are No Fun. Secrets, Secrets (Stored in Plain Text Files) Hurt Someone",
+                "link": "https://thehackernews.com/2023/07/secrets-secrets-are-no-fun-secrets.html",
+                "updated": "Wed, 05 Jul 2023 10:46:00 +0100"
+            },
+            {
+                "title": "Node.js Users Beware: Manifest Confusion Attack Opens Door to Malware",
+                "link": "https://thehackernews.com/2023/07/nodejs-users-beware-manifest-confusion.html",
+                "updated": "Wed, 05 Jul 2023 09:00:00 +0100"
+            },
+            {
+                "title": "Instagram's Twitter Alternative 'Threads' Launch Halted in Europe Over Privacy Concerns",
+                "link": "https://thehackernews.com/2023/07/instagrams-twitter-alternative-threads.html",
+                "updated": "Wed, 05 Jul 2023 08:38:00 +0100"
+            },
+            {
+                "title": "Swedish Data Protection Authority Warns Companies Against Google Analytics Use",
+                "link": "https://thehackernews.com/2023/07/swedish-data-protection-authority-warns.html",
+                "updated": "Tue, 04 Jul 2023 17:58:00 +0100"
+            },
+            {
+                "title": "DDoSia Attack Tool Evolves with Encryption, Targeting Multiple Sectors",
+                "link": "https://thehackernews.com/2023/07/ddosia-attack-tool-evolves-with.html",
+                "updated": "Tue, 04 Jul 2023 10:44:00 +0100"
+            },
+            {
+                "title": "Mexico-Based Hacker Targets Global Banks with Android Malware",
+                "link": "https://thehackernews.com/2023/07/mexico-based-hacker-targets-global.html",
+                "updated": "Tue, 04 Jul 2023 09:58:00 +0100"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "Malware News \u2248 Packet Storm",
+            "description": "Packet Storm - Information Security Services, News, Files, Tools, Exploits, Advisories and Whitepapers",
+            "published-date": "Fri, 14 Jul 2023 11:41:49 GMT"
+        },
+        "entries": [
+            {
+                "title": "Windows Loophole Exploited To Give Malware Kernel Access",
+                "link": "https://packetstormsecurity.com/news/view/34791/Windows-Loophole-Exploited-To-Give-Malware-Kernel-Access.html",
+                "updated": "Wed, 12 Jul 2023 16:22:04 +0100"
+            },
+            {
+                "title": "Clever Letscall Vishing Malware Targets Android Phones",
+                "link": "https://packetstormsecurity.com/news/view/34787/Clever-Letscall-Vishing-Malware-Targets-Android-Phones.html",
+                "updated": "Tue, 11 Jul 2023 14:39:42 +0100"
+            },
+            {
+                "title": "Big Head Malware Threat Looms, Warn Researchers",
+                "link": "https://packetstormsecurity.com/news/view/34784/Big-Head-Malware-Threat-Looms-Warn-Researchers.html",
+                "updated": "Mon, 10 Jul 2023 15:22:53 +0100"
+            },
+            {
+                "title": "Shell Confirms MOVEit-Related Breach After Ransomware Group Leaks Data",
+                "link": "https://packetstormsecurity.com/news/view/34781/Shell-Confirms-MOVEit-Related-Breach-After-Ransomware-Group-Leaks-Data.html",
+                "updated": "Fri, 07 Jul 2023 15:01:14 +0100"
+            },
+            {
+                "title": "Truebot RCE Attacks Exploit Critical Netwrix Auditor Bug",
+                "link": "https://packetstormsecurity.com/news/view/34780/Truebot-RCE-Attacks-Exploit-Critical-Netwrix-Auditor-Bug.html",
+                "updated": "Fri, 07 Jul 2023 15:01:11 +0100"
+            },
+            {
+                "title": "LockBit Louts Unload At Japan's Most Prolific Cargo Port",
+                "link": "https://packetstormsecurity.com/news/view/34776/LockBit-Louts-Unload-At-Japans-Most-Prolific-Cargo-Port.html",
+                "updated": "Fri, 07 Jul 2023 01:15:46 +0100"
+            },
+            {
+                "title": "Mexico-Based Hacker Targets Global Banks With Android Malware",
+                "link": "https://packetstormsecurity.com/news/view/34772/Mexico-Based-Hacker-Targets-Global-Banks-With-Android-Malware.html",
+                "updated": "Tue, 04 Jul 2023 13:23:46 +0100"
+            },
+            {
+                "title": "Novel PlugX Malware Attacks Target European Diplomats",
+                "link": "https://packetstormsecurity.com/news/view/34771/Novel-PlugX-Malware-Attacks-Target-European-Diplomats.html",
+                "updated": "Tue, 04 Jul 2023 13:23:42 +0100"
+            },
+            {
+                "title": "Log4j Bug Exploited To Push Novel EarlyRat Malware",
+                "link": "https://packetstormsecurity.com/news/view/34765/Log4j-Bug-Exploited-To-Push-Novel-EarlyRat-Malware.html",
+                "updated": "Fri, 30 Jun 2023 14:08:02 +0100"
+            },
+            {
+                "title": "MOVEit Hackers Find Simpler Business Model Than Ransomware",
+                "link": "https://packetstormsecurity.com/news/view/34763/MOVEit-Hackers-Find-Simpler-Business-Model-Than-Ransomware.html",
+                "updated": "Fri, 30 Jun 2023 14:07:55 +0100"
+            },
+            {
+                "title": "Prominent Cryptocurrency Exchange Infected With Previously Unseen Mac Malware",
+                "link": "https://packetstormsecurity.com/news/view/34757/Prominent-Cryptocurrency-Exchange-Infected-With-Previously-Unseen-Mac-Malware.html",
+                "updated": "Tue, 27 Jun 2023 15:37:28 +0100"
+            },
+            {
+                "title": "Siemens Energy, UCLA Latest Confirmed Victims In MOVEit Hack",
+                "link": "https://packetstormsecurity.com/news/view/34756/Siemens-Energy-UCLA-Latest-Confirmed-Victims-In-MOVEit-Hack.html",
+                "updated": "Tue, 27 Jun 2023 15:37:25 +0100"
+            },
+            {
+                "title": "GCHQ Warns Ransomware Crews Are Targeting Law Firms",
+                "link": "https://packetstormsecurity.com/news/view/34750/GCHQ-Warns-Ransomware-Crews-Are-Targeting-Law-Firms.html",
+                "updated": "Fri, 23 Jun 2023 14:29:20 +0100"
+            },
+            {
+                "title": "JavaScript Dropper Delivers Bumblebee And IcedID Malware",
+                "link": "https://packetstormsecurity.com/news/view/34748/JavaScript-Dropper-Delivers-Bumblebee-And-IcedID-Malware.html",
+                "updated": "Fri, 23 Jun 2023 14:29:13 +0100"
+            },
+            {
+                "title": "Microsoft's Bootkit Patches Offer False Sense Of Security Against BlackLotus Threat, NSA Says",
+                "link": "https://packetstormsecurity.com/news/view/34747/Microsofts-Bootkit-Patches-Offer-False-Sense-Of-Security-Against-BlackLotus-Threat-NSA-Says.html",
+                "updated": "Fri, 23 Jun 2023 14:29:05 +0100"
+            },
+            {
+                "title": "North Korean APT Targets Defectors, Activists With Infostealer Malware",
+                "link": "https://packetstormsecurity.com/news/view/34745/North-Korean-APT-Targets-Defectors-Activists-With-Infostealer-Malware.html",
+                "updated": "Thu, 22 Jun 2023 12:46:36 +0100"
+            },
+            {
+                "title": "Apple Squashes Kernel Bug Used By TriangleDB Spyware",
+                "link": "https://packetstormsecurity.com/news/view/34743/Apple-Squashes-Kernel-Bug-Used-By-TriangleDB-Spyware.html",
+                "updated": "Thu, 22 Jun 2023 12:46:27 +0100"
+            },
+            {
+                "title": "MOVEit Customers Urged To Patch Third Critical Vulnerability",
+                "link": "https://packetstormsecurity.com/news/view/34731/MOVEit-Customers-Urged-To-Patch-Third-Critical-Vulnerability.html",
+                "updated": "Mon, 19 Jun 2023 14:58:27 +0100"
+            },
+            {
+                "title": "Hacker Gang Clop Publishes Victim Names On Dark Web",
+                "link": "https://packetstormsecurity.com/news/view/34727/Hacker-Gang-Clop-Publishes-Victim-Names-On-Dark-Web.html",
+                "updated": "Fri, 16 Jun 2023 15:33:52 +0100"
+            },
+            {
+                "title": "Feds Arrest, Charge Russian National In Arizona For LockBit Attacks",
+                "link": "https://packetstormsecurity.com/news/view/34726/Feds-Arrest-Charge-Russian-National-In-Arizona-For-LockBit-Attacks.html",
+                "updated": "Fri, 16 Jun 2023 15:33:48 +0100"
+            },
+            {
+                "title": "US Government Agencies Hit In Global Cyber Attack",
+                "link": "https://packetstormsecurity.com/news/view/34725/US-Government-Agencies-Hit-In-Global-Cyber-Attack.html",
+                "updated": "Thu, 15 Jun 2023 18:36:29 +0100"
+            },
+            {
+                "title": "Russia Hackers Unleash New USB-Based Malware On Ukraine's Military",
+                "link": "https://packetstormsecurity.com/news/view/34721/Russia-Hackers-Unleash-New-USB-Based-Malware-On-Ukraines-Military.html",
+                "updated": "Thu, 15 Jun 2023 15:29:06 +0100"
+            },
+            {
+                "title": "LockBit Victims In The US Alone Paid Over $90m In Ransoms Since 2020",
+                "link": "https://packetstormsecurity.com/news/view/34720/LockBit-Victims-In-The-US-Alone-Paid-Over-90m-In-Ransoms-Since-2020.html",
+                "updated": "Thu, 15 Jun 2023 15:28:58 +0100"
+            },
+            {
+                "title": "Ransomware Gang Clop Prepped Zero Day MOVEit Attacks In 2021",
+                "link": "https://packetstormsecurity.com/news/view/34710/Ransomware-Gang-Clop-Prepped-Zero-Day-MOVEit-Attacks-In-2021.html",
+                "updated": "Fri, 09 Jun 2023 14:44:57 +0100"
+            },
+            {
+                "title": "Dozens Of Popular Minecraft Mods Found Infected With Fracturiser Malware",
+                "link": "https://packetstormsecurity.com/news/view/34706/Dozens-Of-Popular-Minecraft-Mods-Found-Infected-With-Fracturiser-Malware.html",
+                "updated": "Thu, 08 Jun 2023 14:07:37 +0100"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "All the news",
+            "description": "Doctor Web news - All the news",
+            "published-date": "Feed published-date not available"
+        },
+        "entries": [
+            {
+                "title": "Full support period extended for Dr.Web products",
+                "link": "https://news.drweb.com/show/?i=14721&lng=en&c=5",
+                "updated": "Mon, 03 Jul 2023 01:00:00 +0100"
+            },
+            {
+                "title": "Doctor Web\u2019s May 2023 review of virus activity on mobile devices",
+                "link": "https://news.drweb.com/show/?i=14718&lng=en&c=5",
+                "updated": "Wed, 28 Jun 2023 12:03:33 +0100"
+            },
+            {
+                "title": "Doctor Web\u2019s May 2023 virus activity review",
+                "link": "https://news.drweb.com/show/?i=14719&lng=en&c=5",
+                "updated": "Wed, 28 Jun 2023 11:33:45 +0100"
+            },
+            {
+                "title": "Doctor Web\u2019s interactive sandbox Dr.Web vxCube to be updated on June 28",
+                "link": "https://news.drweb.com/show/?i=14720&lng=en&c=5",
+                "updated": "Tue, 27 Jun 2023 15:47:57 +0100"
+            },
+            {
+                "title": "Enhance your UTM and NGFW solutions with the Dr.Web anti-virus engine",
+                "link": "https://news.drweb.com/show/?i=14713&lng=en&c=5",
+                "updated": "Mon, 26 Jun 2023 01:00:00 +0100"
+            },
+            {
+                "title": "Check how well protected you are: Doctor Web launches its Dr.Web FixIt! cloud service",
+                "link": "https://news.drweb.com/show/?i=14533&lng=en&c=5",
+                "updated": "Mon, 19 Jun 2023 04:00:00 +0100"
+            },
+            {
+                "title": "Doctor Web\u2019s April 2023 virus activity review",
+                "link": "https://news.drweb.com/show/?i=14709&lng=en&c=5",
+                "updated": "Wed, 14 Jun 2023 04:00:00 +0100"
+            },
+            {
+                "title": "Doctor Web\u2019s April 2023 review of virus activity on mobile devices",
+                "link": "https://news.drweb.com/show/?i=14708&lng=en&c=5",
+                "updated": "Wed, 14 Jun 2023 04:00:00 +0100"
+            },
+            {
+                "title": "Doctor Web identifies pirated Windows builds with crypto stealer that penetrates EFI partition",
+                "link": "https://news.drweb.com/show/?i=14712&lng=en&c=5",
+                "updated": "Tue, 13 Jun 2023 16:11:42 +0100"
+            },
+            {
+                "title": "An anti-bootkit module, new behaviour analysis routines and upgrades galore in updated Dr.Web 12.0 for Windows and Dr.Web 12.0 for Windows Server",
+                "link": "https://news.drweb.com/show/?i=14707&lng=en&c=5",
+                "updated": "Mon, 05 Jun 2023 11:38:33 +0100"
+            },
+            {
+                "title": "Doctor Web takes corporate anti-virus security to a whole new level",
+                "link": "https://news.drweb.com/show/?i=14704&lng=en&c=5",
+                "updated": "Tue, 30 May 2023 02:00:00 +0100"
+            },
+            {
+                "title": "Android apps containing SpinOk module with spyware features installed over 421,000,000 times",
+                "link": "https://news.drweb.com/show/?i=14705&lng=en&c=5",
+                "updated": "Thu, 25 May 2023 07:00:00 +0100"
+            },
+            {
+                "title": "Doctor Web\u2019s March 2023 virus activity review",
+                "link": "https://news.drweb.com/show/?i=14694&lng=en&c=5",
+                "updated": "Wed, 17 May 2023 08:00:00 +0100"
+            },
+            {
+                "title": "Licenses sold by AvirKey.com blocked",
+                "link": "https://news.drweb.com/show/?i=14700&lng=en&c=5",
+                "updated": "Fri, 12 May 2023 15:33:08 +0100"
+            },
+            {
+                "title": "Dr.Web mobile app now supports Android 13!",
+                "link": "https://news.drweb.com/show/?i=14696&lng=en&c=5",
+                "updated": "Thu, 20 Apr 2023 09:33:01 +0100"
+            },
+            {
+                "title": "Doctor Web\u2019s March 2023 review of virus activity on mobile devices",
+                "link": "https://news.drweb.com/show/?i=14695&lng=en&c=5",
+                "updated": "Wed, 19 Apr 2023 03:00:00 +0100"
+            },
+            {
+                "title": "Attention, users of the subscription-based Dr.Web Anti-virus: On April 18, the ability to use the web SCC will be temporarily restricted",
+                "link": "https://news.drweb.com/show/?i=14692&lng=en&c=5",
+                "updated": "Fri, 14 Apr 2023 02:00:00 +0100"
+            },
+            {
+                "title": "Doctor Web\u2019s February 2023 review of virus activity on mobile devices",
+                "link": "https://news.drweb.com/show/?i=14687&lng=en&c=5",
+                "updated": "Thu, 06 Apr 2023 05:00:00 +0100"
+            },
+            {
+                "title": "Doctor Web\u2019s February 2023 virus activity review",
+                "link": "https://news.drweb.com/show/?i=14689&lng=en&c=5",
+                "updated": "Thu, 06 Apr 2023 13:09:12 +0100"
+            },
+            {
+                "title": "Doctor Web\u2019s annual virus activity review for 2022",
+                "link": "https://news.drweb.com/show/?i=14684&lng=en&c=5",
+                "updated": "Wed, 29 Mar 2023 07:00:00 +0100"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "Malware Patrol",
+            "description": "Intelligent Threat Data",
+            "published-date": "Tue, 11 Jul 2023 11:42:54 +0000"
+        },
+        "entries": [
+            {
+                "title": "InfoSec Articles (07/04/23 \u2013 07/11/23)",
+                "link": "https://www.malwarepatrol.net/infosec-articles-07-04-23-07-11-23/",
+                "updated": "Tue, 11 Jul 2023 11:42:54 +0100"
+            },
+            {
+                "title": "InfoSec Articles (06/27/23 \u2013 07/04/23)",
+                "link": "https://www.malwarepatrol.net/infosec-articles-06-27-23-07-04-23/",
+                "updated": "Tue, 04 Jul 2023 12:05:25 +0100"
+            },
+            {
+                "title": "InfoSec Articles (06/20/23 \u2013 06/27/23)",
+                "link": "https://www.malwarepatrol.net/infosec-articles-06-20-23-06-27-23/",
+                "updated": "Wed, 28 Jun 2023 05:16:03 +0100"
+            },
+            {
+                "title": "InfoSec Articles (06/13/23 \u2013 06/20/23)",
+                "link": "https://www.malwarepatrol.net/infosec-articles-06-13-23-06-20-23/",
+                "updated": "Tue, 20 Jun 2023 08:25:40 +0100"
+            },
+            {
+                "title": "InfoSec Articles (06/06/23 \u2013 06/13/23)",
+                "link": "https://www.malwarepatrol.net/infosec-articles-06-06-23-06-13-23/",
+                "updated": "Wed, 14 Jun 2023 03:10:09 +0100"
+            },
+            {
+                "title": "InfoSec Articles (05/30/23 \u2013 06/06/23)",
+                "link": "https://www.malwarepatrol.net/infosec-articles-05-30-23-06-06-23/",
+                "updated": "Wed, 07 Jun 2023 07:37:38 +0100"
+            },
+            {
+                "title": "InfoSec Articles (05/23/23 \u2013 05/30/23)",
+                "link": "https://www.malwarepatrol.net/infosec-articles-05-23-23-05-30-23/",
+                "updated": "Wed, 31 May 2023 00:22:55 +0100"
+            },
+            {
+                "title": "InfoSec Articles (05/09/23 \u2013 05/23/23)",
+                "link": "https://www.malwarepatrol.net/infosec-articles-05-09-23-05-23-23/",
+                "updated": "Tue, 23 May 2023 15:25:06 +0100"
+            },
+            {
+                "title": "InfoSec Articles (04/25/23 \u2013 05/09/23)",
+                "link": "https://www.malwarepatrol.net/infosec-articles-04-25-23-05-09-23/",
+                "updated": "Tue, 09 May 2023 02:06:05 +0100"
+            },
+            {
+                "title": "InfoSec Articles (03/28/2023 \u2013 04/25/2023)",
+                "link": "https://www.malwarepatrol.net/infosec-articles-03-28-2023-04-25-2023/",
+                "updated": "Thu, 27 Apr 2023 02:22:56 +0100"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "Malwarebytes Labs",
+            "description": "The Security Blog From Malwarebytes",
+            "published-date": "Fri, 14 Jul 2023 00:06:48 GMT"
+        },
+        "entries": [
+            {
+                "title": "From Malvertising to Ransomware: A ThreatDown webinar recap",
+                "link": "https://www.malwarebytes.com/blog/business/2023/07/inside-the-pervasive-malvertising-threat-a-threatdown-webinar-recap",
+                "updated": "Thu, 13 Jul 2023 09:00:00 +0100"
+            },
+            {
+                "title": "Ransomware review: July 2023",
+                "link": "https://www.malwarebytes.com/blog/threat-intelligence/2023/07/ransomware-review-july-2023",
+                "updated": "Thu, 13 Jul 2023 08:15:00 +0100"
+            },
+            {
+                "title": "Zero-day deploys remote code execution vulnerability via Word documents",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/zero-day-deploys-remote-code-execution-vulnerability-via-word-documents",
+                "updated": "Thu, 13 Jul 2023 01:00:00 +0100"
+            },
+            {
+                "title": "How to secure your business before going on vacation",
+                "link": "https://www.malwarebytes.com/blog/business/2023/07/how-to-secure-your-business-before-going-on-vacation",
+                "updated": "Wed, 12 Jul 2023 09:30:00 +0100"
+            },
+            {
+                "title": "Update now! Microsoft patches a whopping 130 vulnerabilities",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/update-now-microsoft-patches-a-whopping-130-vulnerabilities",
+                "updated": "Wed, 12 Jul 2023 03:00:00 +0100"
+            },
+            {
+                "title": "Proposed Massachusetts law to ban sale of your mobile location data",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/proposed-massachusetts-law-to-ban-sale-of-your-mobile-location-data",
+                "updated": "Wed, 12 Jul 2023 02:00:00 +0100"
+            },
+            {
+                "title": "Criminals target businesses with malicious extension for Meta's Ads Manager and accidentally leak stolen accounts",
+                "link": "https://www.malwarebytes.com/blog/threat-intelligence/2023/07/criminals-target-businesses-with-malicious-extension-for-metas-ads-manager-and-accidentally-leak-stolen-accounts",
+                "updated": "Wed, 12 Jul 2023 01:00:00 +0100"
+            },
+            {
+                "title": "Apple issues Rapid Security Response for zero-day vulnerability",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/apple-issues-rapid-security-response-for-zero-day-vulnerability",
+                "updated": "Tue, 11 Jul 2023 03:00:00 +0100"
+            },
+            {
+                "title": "\"TootRoot\" Mastodon vulnerabilities fixed: Admins, patch now!",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/tootroot-mastodon-vulnerabilities-fixed-admins-patch-now",
+                "updated": "Tue, 11 Jul 2023 02:00:00 +0100"
+            },
+            {
+                "title": "Threatening rogue finance apps removed from the Apple Store",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/threatening-rogue-finance-apps-removed-from-the-apple-store",
+                "updated": "Tue, 11 Jul 2023 01:00:00 +0100"
+            },
+            {
+                "title": "MOVEit Transfer fixes three new vulnerabilities",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/moveit-transfer-fixes-three-new-vulnerabilities",
+                "updated": "Mon, 10 Jul 2023 04:00:00 +0100"
+            },
+            {
+                "title": "Malwarebytes Browser Guard introduces three new features",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/malwarebytes-browser-guard-introduces-three-new-features",
+                "updated": "Mon, 10 Jul 2023 03:00:00 +0100"
+            },
+            {
+                "title": "Warning issued over increased activity of TrueBot malware",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/warning-issued-over-increased-activity-of-truebot-malware",
+                "updated": "Mon, 10 Jul 2023 02:00:00 +0100"
+            },
+            {
+                "title": "A week in security (July 3 - 9)",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/a-week-in-security-july-3-9",
+                "updated": "Mon, 10 Jul 2023 01:00:00 +0100"
+            },
+            {
+                "title": "How kids pay the price for ransomware attacks on education",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/school-documents-outed-by-ransomware-gangs-can-have-long-lasting-consequences",
+                "updated": "Fri, 07 Jul 2023 19:00:00 +0100"
+            },
+            {
+                "title": "Solar monitoring systems exposed: Secure your devices",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/solar-monitoring-systems-exposed-secure-your-devices",
+                "updated": "Thu, 06 Jul 2023 19:30:00 +0100"
+            },
+            {
+                "title": "Warning issued over vulnerability in cardiac device monitoring software",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/warning-issued-over-vulnerability-in-cardiac-devices",
+                "updated": "Thu, 06 Jul 2023 03:00:00 +0100"
+            },
+            {
+                "title": "Update Android now! Google patches three actively exploited zero-days",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/update-android-now-google-patches-three-actively-exploited-zero-days",
+                "updated": "Thu, 06 Jul 2023 01:00:00 +0100"
+            },
+            {
+                "title": "Malicious ad for USPS fishes for banking credentials",
+                "link": "https://www.malwarebytes.com/blog/threat-intelligence/2023/07/malicious-ad-for-usps-phishes-for-jpmorgan-chase-credentials",
+                "updated": "Wed, 05 Jul 2023 10:00:00 +0100"
+            },
+            {
+                "title": "Google plans to scrape everything you post online to train its AI",
+                "link": "https://www.malwarebytes.com/blog/news/2023/07/google-plans-to-scrape-everything-you-post-online-to-train-its-ai",
+                "updated": "Wed, 05 Jul 2023 02:00:00 +0100"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "McAfee Labs | McAfee Blogs",
+            "description": "Internet Security News",
+            "published-date": "Wed, 12 Jul 2023 19:30:07 +0000"
+        },
+        "entries": [
+            {
+                "title": "CLOP Ransomware exploits MOVEit software",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/clop-ransomware-exploits-moveit-software/",
+                "updated": "Wed, 21 Jun 2023 09:00:37 +0100"
+            },
+            {
+                "title": "GULoader Campaigns: A Deep Dive Analysis of a highly evasive Shellcode based loader",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/guloader-campaigns-a-deep-dive-analysis-of-a-highly-evasive-shellcode-based-loader/",
+                "updated": "Tue, 09 May 2023 17:50:12 +0100"
+            },
+            {
+                "title": "New Wave of SHTML Phishing Attacks",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/shtml-phishing-attack-with-blurred-image/",
+                "updated": "Mon, 08 May 2023 11:10:18 +0100"
+            },
+            {
+                "title": "Deconstructing Amadey\u2019s Latest Multi-Stage Attack and Malware Distribution",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/deconstructing-amadeys-latest-multi-stage-attack-and-malware-distribution/",
+                "updated": "Fri, 05 May 2023 21:30:10 +0100"
+            },
+            {
+                "title": "HiddenAds Spread via Android Gaming Apps on Google Play",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hiddenads-spread-via-android-gaming-apps-on-google-play/",
+                "updated": "Thu, 27 Apr 2023 00:13:57 +0100"
+            },
+            {
+                "title": "Fakecalls Android Malware Abuses Legitimate Signing Key",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fakecalls-android-malware-abusing-legitimate-signing-key/",
+                "updated": "Fri, 21 Apr 2023 01:27:34 +0100"
+            },
+            {
+                "title": "Extortion Fraud is Still on the Rise",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/extortion-fraud-is-still-on-the-rise/",
+                "updated": "Tue, 18 Apr 2023 20:19:37 +0100"
+            },
+            {
+                "title": "Goldoson: Privacy-invasive and Clicker Android Adware found in popular apps in South Korea",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/goldoson-privacy-invasive-and-clicker-android-adware-found-in-popular-apps-in-south-korea/",
+                "updated": "Wed, 12 Apr 2023 22:49:01 +0100"
+            },
+            {
+                "title": "The Rising Trend of OneNote Documents for Malware delivery",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/rising-trend-of-onenote-documents-for-malware-delivery/",
+                "updated": "Thu, 30 Mar 2023 23:37:03 +0100"
+            },
+            {
+                "title": "The Rise and Risks of AI Art Apps",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-rise-and-risks-of-ai-art-apps/",
+                "updated": "Thu, 26 Jan 2023 00:31:14 +0100"
+            },
+            {
+                "title": "Fake Security App Found Abuses Japanese Payment System",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fake-security-app-found-abuses-japanese-payment-system/",
+                "updated": "Wed, 30 Nov 2022 18:41:29 +0100"
+            },
+            {
+                "title": "Threat Actors Taking Advantage of FTX Bankruptcy",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/threat-actors-taking-advantage-of-ftx-bankruptcy/",
+                "updated": "Tue, 15 Nov 2022 18:23:46 +0100"
+            },
+            {
+                "title": "Microsoft\u2019s Edge over Popups (and Google Chrome)",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/microsofts-edge-over-popups-and-google-chrome/",
+                "updated": "Tue, 15 Nov 2022 17:02:33 +0100"
+            },
+            {
+                "title": "Don\u2019t Get Caught Offsides with These World Cup Scams",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/dont-get-caught-offsides-with-these-world-cup-scams/",
+                "updated": "Wed, 09 Nov 2022 12:03:27 +0100"
+            },
+            {
+                "title": "New Malicious Clicker found in apps installed by 20M+ users",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-malicious-clicker-found-in-apps-installed-by-20m-users/",
+                "updated": "Wed, 19 Oct 2022 18:09:58 +0100"
+            },
+            {
+                "title": "Malicious Cookie Stuffing Chrome Extensions with 1.4 Million Users",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/malicious-cookie-stuffing-chrome-extensions-with-1-4-million-users/",
+                "updated": "Mon, 29 Aug 2022 19:00:46 +0100"
+            },
+            {
+                "title": "Technical Support Scams \u2013 What to look out for",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/technical-support-scams-what-to-look-out-for/",
+                "updated": "Tue, 02 Aug 2022 23:22:17 +0100"
+            },
+            {
+                "title": "New HiddenAds malware affects 1M+ users and hides on the Google Play Store",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-hiddenads-malware-that-runs-automatically-and-hides-on-google-play-1m-users-affected/",
+                "updated": "Fri, 29 Jul 2022 03:32:01 +0100"
+            },
+            {
+                "title": "Rise of LNK (Shortcut files) Malware",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/rise-of-lnk-shortcut-files-malware/",
+                "updated": "Tue, 21 Jun 2022 18:58:20 +0100"
+            },
+            {
+                "title": "Instagram credentials Stealers: Free Followers or Free Likes",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/instagram-credentials-stealers-free-followers-or-free-likes/",
+                "updated": "Fri, 10 Jun 2022 17:14:41 +0100"
+            },
+            {
+                "title": "Instagram credentials Stealer: Disguised as Mod App",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/instagram-credentials-stealer-disguised-as-mod-app/",
+                "updated": "Fri, 10 Jun 2022 17:13:41 +0100"
+            },
+            {
+                "title": "Phishing Campaigns featuring Ursnif Trojan on the Rise",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/phishing-campaigns-featuring-ursnif-trojan/",
+                "updated": "Wed, 08 Jun 2022 04:29:40 +0100"
+            },
+            {
+                "title": "Crypto Scammers Exploit: Elon Musk Speaks on Cryptocurrency",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/crypto-scammers-exploit-elon-musk-speaks-on-cryptocurrency/",
+                "updated": "Thu, 26 May 2022 06:08:49 +0100"
+            },
+            {
+                "title": "Scammers are Exploiting Ukraine Donations",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/scammers-are-exploiting-ukraine-donations/",
+                "updated": "Fri, 01 Apr 2022 21:35:15 +0100"
+            },
+            {
+                "title": "Imposter Netflix Chrome Extension Dupes 100k Users",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/imposter-netflix-chrome-extension-dupes-100k-users/",
+                "updated": "Thu, 10 Mar 2022 19:26:26 +0100"
+            },
+            {
+                "title": "Why Am I Getting All These Notifications on my Phone?",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/why-am-i-getting-all-these-notifications-on-my-phone/",
+                "updated": "Fri, 25 Feb 2022 17:15:30 +0100"
+            },
+            {
+                "title": "Emotet\u2019s Uncommon Approach of Masking IP Addresses",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/emotets-uncommon-approach-of-masking-ip-addresses/",
+                "updated": "Fri, 04 Feb 2022 23:00:33 +0100"
+            },
+            {
+                "title": "HANCITOR DOC drops via CLIPBOARD",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hancitor-doc-drops-via-clipboard/",
+                "updated": "Mon, 13 Dec 2021 14:32:49 +0100"
+            },
+            {
+                "title": "\u2018Tis the Season for Scams",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/tis-the-season-for-scams/",
+                "updated": "Mon, 29 Nov 2021 22:04:38 +0100"
+            },
+            {
+                "title": "The Newest Malicious Actor: \u201cSquirrelwaffle\u201d Malicious Doc.",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-newest-malicious-actor-squirrelwaffle-malicious-doc/",
+                "updated": "Wed, 10 Nov 2021 18:13:25 +0100"
+            },
+            {
+                "title": "Social Network Account Stealers Hidden in Android Gaming Hacking Tool",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/social-networks-account-stealer-hidden-in-android-gaming-hacking-tool/",
+                "updated": "Tue, 19 Oct 2021 13:02:15 +0100"
+            },
+            {
+                "title": "Malicious PowerPoint Documents on the Rise",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/malicious-powerpoint-documents-on-the-rise/",
+                "updated": "Wed, 22 Sep 2021 01:47:42 +0100"
+            },
+            {
+                "title": "Android malware distributed in Mexico uses Covid-19 to steal financial credentials",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/android-malware-distributed-in-mexico-uses-covid-19-to-steal-financial-credentials/",
+                "updated": "Mon, 13 Sep 2021 12:27:31 +0100"
+            },
+            {
+                "title": "Phishing\u00a0Android\u00a0Malware\u00a0Targets Taxpayers in\u00a0India",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/phishing-android-malware-targets-taxpayers-in-india/",
+                "updated": "Fri, 03 Sep 2021 18:33:11 +0100"
+            },
+            {
+                "title": "The Rise of Deep Learning for Detection and Classification of Malware",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-rise-of-deep-learning-for-detection-and-classification-of-malware/",
+                "updated": "Fri, 13 Aug 2021 00:50:48 +0100"
+            },
+            {
+                "title": "XLSM Malware with MacroSheets",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/xlsm-malware-with-macrosheets/",
+                "updated": "Fri, 06 Aug 2021 20:29:57 +0100"
+            },
+            {
+                "title": "Babuk: Biting off More than they Could Chew by Aiming to Encrypt VM and *nix Systems?",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/babuk-biting-off-more-than-they-could-chew-by-aiming-to-encrypt-vm-and-nix-systems/",
+                "updated": "Thu, 29 Jul 2021 04:01:36 +0100"
+            },
+            {
+                "title": "Fighting new Ransomware Techniques with McAfee\u2019s Latest Innovations",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fighting-new-ransomware-techniques-with-mcafees-latest-innovations/",
+                "updated": "Tue, 20 Jul 2021 04:01:28 +0100"
+            },
+            {
+                "title": "An Overall Philosophy on the Use of Critical Threat Intelligence",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/an-overall-philosophy-on-the-use-of-critical-threat-intelligence/",
+                "updated": "Fri, 16 Jul 2021 20:15:22 +0100"
+            },
+            {
+                "title": "REvil Ransomware Uses DLL Sideloading",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/revil-ransomware-uses-dll-sideloading/",
+                "updated": "Fri, 16 Jul 2021 16:49:41 +0100"
+            },
+            {
+                "title": "Hancitor Making Use of Cookies to Prevent URL Scraping",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hancitor-making-use-of-cookies-to-prevent-url-scraping/",
+                "updated": "Thu, 08 Jul 2021 22:15:53 +0100"
+            },
+            {
+                "title": "Zloader With a New Infection Technique",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/zloader-with-a-new-infection-technique/",
+                "updated": "Thu, 08 Jul 2021 21:44:57 +0100"
+            },
+            {
+                "title": "New Ryuk Ransomware Sample\u202fTargets Webservers",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-ryuk-ransomware-sample%e2%80%aftargets-webservers/",
+                "updated": "Wed, 07 Jul 2021 04:01:34 +0100"
+            },
+            {
+                "title": "Fuzzing ImageMagick and Digging Deeper into CVE-2020-27829",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fuzzing-imagemagick-and-digging-deeper-into-cve-2020-27829/",
+                "updated": "Wed, 30 Jun 2021 15:00:42 +0100"
+            },
+            {
+                "title": "Analyzing CVE-2021-1665 \u2013 Remote Code Execution Vulnerability in Windows GDI+",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/analyzing-cve-2021-1665-remote-code-execution-vulnerability-in-windows-gdi/",
+                "updated": "Mon, 28 Jun 2021 19:44:00 +0100"
+            },
+            {
+                "title": "McAfee Labs Report Highlights Ransomware Threats",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-labs-report-highlights-ransomware-threats/",
+                "updated": "Thu, 24 Jun 2021 04:01:11 +0100"
+            },
+            {
+                "title": "A New Program for Your Peloton \u2013  Whether You Like It or Not",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/a-new-program-for-your-peloton-whether-you-like-it-or-not/",
+                "updated": "Wed, 16 Jun 2021 04:01:52 +0100"
+            },
+            {
+                "title": "Are Virtual Machines the New Gold for Cyber Criminals?",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/are-virtual-machines-the-new-gold-for-cyber-criminals/",
+                "updated": "Thu, 10 Jun 2021 15:21:43 +0100"
+            },
+            {
+                "title": "Scammers Impersonating Windows Defender to Push Malicious Windows Apps",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/scammers-impersonating-windows-defender-to-push-malicious-windows-apps/",
+                "updated": "Mon, 17 May 2021 21:25:35 +0100"
+            },
+            {
+                "title": "DarkSide Ransomware Victims Sold Short",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/darkside-ransomware-victims-sold-short/",
+                "updated": "Fri, 14 May 2021 10:32:09 +0100"
+            },
+            {
+                "title": "Major HTTP Vulnerability in Windows Could Lead to Wormable Exploit",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/major-http-vulnerability-in-windows-could-lead-to-wormable-exploit/",
+                "updated": "Wed, 12 May 2021 15:48:13 +0100"
+            },
+            {
+                "title": "\u201cFool\u2019s Gold\u201d: Questionable Vaccines, Bogus Results, and Forged Cards",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fools-gold-questionable-vaccines-bogus-results-and-forged-cards/",
+                "updated": "Tue, 11 May 2021 04:01:35 +0100"
+            },
+            {
+                "title": "Roaming Mantis Amplifies Smishing Campaign with OS-Specific Android Malware",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/roaming-mantis-amplifies-smishing-campaign-with-os-specific-android-malware/",
+                "updated": "Wed, 05 May 2021 18:17:02 +0100"
+            },
+            {
+                "title": "How to Stop the Popups",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/how-to-stop-the-popups/",
+                "updated": "Wed, 05 May 2021 18:06:58 +0100"
+            },
+            {
+                "title": "Access Token Theft and Manipulation Attacks \u2013 A Door to Local Privilege Escalation",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/access-token-theft-and-manipulation-attacks-a-door-to-local-privilege-escalation/",
+                "updated": "Tue, 20 Apr 2021 15:27:41 +0100"
+            },
+            {
+                "title": "Clever Billing Fraud Applications on Google Play: Etinu",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/clever-billing-fraud-applications-on-google-play-etinu/",
+                "updated": "Mon, 19 Apr 2021 21:42:02 +0100"
+            },
+            {
+                "title": "McAfee Labs Report Reveals Latest COVID-19 Threats and Malware Surges",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-labs-report-reveals-latest-covid-19-threats-and-malware-surges/",
+                "updated": "Tue, 13 Apr 2021 04:01:16 +0100"
+            },
+            {
+                "title": "BRATA Keeps Sneaking into Google Play, Now Targeting USA and Spain",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/brata-keeps-sneaking-into-google-play-now-targeting-usa-and-spain/",
+                "updated": "Mon, 12 Apr 2021 16:13:09 +0100"
+            },
+            {
+                "title": "McAfee ATR Threat Report: A Quick Primer on Cuba Ransomware",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-threat-report-a-quick-primer-on-cuba-ransomware/",
+                "updated": "Tue, 06 Apr 2021 17:00:47 +0100"
+            },
+            {
+                "title": "McAfee Defender\u2019s Blog: Cuba Ransomware Campaign",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-defenders-blog-cuba-ransomware-campaign/",
+                "updated": "Tue, 06 Apr 2021 17:00:03 +0100"
+            },
+            {
+                "title": "McAfee Defenders Blog: Reality Check for your Defenses",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-defenders-blog-reality-check-for-your-defenses/",
+                "updated": "Wed, 31 Mar 2021 16:22:07 +0100"
+            },
+            {
+                "title": "Netop Vision Pro \u2013 Distance Learning Software is 20/20 in Hindsight",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/netop-vision-pro-distance-learning-software-is-20-20-in-hindsight/",
+                "updated": "Mon, 22 Mar 2021 04:01:19 +0100"
+            },
+            {
+                "title": "McAfee Defender\u2019s Blog: Operation Dianxun",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-defenders-blog-operation-dianxun/",
+                "updated": "Tue, 16 Mar 2021 13:00:59 +0100"
+            },
+            {
+                "title": "Operation Di\u00e0nx\u00f9n: Cyberespionage Campaign Targeting Telecommunication Companies",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-dianxun-cyberespionage-campaign-targeting-telecommunication-companies/",
+                "updated": "Tue, 16 Mar 2021 13:00:13 +0100"
+            },
+            {
+                "title": "Seven Windows Wonders \u2013 Critical Vulnerabilities in DNS Dynamic Updates",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/seven-windows-wonders-critical-vulnerabilities-in-dns-dynamic-updates/",
+                "updated": "Tue, 09 Mar 2021 18:13:49 +0100"
+            },
+            {
+                "title": "McAfee ATR Thinks in Graphs",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-thinks-in-graphs/",
+                "updated": "Mon, 08 Mar 2021 11:00:59 +0100"
+            },
+            {
+                "title": "Babuk Ransomware",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/babuk-ransomware/",
+                "updated": "Wed, 24 Feb 2021 05:01:46 +0100"
+            },
+            {
+                "title": "Beyond Clubhouse: Vulnerable Agora SDKs Still in Widespread Use",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/beyond-clubhouse-vulnerable-agora-sdks-still-in-widespread-use/",
+                "updated": "Fri, 19 Feb 2021 00:21:23 +0100"
+            },
+            {
+                "title": "Don\u2019t Call Us We\u2019ll Call You: McAfee ATR Finds Vulnerability in Agora Video SDK",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/dont-call-us-well-call-you-mcafee-atr-finds-vulnerability-in-agora-video-sdk/",
+                "updated": "Wed, 17 Feb 2021 13:00:39 +0100"
+            },
+            {
+                "title": "Researchers Follow the Breadcrumbs: The Latest Vulnerabilities in Windows\u2019 Network Stack",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/researchers-follow-the-breadcrumbs-the-latest-vulnerabilities-in-windows-network-stack/",
+                "updated": "Tue, 09 Feb 2021 19:07:52 +0100"
+            },
+            {
+                "title": "McAfee ATR Launches Education-Inspired Capture the Flag Contest!",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-launches-education-inspired-capture-the-flag-contest/",
+                "updated": "Wed, 27 Jan 2021 16:00:09 +0100"
+            },
+            {
+                "title": "Two Pink Lines",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/two-pink-lines/",
+                "updated": "Fri, 15 Jan 2021 18:58:49 +0100"
+            },
+            {
+                "title": "A Year in Review: Threat Landscape for 2020",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/a-year-in-review-threat-landscape-for-2020/",
+                "updated": "Thu, 14 Jan 2021 14:00:05 +0100"
+            },
+            {
+                "title": "2021 Threat Predictions Report",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/2021-threat-predictions-report/",
+                "updated": "Wed, 13 Jan 2021 09:00:12 +0100"
+            },
+            {
+                "title": "How A Device to Cloud Architecture Defends Against the SolarWinds Supply Chain Compromise",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/how-a-device-to-cloud-architecture-defends-against-the-solarwinds-supply-chain-compromise/",
+                "updated": "Mon, 21 Dec 2020 21:32:24 +0100"
+            },
+            {
+                "title": "Additional Analysis into the SUNBURST Backdoor",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/additional-analysis-into-the-sunburst-backdoor/",
+                "updated": "Thu, 17 Dec 2020 23:27:06 +0100"
+            },
+            {
+                "title": "SUNBURST Malware and SolarWinds Supply Chain Compromise",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/sunburst-malware-and-solarwinds-supply-chain-compromise/",
+                "updated": "Wed, 16 Dec 2020 16:48:26 +0100"
+            },
+            {
+                "title": "CVE-2020-17051: Remote kernel heap overflow in NFSv3 Windows Server",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/cve-2020-17051-remote-kernel-heap-overflow-in-nfsv3-windows-server/",
+                "updated": "Tue, 10 Nov 2020 18:29:55 +0100"
+            },
+            {
+                "title": "Operation North Star: Behind The Scenes",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-behind-the-scenes/",
+                "updated": "Thu, 05 Nov 2020 16:00:20 +0100"
+            },
+            {
+                "title": "Operation North Star: Summary Of Our Latest Analysis",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-summary-of-our-latest-analysis/",
+                "updated": "Thu, 05 Nov 2020 16:00:16 +0100"
+            },
+            {
+                "title": "McAfee Labs Report Reveals Continuing Surge of COVID-19 Threats and Malware",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-labs-report-reveals-continuing-surge-of-covid-19-threats-and-malware/",
+                "updated": "Thu, 05 Nov 2020 16:00:01 +0100"
+            },
+            {
+                "title": "CVE-2020-16898: \u201cBad Neighbor\u201d",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/cve-2020-16898-bad-neighbor/",
+                "updated": "Tue, 13 Oct 2020 17:06:35 +0100"
+            },
+            {
+                "title": "Our Experiences Participating in Microsoft\u2019s Azure Sphere Bounty Program",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/our-experiences-participating-in-microsofts-azure-sphere-bounty-program/",
+                "updated": "Tue, 06 Oct 2020 16:00:16 +0100"
+            },
+            {
+                "title": "Securing Space 4.0 \u2013 One Small Step or a Giant Leap? Part 1",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/securing-space-4-0-one-small-step-or-a-giant-leap-part-1/",
+                "updated": "Thu, 01 Oct 2020 04:01:56 +0100"
+            },
+            {
+                "title": "Securing Space 4.0 \u2013 One Small Step or a Giant Leap? Part 2",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/securing-space-4-0-one-small-step-or-a-giant-leap-part-2/",
+                "updated": "Thu, 01 Oct 2020 04:01:49 +0100"
+            },
+            {
+                "title": "Vulnerability Discovery in Open Source Libraries: Analyzing CVE-2020-11863",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/vulnerability-discovery-in-open-source-libraries-analyzing-cve-2020-11863/",
+                "updated": "Tue, 01 Sep 2020 16:09:02 +0100"
+            },
+            {
+                "title": "On Drovorub: Linux Kernel Security Best Practices",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/on-drovorub-linux-kernel-security-best-practices/",
+                "updated": "Thu, 13 Aug 2020 18:19:06 +0100"
+            },
+            {
+                "title": "Vulnerability Discovery in Open Source Libraries Part 1: Tools of the Trade",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/vulnerability-discovery-in-open-source-libraries-part-1-tools-of-the-trade/",
+                "updated": "Wed, 12 Aug 2020 15:59:00 +0100"
+            },
+            {
+                "title": "Robot Character Analysis Reveals Trust Issues",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/robot-character-analysis-reveals-trust-issues/",
+                "updated": "Thu, 06 Aug 2020 04:01:42 +0100"
+            },
+            {
+                "title": "Call an Exorcist! My Robot\u2019s Possessed!",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/call-an-exorcist-my-robots-possessed/",
+                "updated": "Thu, 06 Aug 2020 04:01:06 +0100"
+            },
+            {
+                "title": "Dopple-ganging up on Facial Recognition Systems",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/dopple-ganging-up-on-facial-recognition-systems/",
+                "updated": "Wed, 05 Aug 2020 16:01:05 +0100"
+            },
+            {
+                "title": "Ripple20 Critical Vulnerabilities \u2013 Detection Logic and Signatures",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/ripple20-critical-vulnerabilities-detection-logic-and-signatures/",
+                "updated": "Wed, 05 Aug 2020 13:00:05 +0100"
+            },
+            {
+                "title": "McAfee Defender\u2019s Blog: NetWalker",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-defenders-blog-netwalker/",
+                "updated": "Mon, 03 Aug 2020 14:00:43 +0100"
+            },
+            {
+                "title": "Take a \u201cNetWalk\u201d on the Wild Side",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/take-a-netwalk-on-the-wild-side/",
+                "updated": "Mon, 03 Aug 2020 14:00:20 +0100"
+            },
+            {
+                "title": "Operation (\ub178\uc2a4 \uc2a4\ud0c0) North Star A Job Offer That\u2019s Too Good to be True?",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/operation-north-star-a-job-offer-thats-too-good-to-be-true/",
+                "updated": "Thu, 30 Jul 2020 04:14:38 +0100"
+            },
+            {
+                "title": "McAfee Defender\u2019s Blog: Operation North Star Campaign",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-defenders-blog-operation-north-star-campaign/",
+                "updated": "Thu, 30 Jul 2020 04:01:23 +0100"
+            },
+            {
+                "title": "Six Hundred Million Reasons to Celebrate: No More Ransom Turns FOUR!!",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/six-hundred-million-reasons-to-celebrate-no-more-ransom-turns-four/",
+                "updated": "Mon, 27 Jul 2020 17:05:17 +0100"
+            },
+            {
+                "title": "Hunting for Blues \u2013 the WSL Plan 9 Protocol BSOD",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/hunting-for-blues-the-wsl-plan-9-protocol-bsod/",
+                "updated": "Thu, 23 Jul 2020 14:53:58 +0100"
+            },
+            {
+                "title": "McAfee COVID-19 Report Reveals Pandemic Threat Evolution",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-covid-19-report-reveals-pandemic-threat-evolution/",
+                "updated": "Wed, 22 Jul 2020 04:01:36 +0100"
+            },
+            {
+                "title": "Ripple20 Vulnerability Mitigation Best Practices",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/ripple20-vulnerability-mitigation-best-practices/",
+                "updated": "Mon, 22 Jun 2020 22:32:25 +0100"
+            },
+            {
+                "title": "My Adventures Hacking the iParcelBox",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/my-adventures-hacking-the-iparcelbox/",
+                "updated": "Thu, 18 Jun 2020 07:01:48 +0100"
+            },
+            {
+                "title": "What\u2019s in the Box? Part II: Hacking the iParcelBox",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/whats-in-the-box-part-ii-hacking-the-iparcelbox/",
+                "updated": "Thu, 18 Jun 2020 07:01:40 +0100"
+            },
+            {
+                "title": "RagnarLocker Ransomware Threatens to Release Confidential Information",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/ragnarlocker-ransomware-threatens-to-release-confidential-information/",
+                "updated": "Tue, 09 Jun 2020 16:21:01 +0100"
+            },
+            {
+                "title": "OneDrive Phishing Awareness",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/onedrive-phishing-awareness/",
+                "updated": "Mon, 08 Jun 2020 16:37:25 +0100"
+            },
+            {
+                "title": "How To Use McAfee ATP to Protect Against Emotet, LemonDuck and PowerMiner",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/how-to-use-mcafee-atp-to-protect-against-emotet-lemonduck-and-powerminer/",
+                "updated": "Tue, 19 May 2020 16:30:22 +0100"
+            },
+            {
+                "title": "ENS 10.7 Rolls Back the Curtain on Ransomware",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/ens-10-7-rolls-back-the-curtain-on-ransomware/",
+                "updated": "Thu, 07 May 2020 04:02:00 +0100"
+            },
+            {
+                "title": "Cybercriminals Actively Exploiting RDP to Target Remote Organizations",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/cybercriminals-actively-exploiting-rdp-to-target-remote-organizations/",
+                "updated": "Thu, 07 May 2020 04:01:39 +0100"
+            },
+            {
+                "title": "COVID-19 \u2013 Malware Makes Hay During a Pandemic",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/covid-19-malware-makes-hay-during-a-pandemic/",
+                "updated": "Thu, 07 May 2020 04:01:06 +0100"
+            },
+            {
+                "title": "Tales From the Trenches; a Lockbit Ransomware Story",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/tales-from-the-trenches-a-lockbit-ransomware-story/",
+                "updated": "Fri, 01 May 2020 04:01:50 +0100"
+            },
+            {
+                "title": "MalBus Actor Changed Market from Google Play to ONE Store",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/malbus-actor-changed-market-from-google-play-to-one-store/",
+                "updated": "Thu, 09 Apr 2020 17:38:53 +0100"
+            },
+            {
+                "title": "Transitioning to a Mass Remote Workforce \u2013 We Must Verify Before Trusting",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/transitioning-to-a-mass-remote-workforce-we-must-verify-before-trusting/",
+                "updated": "Tue, 07 Apr 2020 13:01:47 +0100"
+            },
+            {
+                "title": "COVID-19 Threat Update \u2013 now includes Blood for Sale",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/covid-19-threat-update-now-includes-blood-for-sale/",
+                "updated": "Tue, 07 Apr 2020 13:01:12 +0100"
+            },
+            {
+                "title": "Nemty Ransomware \u2013 Learning by Doing",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/nemty-ransomware-learning-by-doing/",
+                "updated": "Thu, 02 Apr 2020 18:21:35 +0100"
+            },
+            {
+                "title": "Ransomware Maze",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/ransomware-maze/",
+                "updated": "Thu, 26 Mar 2020 16:26:03 +0100"
+            },
+            {
+                "title": "Staying Safe While Working Remotely",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/staying-safe-while-working-remotely/",
+                "updated": "Wed, 18 Mar 2020 13:51:18 +0100"
+            },
+            {
+                "title": "SMBGhost \u2013 Analysis of CVE-2020-0796",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/smbghost-analysis-of-cve-2020-0796/",
+                "updated": "Fri, 13 Mar 2020 02:44:01 +0100"
+            },
+            {
+                "title": "Android/LeifAccess.A is the Silent Fake Reviewer Trojan",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/android-leifaccess-a-is-the-silent-fake-reviewer-trojan/",
+                "updated": "Wed, 04 Mar 2020 05:01:31 +0100"
+            },
+            {
+                "title": "Multi-tricks HiddenAds Malware",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/multi-tricks-hiddenads-malware/",
+                "updated": "Wed, 04 Mar 2020 05:01:08 +0100"
+            },
+            {
+                "title": "CSI: Evidence Indicators for Targeted Ransomware Attacks \u2013 Part II",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/csi-evidence-indicators-for-targeted-ransomware-attacks-part-ii/",
+                "updated": "Thu, 20 Feb 2020 15:00:04 +0100"
+            },
+            {
+                "title": "Model Hacking ADAS to Pave Safer Roads for Autonomous Vehicles",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/model-hacking-adas-to-pave-safer-roads-for-autonomous-vehicles/",
+                "updated": "Wed, 19 Feb 2020 09:01:32 +0100"
+            },
+            {
+                "title": "Introduction and Application of Model Hacking",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/introduction-and-application-of-model-hacking/",
+                "updated": "Wed, 19 Feb 2020 09:01:24 +0100"
+            },
+            {
+                "title": "CSI: Evidence Indicators for Targeted Ransomware Attacks \u2013 Part I",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/csi-evidence-indicators-for-targeted-ransomware-attacks/",
+                "updated": "Wed, 12 Feb 2020 15:54:29 +0100"
+            },
+            {
+                "title": "Knock, Knock \u2013 Who\u2019s There?",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/knock-knock-whos-there/",
+                "updated": "Tue, 11 Feb 2020 15:40:35 +0100"
+            },
+            {
+                "title": "How Chinese Cybercriminals Use Business Playbook to Revamp Underground",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/how-chinese-cybercriminals-use-business-playbook-to-revamp-underground/",
+                "updated": "Tue, 11 Feb 2020 05:01:33 +0100"
+            },
+            {
+                "title": "Intelligence in the Enterprise",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/intelligence-in-the-enterprise/",
+                "updated": "Tue, 11 Feb 2020 05:01:13 +0100"
+            },
+            {
+                "title": "U.S. Battleground County Website Security Survey",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/u-s-battleground-county-website-security-survey/",
+                "updated": "Tue, 04 Feb 2020 05:00:57 +0100"
+            },
+            {
+                "title": "An Inside Look into Microsoft Rich Text Format and OLE Exploits",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/an-inside-look-into-microsoft-rich-text-format-and-ole-exploits/",
+                "updated": "Fri, 24 Jan 2020 18:09:03 +0100"
+            },
+            {
+                "title": "CurveBall \u2013 An Unimaginative Pun but a Devastating Bug",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/curveball-an-unimaginative-pun-but-a-devastating-bug/",
+                "updated": "Sat, 18 Jan 2020 05:49:30 +0100"
+            },
+            {
+                "title": "What CVE-2020-0601 Teaches Us About Microsoft\u2019s TLS Certificate Verification Process",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/what-cve-2020-0601-teaches-us-about-microsofts-tls-certificate-verification-process/",
+                "updated": "Fri, 17 Jan 2020 21:25:55 +0100"
+            },
+            {
+                "title": "Iran Cyber Threat Update",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/iran-cyber-threat-update/",
+                "updated": "Wed, 08 Jan 2020 21:04:04 +0100"
+            },
+            {
+                "title": "We Be Jammin\u2019 \u2013 Bypassing Chamberlain myQ Garage Doors",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/we-be-jammin-bypassing-chamberlain-myq-garage-doors/",
+                "updated": "Tue, 07 Jan 2020 05:01:55 +0100"
+            },
+            {
+                "title": "The Cloning of The Ring \u2013 Who Can Unlock Your Door?",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-cloning-of-the-ring-who-can-unlock-your-door/",
+                "updated": "Tue, 07 Jan 2020 05:01:14 +0100"
+            },
+            {
+                "title": "The Tradeoff Between Convenience and Security \u2013 A Balancing Act for Consumers and Manufacturers",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-tradeoff-between-convenience-and-security-a-balancing-act-for-consumers-and-manufacturers/",
+                "updated": "Tue, 07 Jan 2020 05:01:01 +0100"
+            },
+            {
+                "title": "Top Tips to Spot Tech Support Scams",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/top-tips-to-spot-tech-support-scams/",
+                "updated": "Thu, 12 Dec 2019 16:35:48 +0100"
+            },
+            {
+                "title": "Analysis of LooCipher, a New Ransomware Family Observed This Year",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/analysis-of-loocipher-a-new-ransomware-family-observed-this-year/",
+                "updated": "Thu, 05 Dec 2019 15:00:19 +0100"
+            },
+            {
+                "title": "McAfee Labs 2020 Threats Predictions Report",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-labs-2020-threats-predictions-report/",
+                "updated": "Thu, 05 Dec 2019 05:01:14 +0100"
+            },
+            {
+                "title": "Spanish MSSP Targeted by BitPaymer Ransomware",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/spanish-mssp-targeted-by-bitpaymer-ransomware/",
+                "updated": "Fri, 08 Nov 2019 12:00:53 +0100"
+            },
+            {
+                "title": "Buran Ransomware; the Evolution of VegaLocker",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/buran-ransomware-the-evolution-of-vegalocker/",
+                "updated": "Tue, 05 Nov 2019 17:37:32 +0100"
+            },
+            {
+                "title": "Office 365 Users Targeted by Voicemail Scam Pages",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/office-365-users-targeted-by-voicemail-scam-pages/",
+                "updated": "Thu, 31 Oct 2019 04:01:09 +0100"
+            },
+            {
+                "title": "Did You Check Your Quarantine?!",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/did-you-check-your-quarantine/",
+                "updated": "Mon, 28 Oct 2019 16:02:38 +0100"
+            },
+            {
+                "title": "Using Expert Rules in ENS to Prevent Malicious Exploits",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/using-expert-rules-in-ens-10-5-3-to-prevent-malicious-exploits/",
+                "updated": "Fri, 25 Oct 2019 15:41:38 +0100"
+            },
+            {
+                "title": "McAfee ATR Analyzes Sodinokibi aka REvil Ransomware-as-a-Service \u2013 Crescendo",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-analyzes-sodinokibi-aka-revil-ransomware-as-a-service-crescendo/",
+                "updated": "Mon, 21 Oct 2019 04:01:24 +0100"
+            },
+            {
+                "title": "McAfee ATR Analyzes Sodinokibi aka REvil Ransomware-as-a-Service \u2013 Follow The Money",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-analyzes-sodinokibi-aka-revil-ransomware-as-a-service-follow-the-money/",
+                "updated": "Mon, 14 Oct 2019 13:33:20 +0100"
+            },
+            {
+                "title": "McAfee ATR Analyzes Sodinokibi aka REvil Ransomware-as-a-Service \u2013 The All-Stars",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-analyzes-sodinokibi-aka-revil-ransomware-as-a-service-the-all-stars/",
+                "updated": "Wed, 02 Oct 2019 16:05:54 +0100"
+            },
+            {
+                "title": "McAfee ATR Analyzes Sodinokibi aka REvil Ransomware-as-a-Service \u2013 What The Code Tells Us",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-analyzes-sodinokibi-aka-revil-ransomware-as-a-service-what-the-code-tells-us/",
+                "updated": "Wed, 02 Oct 2019 16:05:20 +0100"
+            },
+            {
+                "title": "How Visiting a Trusted Site Could Infect Your Employees",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/how-visiting-a-trusted-site-could-infect-your-employees/",
+                "updated": "Tue, 10 Sep 2019 19:27:32 +0100"
+            },
+            {
+                "title": "Evolution of Malware Sandbox Evasion Tactics \u2013 A Retrospective Study",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/evolution-of-malware-sandbox-evasion-tactics-a-retrospective-study/",
+                "updated": "Mon, 09 Sep 2019 19:05:58 +0100"
+            },
+            {
+                "title": "Apple iOS Attack Underscores Importance of Threat Research",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/apple-ios-attack-underscores-importance-of-threat-research/",
+                "updated": "Wed, 04 Sep 2019 20:21:28 +0100"
+            },
+            {
+                "title": "Analyzing and Identifying Issues with the Microsoft Patch for CVE-2018-8423",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/analyzing-and-identifying-issues-with-the-microsoft-patch-for-cve-2018-8423/",
+                "updated": "Wed, 28 Aug 2019 15:06:19 +0100"
+            },
+            {
+                "title": "The Twin Journey, Part 3: I\u2019m Not a Twin, Can\u2019t You See my Whitespace at the End?",
+                "link": "https://www.mcafee.com/blogs/other-blogs/mcafee-labs/the-twin-journey-part-3-im-not-a-twin-cant-you-see-my-whitespace-at-the-end/",
+                "updated": "Tue, 13 Aug 2019 14:01:34 +0100"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "Categories RSS Feed",
+            "description": "Feed Description not available",
+            "published-date": "2023-07-14T11:45:24+00:00"
+        },
+        "entries": [
+            {
+                "title": "IOTW: Clop issues threat to victims of MOVEit attack",
+                "link": "https://www.cshub.com/attacks/news/iotw-clop-issues-threat-to-victims-of-moveit-attack",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "Fanfiction site targeted by DDoS attack",
+                "link": "https://www.cshub.com/attacks/news/fanfiction-site-targeted-by-ddos-attack",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "Hackers steal $20 million from Revolut",
+                "link": "https://www.cshub.com/attacks/news/hackers-steal-20-million-from-revolut",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "IOTW: Nickelodeon allegedly suffers 500GB data leak",
+                "link": "https://www.cshub.com/attacks/news/iotw-nickelodeon-allegedly-suffers-500gb-data-leak",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "NHS Barts trust attacked by ransomware gang",
+                "link": "https://www.cshub.com/attacks/news/nhs-barts-trust-attacked-by-ransomware-gang",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "DDoS attacks are the most impactful threat vector in APAC",
+                "link": "https://www.cshub.com/attacks/articles/ddos-attacks-are-the-most-impactful-threat-vector-in-apac",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "Apple supplier faces $70 million ransomware attack",
+                "link": "https://www.cshub.com/attacks/news/apple-supplier-faces-70-million-ransomware-attack",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "IOTW: US Patent and Trademark Office suffers years-long data leak",
+                "link": "https://www.cshub.com/attacks/news/iotw-us-patent-and-trademark-office-suffers-years-long-data-leak",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "The top five cyber security incidents in June 2023",
+                "link": "https://www.cshub.com/attacks/articles/the-top-five-cyber-security-incidents-in-june-2023",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "Blizzard Entertainment hit by DDoS attack",
+                "link": "https://www.cshub.com/attacks/news/blizzard-entertainment-hit-by-ddos-attack",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "IOTW: A full timeline of the MOVEit cyber attack",
+                "link": "https://www.cshub.com/attacks/news/iotw-a-full-timeline-of-the-moveit-cyber-attack",
+                "updated": "Entry Update not available"
+            },
+            {
+                "title": "PwC and EY impacted by MOVEit cyber attack",
+                "link": "https://www.cshub.com/attacks/news/pwc-and-ey-impacted-by-moveit-cyber-attack",
+                "updated": "Entry Update not available"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "DataBreaches.net",
+            "description": "The Office of Inadequate Security",
+            "published-date": "Fri, 14 Jul 2023 11:01:30 +0000"
+        },
+        "entries": [
+            {
+                "title": "Owner of BreachForums pleads guilty in federal court to three counts, including one involving child pornography",
+                "link": "https://www.databreaches.net/owner-of-breachforums-pleads-guilty-in-federal-court-to-a-charge-that-shocks-everyone/",
+                "updated": "Fri, 14 Jul 2023 04:10:49 +0100"
+            },
+            {
+                "title": "Millions of personal records unprotected in flawed telemedicine application software",
+                "link": "https://www.databreaches.net/millions-of-personal-records-unprotected-in-flawed-telemedicine-application-software/",
+                "updated": "Fri, 14 Jul 2023 00:27:49 +0100"
+            },
+            {
+                "title": "Bjorka strikes again? 34 million Indonesian Passports Exposed in a Massive Immigration Directorate Data Breach",
+                "link": "https://www.databreaches.net/bjorka-strikes-again-34-million-indonesian-passports-exposed-in-a-massive-immigration-directorate-data-breach/",
+                "updated": "Fri, 14 Jul 2023 00:24:30 +0100"
+            },
+            {
+                "title": "FTC investigates OpenAI over data leak and ChatGPT\u2019s inaccuracy",
+                "link": "https://www.databreaches.net/ftc-investigates-openai-over-data-leak-and-chatgpts-inaccuracy/",
+                "updated": "Fri, 14 Jul 2023 00:21:09 +0100"
+            },
+            {
+                "title": "Two Teens Accused of Masterminding Hacks on Grand Theft Auto and Uber",
+                "link": "https://www.databreaches.net/two-teens-accused-of-masterminding-hacks-on-grand-theft-auto-and-uber/",
+                "updated": "Wed, 12 Jul 2023 11:49:38 +0100"
+            },
+            {
+                "title": "Chinese Hackers Breached Government Email Accounts, Microsoft Says",
+                "link": "https://www.databreaches.net/chinese-hackers-breached-government-email-accounts-microsoft-says/",
+                "updated": "Wed, 12 Jul 2023 11:49:27 +0100"
+            },
+            {
+                "title": "Russian hackers lured embassy workers in Ukraine with ad for a cheap BMW",
+                "link": "https://www.databreaches.net/russian-hackers-lured-embassy-workers-in-ukraine-with-ad-for-a-cheap-bmw/",
+                "updated": "Wed, 12 Jul 2023 11:49:22 +0100"
+            },
+            {
+                "title": "UK: Man jailed for more than three years for attempting to extort money from the company he worked for",
+                "link": "https://www.databreaches.net/uk-man-jailed-for-more-than-three-years-for-attempting-to-extort-money-from-the-company-he-worked-for/",
+                "updated": "Wed, 12 Jul 2023 11:49:16 +0100"
+            },
+            {
+                "title": "Former Security Engineer For International Technology Company Arrested For Defrauding Decentralized Cryptocurrency Exchange",
+                "link": "https://www.databreaches.net/former-security-engineer-for-international-technology-company-arrested-for-defrauding-decentralized-cryptocurrency-exchange/",
+                "updated": "Wed, 12 Jul 2023 11:48:58 +0100"
+            },
+            {
+                "title": "Australian infrastructure company Ventia hit with cyberattack",
+                "link": "https://www.databreaches.net/australian-infrastructure-company-ventia-hit-with-cyberattack/",
+                "updated": "Wed, 12 Jul 2023 11:44:34 +0100"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "Data Breach Resolution",
+            "description": "Tools to help you navigate privacy, compliance, and security issues that may result in a data breach.",
+            "published-date": "Fri, 09 Dec 2022 20:46:01 +0000"
+        },
+        "entries": [
+            {
+                "title": "The 2023 Experian Data Breach Industry Forecast",
+                "link": "https://www.experian.com/blogs/data-breach/2022/12/08/the-2023-experian-data-breach-industry-forecast/",
+                "updated": "Thu, 08 Dec 2022 17:41:36 +0100"
+            },
+            {
+                "title": "How to Protect Consumers Against a Data Breach",
+                "link": "https://www.experian.com/blogs/data-breach/2022/10/18/how-to-protect-consumers-against-a-data-breach/",
+                "updated": "Tue, 18 Oct 2022 18:23:49 +0100"
+            },
+            {
+                "title": "The Latest NetDiligence CyberRisk Summit Goes \u201cBeyond the Arrest\u201d",
+                "link": "https://www.experian.com/blogs/data-breach/2022/06/21/the-latest-netdiligence-cyberrisk-summit-goes-beyond-the-arrest/",
+                "updated": "Tue, 21 Jun 2022 18:10:57 +0100"
+            },
+            {
+                "title": "The New World. Every Minute Counts",
+                "link": "https://www.experian.com/blogs/data-breach/2022/05/24/the-new-world-every-minute-counts/",
+                "updated": "Tue, 24 May 2022 16:51:14 +0100"
+            },
+            {
+                "title": "5 Steps to Creating an Effective Crisis Response Notification Plan",
+                "link": "https://www.experian.com/blogs/data-breach/2022/04/07/5-steps-to-creating-an-effective-crisis-response-notification-plan/",
+                "updated": "Thu, 07 Apr 2022 16:33:41 +0100"
+            },
+            {
+                "title": "Data Breach Simulation Playbook",
+                "link": "https://www.experian.com/blogs/data-breach/2022/04/04/data-breach-simulation-playbook/",
+                "updated": "Mon, 04 Apr 2022 16:18:40 +0100"
+            },
+            {
+                "title": "5 Shocking Data Breach Stats and Why Your Company Needs Protection Now",
+                "link": "https://www.experian.com/blogs/data-breach/2022/03/14/5-shocking-data-breach-stats-and-why-your-company-needs-protection-now/",
+                "updated": "Mon, 14 Mar 2022 22:27:50 +0100"
+            },
+            {
+                "title": "Are you prepared for a big data breach?",
+                "link": "https://www.experian.com/blogs/data-breach/2022/02/14/are-you-prepared-for-a-big-data-breach-ponemon-preparedness-study-2022/",
+                "updated": "Mon, 14 Feb 2022 16:05:56 +0100"
+            },
+            {
+                "title": "The Cyber Attack Stakes Are High: What The 2022 Experian Data Breach Industry Forecast Tells Us",
+                "link": "https://www.experian.com/blogs/data-breach/2022/01/06/the-cyber-attack-stakes-are-high-what-the-2022-experian-data-breach-industry-forecast-tells-us/",
+                "updated": "Thu, 06 Jan 2022 18:52:24 +0100"
+            },
+            {
+                "title": "Build a Better Breach Playbook",
+                "link": "https://www.experian.com/blogs/data-breach/2021/11/16/build-a-better-breach-playbook/",
+                "updated": "Tue, 16 Nov 2021 19:05:50 +0100"
+            },
+            {
+                "title": "NetDiligence Panels Reveal Global Shifts in Data Regulation",
+                "link": "https://www.experian.com/blogs/data-breach/2021/10/21/netdiligence-panels-reveal-global-shifts-in-data-regulation/",
+                "updated": "Thu, 21 Oct 2021 19:59:46 +0100"
+            },
+            {
+                "title": "Data Breach Preparation: Failing to Plan is Like Planning to Fail",
+                "link": "https://www.experian.com/blogs/data-breach/2021/09/14/data-breach-preparation/",
+                "updated": "Tue, 14 Sep 2021 00:01:57 +0100"
+            }
+        ]
+    },
+    {
+        "metadata": {
+            "title": "Stories by Teri Radichel on Medium",
+            "description": "Stories by Teri Radichel on Medium",
+            "published-date": "Fri, 14 Jul 2023 11:37:07 GMT"
+        },
+        "entries": [
+            {
+                "title": "Getting the Actual Path of a Script Included with Bash Source",
+                "link": "https://medium.com/cloud-security/getting-the-actual-path-of-a-script-included-with-bash-source-b5fcee4b2a34?source=rss-863161906cc5------2",
+                "updated": "Thu, 13 Jul 2023 22:51:02 +0100"
+            },
+            {
+                "title": "Delete a DNS Record in a Hosted Zone with the AWS CLI",
+                "link": "https://medium.com/cloud-security/delete-a-dns-record-in-a-hosted-zone-with-the-aws-cli-ea2e8bfc78a2?source=rss-863161906cc5------2",
+                "updated": "Thu, 13 Jul 2023 18:41:08 +0100"
+            },
+            {
+                "title": "How to Fix TLS Certificate Deployment Via CloudFormation",
+                "link": "https://medium.com/cloud-security/how-to-fix-tls-certificate-deployment-via-cloudformation-aa1af4a13259?source=rss-863161906cc5------2",
+                "updated": "Thu, 13 Jul 2023 16:58:52 +0100"
+            },
+            {
+                "title": "Bug Re-deploying AWS TLS Certificate",
+                "link": "https://medium.com/bugs-that-bite/bug-re-deploying-aws-tls-certificate-c35ef7d1577f?source=rss-863161906cc5------2",
+                "updated": "Thu, 13 Jul 2023 07:09:54 +0100"
+            },
+            {
+                "title": "Medium\u200a\u2014\u200aAck! Revert to old format",
+                "link": "https://medium.com/bugs-that-bite/medium-ack-revert-to-old-format-f76b3c9a5a30?source=rss-863161906cc5------2",
+                "updated": "Wed, 12 Jul 2023 15:39:39 +0100"
+            },
+            {
+                "title": "Certificate Transparency Logs \u2014What you need to know",
+                "link": "https://medium.com/cloud-security/certificate-transparency-logs-what-you-need-to-know-c7d20738eaa9?source=rss-863161906cc5------2",
+                "updated": "Wed, 12 Jul 2023 15:31:44 +0100"
+            },
+            {
+                "title": "Errors and Bugs\u2014 EC2, AWS Compute, Amazon Linux, Ubuntu, Shell and CloudShell",
+                "link": "https://medium.com/bugs-that-bite/errors-and-bugs-ec2-aws-compute-amazon-linux-ubuntu-shell-and-cloudshell-73380349255f?source=rss-863161906cc5------2",
+                "updated": "Wed, 12 Jul 2023 14:45:01 +0100"
+            },
+            {
+                "title": "Troubleshooting CloudFormation Error Messages",
+                "link": "https://medium.com/bugs-that-bite/troubleshooting-cloudformation-error-messages-54ec2f3bc55b?source=rss-863161906cc5------2",
+                "updated": "Wed, 12 Jul 2023 14:26:46 +0100"
+            },
+            {
+                "title": "Validate A TLS Certificate Deployed With CloudFormation",
+                "link": "https://medium.com/cloud-security/validate-a-tls-certificate-deployed-with-cloudformation-7736170757ce?source=rss-863161906cc5------2",
+                "updated": "Wed, 12 Jul 2023 04:56:15 +0100"
+            },
+            {
+                "title": "Impossible to edit long commands from history on AWS EC2 command line",
+                "link": "https://medium.com/bugs-that-bite/impossible-to-edit-long-commands-from-history-on-aws-ec2-command-line-13eb78972b83?source=rss-863161906cc5------2",
+                "updated": "Tue, 11 Jul 2023 20:02:08 +0100"
+            }
+        ]
+    }
+]

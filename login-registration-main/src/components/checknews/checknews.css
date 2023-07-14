@@ -1,0 +1,275 @@
+  /*check news v2*/
+  /* checknews.css */
+
+  .check-news-container {
+	margin: 20px;
+  }
+  
+  .search-bar {
+	display: flex;
+	align-items: center;
+	margin-bottom: 20px;
+  }
+  
+  .option-input {
+	padding: 10px;
+	border: none;
+	border-radius: 5px;
+	margin-right: 10px;
+  }
+  
+  .suggestions {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+  }
+  
+  .suggestion {
+	cursor: pointer;
+	padding: 5px;
+  }
+  
+  .check-button {
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	background-color: #007bff;
+	color: #fff;
+	font-weight: bold;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+  }
+  
+  .check-button:hover {
+	background-color: #0056b3;
+  }
+  
+  .feed-container {
+	margin-top: 20px;
+  }
+  
+  .feed-card {
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 20px;
+  }
+  
+  .feed-title {
+	margin-top: 0;
+  }
+  
+  .metadata p {
+	margin: 0;
+  }
+  
+  .entries {
+	margin-top: 20px;
+  }
+  
+  .blog {
+	margin-bottom: 20px;
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	animation: fadeInUp 0.5s;
+  }
+  
+  .blog h4 {
+	margin-top: 0;
+  }
+  
+  .link {
+	color: #007bff;
+  }
+  
+  .link:hover {
+	text-decoration: underline;
+  }
+  
+  @keyframes fadeInUp {
+	from {
+	  opacity: 0;
+	  transform: translateY(20px);
+	}
+	to {
+	  opacity: 1;
+	  transform: translateY(0);
+	}
+  }
+  
+
+
+
+
+  
+
+
+
+  /* check news style*/
+
+  /* checknews.css */
+
+  .creative-title {
+	text-align: center;
+	font-size: 3rem;
+	color: #088691;
+	margin-bottom: 30px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  
+
+.check-news-container {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #f5f5f5;
+	margin-top: 20px;
+	border: 1px solid #ccc; /* Add border style */
+	border-radius: 4px;
+  }
+  
+  .option-bar {
+	display: flex;
+	align-items: center;
+	margin-bottom: 20px;
+	margin-top: 100px;
+  }
+  
+  .option-input {
+	width: 100%;
+	padding: 10px;
+	font-size: 16px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	background-color: #fff;
+	appearance: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background-image: url("data:image/svg+xml;utf8,<svg fill='currentColor' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><path d='M7.41,8.59L12,13.17l4.59-4.58L18,10l-6,6l-6-6L7.41,8.59z'/></svg>");
+	background-repeat: no-repeat;
+	background-position: right 8px center;
+  }
+  
+  .option-input:focus {
+	outline: none;
+	border-color: #6c63ff;
+	box-shadow: 0 0 0 2px rgba(108, 99, 255, 0.2);
+  }
+  
+  .option-input option {
+	padding: 8px;
+	background-color: #fff;
+	color: #333;
+	font-size: 16px;
+	border: none;
+  }
+  
+  .option-input option:hover {
+	background-color: #6c63ff;
+	color: #fff;
+  }
+  
+  .option-input option:selected {
+	background-color: #6c63ff;
+	color: #fff;
+  }
+  
+  
+  .suggestions {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	position: absolute;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-top: none;
+	z-index: 1;
+	max-width: 100%; /* Set the maximum width to 100% */
+	width: 58%;
+	max-height: 120px; /* Set a maximum height */
+	overflow-y: auto; /* Enable vertical scrolling */
+  }
+  
+  .suggestion {
+	width: 100%;
+	padding: 10px;
+	cursor: pointer;
+  }
+  
+  .search-button {
+	margin-left: 10px;
+	padding: 10px 20px;
+	font-size: 16px;
+	background-color: #007bff;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+  }
+  
+  .search-button:hover {
+	background-color: #0056b3;
+  }
+  
+  .check-button {
+	margin-bottom: 20px;
+	padding: 10px 20px;
+	font-size: 16px;
+	background-color: #28a745;
+	color: #fff;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+  }
+  
+  .check-button:hover {
+	background-color: #1e7f39;
+  }
+  
+  .feed-container {
+	display: flex;
+	flex-wrap: wrap;
+  }
+  
+  .feed-card {
+	width: 100%;
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: #fff;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .feed-title {
+	font-size: 24px;
+	margin-bottom: 10px;
+  }
+  
+  .metadata-table {
+	width: 100%;
+	margin-bottom: 20px;
+  }
+  
+  .entries-table {
+	width: 100%;
+  }
+  
+  .link {
+	color: #007bff;
+	text-decoration: none;
+	transition: color 0.3s ease;
+  }
+  
+  .link:hover {
+	color: #0056b3;
+  }
+  
+  .no-feed {
+	font-size: 18px;
+	color: #dc3545;
+  }

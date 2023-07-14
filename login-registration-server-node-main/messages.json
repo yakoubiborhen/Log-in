@@ -1,0 +1,1610 @@
+{
+    "ctinow": [
+        {
+            "timestamp": "2023-07-14 11:42:38",
+            "description": "Charles Schwab announces TD Ameritrade data breach - InvestmentNews",
+            "reference": "https://ift.tt/XRH63kP"
+        },
+        {
+            "timestamp": "2023-07-14 11:42:37",
+            "description": "Google Researchers Discover In-the-Wild Exploitation of Zimbra Zero-Day - SecurityWeek",
+            "reference": "https://ift.tt/qIA5lW2"
+        },
+        {
+            "timestamp": "2023-07-14 11:42:36",
+            "description": "Fake PoC with data-stealing malware discovered on GitHub - CSO Online",
+            "reference": "https://ift.tt/uz5U168"
+        },
+        {
+            "timestamp": "2023-07-14 11:42:34",
+            "description": "ICS/OTICS Patch Tuesday: Siemens and Schneider Electric Releases Patch for 50 vulnerabilities - CybersecurityNews",
+            "reference": "https://ift.tt/la8BDy1"
+        },
+        {
+            "timestamp": "2023-07-14 11:36:33",
+            "description": "Malicious Campaigns Target Government, Military and Civilian Entities in Ukraine, Poland",
+            "reference": "https://ift.tt/PunWfGB"
+        },
+        {
+            "timestamp": "2023-07-14 11:36:32",
+            "description": "Secure Code Warrior Raises $50 Million to Help Developers Write Secure Code",
+            "reference": "https://ift.tt/bGm32gj"
+        },
+        {
+            "timestamp": "2023-07-14 11:36:30",
+            "description": "Hackers Target Reddit Alternative Lemmy via Zero-Day Vulnerability",
+            "reference": "https://ift.tt/A3pIEtb"
+        },
+        {
+            "timestamp": "2023-07-14 11:21:59",
+            "description": "Rockwell Automation ControlLogix Flaws Expose ICS Devices to RCE & DoS Attacks",
+            "reference": "https://ift.tt/Dud1mSN"
+        },
+        {
+            "timestamp": "2023-07-14 11:21:58",
+            "description": "https://ift.tt/6zR4pg8\nDefend Against Insider Threats: Join this Webinar on SaaS Security Posture Management",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 11:21:57",
+            "description": "https://ift.tt/iHuJzcv\nAIOS WordPress Plugin Faces Backlash for Storing User Passwords in Plain Text",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 11:21:55",
+            "description": "https://ift.tt/ghe8lKI\nTeamTNT's Cloud Credential Stealing Campaign Now Targets Azure and Google Cloud",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 11:17:26",
+            "description": "https://ift.tt/jYAkdb8\nBuying Campaign Contributions as a Hack",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 11:06:44",
+            "description": "Zimbra Urges Customers to Manually Fix Actively Exploited Zero-Day Reported by Google TAG",
+            "reference": "https://ift.tt/9QylagX"
+        },
+        {
+            "timestamp": "2023-07-14 11:01:56",
+            "description": "Indexing Over 15 Million WordPress Websites with PWNPress",
+            "reference": "https://ift.tt/ljdoZ6e"
+        },
+        {
+            "timestamp": "2023-07-14 11:01:55",
+            "description": "Cisco SD-WAN vManage Flaw: Let Attackers Escalate Privileges",
+            "reference": "https://ift.tt/HAjeZ3U"
+        },
+        {
+            "timestamp": "2023-07-14 10:52:08",
+            "description": "USB Drive Malware Attacks Spiking Again in First Half of 2023",
+            "reference": "https://ift.tt/lBnOJR6"
+        },
+        {
+            "timestamp": "2023-07-14 10:27:09",
+            "description": "Cyber Security Headlines: USB malware spikes, Honeywell, Rockwell vulnerabilities, ransomware remains profitable",
+            "reference": "https://ift.tt/YmqZavC"
+        },
+        {
+            "timestamp": "2023-07-14 10:22:22",
+            "description": "Top Information Security Threats for Businesses 2023 - CybersecurityNews",
+            "reference": "https://ift.tt/pLmgrqu"
+        },
+        {
+            "timestamp": "2023-07-14 10:17:10",
+            "description": "Artificial intelligence: global threat or opportunity for investors? - The Armchair Trader",
+            "reference": "https://ift.tt/xpk8JhZ"
+        },
+        {
+            "timestamp": "2023-07-14 10:17:09",
+            "description": "In Azerbaijan, Israel's defense chief discusses Iran, security ... - Al-Monitor",
+            "reference": "https://ift.tt/alZKXVj"
+        },
+        {
+            "timestamp": "2023-07-14 10:17:07",
+            "description": "Google Researchers Discover In-the-Wild Exploitation of Zimbra Zero-Day - SecurityWeek",
+            "reference": "https://ift.tt/qIA5lW2"
+        },
+        {
+            "timestamp": "2023-07-14 10:06:35",
+            "description": "New AVrecon botnet remained under the radar for two years while targeting SOHO Routers",
+            "reference": "https://ift.tt/hMrgyIw"
+        },
+        {
+            "timestamp": "2023-07-14 09:52:57",
+            "description": "Top Information Security Threats for Businesses 2023",
+            "reference": "https://ift.tt/pLmgrqu"
+        },
+        {
+            "timestamp": "2023-07-14 09:52:55",
+            "description": "Crit.IX: Flaws in Honeywell Experion DCS, Posing Risk to Critical Industries",
+            "reference": "https://ift.tt/EMv2cuY"
+        },
+        {
+            "timestamp": "2023-07-14 09:52:54",
+            "description": "US Publishes Implementation Plan for National Cybersecurity Strategy",
+            "reference": "https://ift.tt/8PaXQen"
+        },
+        {
+            "timestamp": "2023-07-14 09:52:53",
+            "description": "Google Researchers Discover In-the-Wild Exploitation of Zimbra Zero-Day",
+            "reference": "https://ift.tt/qIA5lW2"
+        },
+        {
+            "timestamp": "2023-07-14 09:47:24",
+            "description": "ChatGPT Reconnaissance Techniques for Penetration Testing Success",
+            "reference": "https://ift.tt/0MwCWzm"
+        },
+        {
+            "timestamp": "2023-07-14 09:47:22",
+            "description": "Former contractor accused of remotely accessing town's water treatment facility",
+            "reference": "https://ift.tt/AFoxBPd"
+        },
+        {
+            "timestamp": "2023-07-14 09:41:32",
+            "description": "Fewer Than 100 Scammers Responsible For Global Email Extortion",
+            "reference": "https://ift.tt/QXBq0bn"
+        },
+        {
+            "timestamp": "2023-07-14 09:06:04",
+            "description": "Safe Security Acquires RiskLens - Dark Reading",
+            "reference": "https://ift.tt/kYIW1M8"
+        },
+        {
+            "timestamp": "2023-07-14 08:56:15",
+            "description": "Citrix Fixes Critical Flaw in Secure Access Client for Ubuntu",
+            "reference": "https://ift.tt/4kCuYtd"
+        },
+        {
+            "timestamp": "2023-07-14 08:42:38",
+            "description": "NATO Allies\u2019 New Cyber Pledges To Remain Classified \u2014 But Here\u2019s What We Know",
+            "reference": "https://ift.tt/PcQNGDs"
+        },
+        {
+            "timestamp": "2023-07-14 08:36:47",
+            "description": "The Evolution of Managed Security Information and Event ... - Fagen wasanni",
+            "reference": "https://ift.tt/Cx62MO0"
+        },
+        {
+            "timestamp": "2023-07-14 08:36:45",
+            "description": "CyberCube: Nation-state activity will \u201cpush the boundary\u201d of war ... - Re-Insurance.com",
+            "reference": "https://ift.tt/xub9jvW"
+        },
+        {
+            "timestamp": "2023-07-14 08:31:58",
+            "description": "Supply-Chain Attack Targeting Pakistani Government Delivers Shadowpad",
+            "reference": "https://ift.tt/nrPg95d"
+        },
+        {
+            "timestamp": "2023-07-14 08:17:02",
+            "description": "Shutterfly says Clop ransomware attack did not impact customer data",
+            "reference": "https://ift.tt/xjXSaf7"
+        },
+        {
+            "timestamp": "2023-07-14 08:17:01",
+            "description": "Psychological Manipulation in Social Engineering: Unveiling the Tactics",
+            "reference": "https://ift.tt/eNzOQTw"
+        },
+        {
+            "timestamp": "2023-07-14 08:17:00",
+            "description": "SEO Expert Hired and Fired By Ashley Madison Turned on Company, Promising Revenge",
+            "reference": "https://ift.tt/ULNORS1"
+        },
+        {
+            "timestamp": "2023-07-14 08:16:59",
+            "description": "News alert: Security Journey accelerates secure coding training platform enhancements",
+            "reference": "https://ift.tt/gpmDMH3"
+        },
+        {
+            "timestamp": "2023-07-14 08:16:58",
+            "description": "News alert: Beazley reports on how AI, new tech distract businesses as cyber risk intensifies",
+            "reference": "https://ift.tt/mBbJN4p"
+        },
+        {
+            "timestamp": "2023-07-14 08:11:50",
+            "description": "Supply-Chain Attack Targeting Pakistani Government Delivers Shadowpad",
+            "reference": "https://ift.tt/nrPg95d"
+        },
+        {
+            "timestamp": "2023-07-14 08:06:32",
+            "description": "Lokibot Exploits Word Document Vulnerabilities to Propagate",
+            "reference": "https://ift.tt/rDg8WKn"
+        },
+        {
+            "timestamp": "2023-07-14 08:06:26",
+            "description": "https://ift.tt/gJtqY0R\nFake PoC for Linux Kernel Vulnerability on GitHub Exposes Researchers to Malware",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 08:01:51",
+            "description": "New Malware Discovered Targeting Small Office/Home Office Routers - Security Today",
+            "reference": "https://ift.tt/CzZ3bws"
+        },
+        {
+            "timestamp": "2023-07-14 07:52:09",
+            "description": "https://ift.tt/1hsU7z3\nNew SOHO Router Botnet AVrecon Spreads to 70,000 Devices Across 20 Countries",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 07:52:08",
+            "description": "https://ift.tt/uL76Dxj\nZimbra Warns of Critical Zero-Day Flaw in Email Software Amid Active Exploitation",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 07:41:45",
+            "description": "Fake PoC Exploit Targets Cybersecurity Researchers with Linux Malware",
+            "reference": "https://ift.tt/JoIkgXB"
+        },
+        {
+            "timestamp": "2023-07-14 07:31:48",
+            "description": "How to tackle cyber threats with XDR - Tahawul Tech",
+            "reference": "https://ift.tt/16KwbHO"
+        },
+        {
+            "timestamp": "2023-07-14 07:31:47",
+            "description": "AVrecon malware infects 70,000 Linux routers to build botnet - BleepingComputer",
+            "reference": "https://ift.tt/vwFudkW"
+        },
+        {
+            "timestamp": "2023-07-14 07:21:56",
+            "description": "Wireshark 4.0.7 Released \u2013 What\u2019s New!",
+            "reference": "https://ift.tt/uMLTb7k"
+        },
+        {
+            "timestamp": "2023-07-14 07:21:55",
+            "description": "AVrecon malware infects 70,000 Linux routers to build botnet",
+            "reference": "https://ift.tt/vwFudkW"
+        },
+        {
+            "timestamp": "2023-07-14 07:02:04",
+            "description": "AVrecon malware infects 70,0000 Linux routers to build botnet - BleepingComputer",
+            "reference": "https://ift.tt/1xwMGVK"
+        },
+        {
+            "timestamp": "2023-07-14 06:51:53",
+            "description": "Hackers Use New .NET Loader Malware to Deliver Wide Range of Payloads",
+            "reference": "https://ift.tt/zALCZ04"
+        },
+        {
+            "timestamp": "2023-07-14 06:42:49",
+            "description": "AVrecon malware infects 70,0000 Linux routers to build botnet",
+            "reference": "https://ift.tt/1xwMGVK"
+        },
+        {
+            "timestamp": "2023-07-14 06:11:12",
+            "description": "Five 5 free online cybersecurity courses",
+            "reference": "https://ift.tt/xj1LflP"
+        },
+        {
+            "timestamp": "2023-07-14 06:11:11",
+            "description": "Scam Page Volumes Witness a 304% Annual Surge, Finds Group-IB",
+            "reference": "https://ift.tt/9j3w0lE"
+        },
+        {
+            "timestamp": "2023-07-14 06:01:59",
+            "description": "Elon Musk to develop maximally curious AI robots with xAI",
+            "reference": "https://ift.tt/m8G3TpB"
+        },
+        {
+            "timestamp": "2023-07-14 06:01:58",
+            "description": "APT Exploit Targeting Rockwell Automation Flaws Threatens Critical Infrastructure - SecurityWeek",
+            "reference": "https://ift.tt/2iSe1bM"
+        },
+        {
+            "timestamp": "2023-07-14 06:01:57",
+            "description": "British teens accused of hacks against Uber and Rockstar Games\u2019s Grand Theft Auto 6",
+            "reference": "https://ift.tt/PTVX6MK"
+        },
+        {
+            "timestamp": "2023-07-14 05:36:46",
+            "description": "Apple Re-Releases Urgent Zero-Day Patches With Fix for Website Access Issue - SecurityWeek",
+            "reference": "https://ift.tt/pJEfeWO"
+        },
+        {
+            "timestamp": "2023-07-14 05:31:32",
+            "description": "Eight steps organizations can take after news of a state-sponsored ... - SC Media",
+            "reference": "https://ift.tt/FkwzPQK"
+        },
+        {
+            "timestamp": "2023-07-14 05:31:31",
+            "description": "Generative AI outperforms hackers but not their creativity",
+            "reference": "https://ift.tt/TVu1YWh"
+        },
+        {
+            "timestamp": "2023-07-14 05:16:20",
+            "description": "Owner of BreachForums pleads guilty in federal court to a charge that shocks everyone",
+            "reference": "https://ift.tt/vkx2rmH"
+        },
+        {
+            "timestamp": "2023-07-14 04:36:41",
+            "description": "Satellites lack standard security mechanisms found in mobile phones and laptops",
+            "reference": "https://ift.tt/wWu96Hx"
+        },
+        {
+            "timestamp": "2023-07-14 04:36:40",
+            "description": "New infosec products of the week: July 14, 2023",
+            "reference": "https://ift.tt/XTmUMa8"
+        },
+        {
+            "timestamp": "2023-07-14 04:36:39",
+            "description": "Facebook and Microsoft remain prime targets for spoofing",
+            "reference": "https://ift.tt/0lOwx4X"
+        },
+        {
+            "timestamp": "2023-07-14 04:36:38",
+            "description": "Microsoft July 2023 Patch Tuesday Round Up - Security Boulevard",
+            "reference": "https://ift.tt/dcq0HtE"
+        },
+        {
+            "timestamp": "2023-07-14 04:36:37",
+            "description": "New infosec products of the week: July 14, 2023 - Help Net Security",
+            "reference": "https://ift.tt/XTmUMa8"
+        },
+        {
+            "timestamp": "2023-07-14 04:36:36",
+            "description": "National threats evolved from arms to metaverse, hawala to crypto ... - The New Indian Express",
+            "reference": "https://ift.tt/0F6Uqmz"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:45",
+            "description": "Making All Your Users Feel Welcome: Arkose Labs Challenges Are Now Certified WCAG Compliant",
+            "reference": "https://ift.tt/fwentFJ"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:44",
+            "description": "BBAM 1.1 Insecure Direct Object Reference",
+            "reference": "https://ift.tt/yWgzrFc"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:43",
+            "description": "BBook 5.7 Shell Upload",
+            "reference": "https://ift.tt/uMmRY5L"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:42",
+            "description": "BD-Schools LMS 1.0.2 Cross Site Scripting",
+            "reference": "https://ift.tt/tHFmSbN"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:41",
+            "description": "Bigware-Shop CMS 2.1 Insecure Direct Object Reference",
+            "reference": "https://ift.tt/vEBqxM7"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:40",
+            "description": "Blackboard 2.0.2 Database Disclosure",
+            "reference": "https://ift.tt/G76yold"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:38",
+            "description": "Blogator Script 0.93 Insecure Settings",
+            "reference": "https://ift.tt/ozkEDTw"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:37",
+            "description": "BKMobile CMS 1.5.0 SQL Injection",
+            "reference": "https://ift.tt/NAySUIi"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:36",
+            "description": "Bloly 1.3 Add Administrator",
+            "reference": "https://ift.tt/lg2fLIG"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:35",
+            "description": "BloodBank 1.0 Insecure Direct Object Reference",
+            "reference": "https://ift.tt/xbZGfcT"
+        },
+        {
+            "timestamp": "2023-07-14 04:17:34",
+            "description": "pfSense Restore RRD Data Command Injection",
+            "reference": "https://ift.tt/2eJZ9rR"
+        }
+    ],
+    "reverseame": [
+        {
+            "timestamp": "2023-07-14 08:15:06",
+            "description": "Tokenizer: Kernel Mode Driver for Elevating Process Privileges https://securityonline.info/tokenizer-kernel-mode-driver-for-elevating-process-privileges",
+            "reference": "https://securityonline.info/tokenizer-kernel-mode-driver-for-elevating-process-privileges/"
+        },
+        {
+            "timestamp": "2023-07-14 06:09:48",
+            "description": "RCE via LDAP truncation on hg.mozilla.org",
+            "reference": "https://0day.click/recipe/pash/"
+        },
+        {
+            "timestamp": "2023-07-13 10:47:38",
+            "description": "Beyond the Veil of Surveillance: Private Sector Offensive Actors (PSOAs)",
+            "reference": "https://socradar.io/beyond-the-veil-of-surveillance-private-sector-offensive-actors-psoas/"
+        },
+        {
+            "timestamp": "2023-07-12 15:46:37",
+            "description": "\u0424\u0421\u0411 \u0420\u043e\u0441\u0441\u0438\u0438 \u0432\u0441\u043a\u0440\u044b\u0442\u0430 \u0440\u0430\u0437\u0432\u0435\u0434\u044b\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0430\u043a\u0446\u0438\u044f \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0445 \u0441\u043f\u0435\u0446\u0441\u043b\u0443\u0436\u0431 \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0445 \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432 \u0444\u0438\u0440\u043c\u044b Apple http://www.fsb.ru/fsb/press/message/single.htm!id=10439739@fsbMessage.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-12 12:14:37",
+            "description": "Python byte code used to avoid detection and load malware",
+            "reference": "https://www.scmagazine.com/news/third-party-risk/python-byte-code-avoid-detection-load-malware"
+        },
+        {
+            "timestamp": "2023-07-12 06:23:27",
+            "description": "Froxlor v2.0.6 Remote Command Execution (CVE-2023-0315) https://shells.systems/category/static-code-analysis/",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-11 15:38:01",
+            "description": "Old Wine in the New Bottle: Mirai Variant Targets Multiple IoT Devices",
+            "reference": "https://unit42.paloaltonetworks.com/mirai-variant-iz1h9/"
+        },
+        {
+            "timestamp": "2023-07-11 11:55:04",
+            "description": "Restoring Dyld Memory Loading",
+            "reference": "https://blog.xpnsec.com/restoring-dyld-memory-loading/"
+        },
+        {
+            "timestamp": "2023-07-11 09:40:05",
+            "description": "NoirGate provides on-demand ephemeral anonymous shells secured by TOTP",
+            "reference": "https://github.com/Shell-Company/Noirgate"
+        },
+        {
+            "timestamp": "2023-07-11 06:11:01",
+            "description": "Supply Chain Risk from Gigabyte App Center Backdoor",
+            "reference": "https://eclypsium.com/blog/supply-chain-risk-from-gigabyte-app-center-backdoor/"
+        },
+        {
+            "timestamp": "2023-07-10 15:36:01",
+            "description": "Operation Triangulation: iOS devices targeted with previously unknown malware",
+            "reference": "https://securelist.com/operation-triangulation/109842/"
+        },
+        {
+            "timestamp": "2023-07-10 11:39:43",
+            "description": "C++17\u2019s Useful Features for Embedded Systems",
+            "reference": "https://interrupt.memfault.com/blog/cpp-17-for-embedded"
+        },
+        {
+            "timestamp": "2023-07-10 09:22:21",
+            "description": "Printerlogic multiple vulnerabilities",
+            "reference": "https://seclists.org/fulldisclosure/2023/May/16"
+        },
+        {
+            "timestamp": "2023-07-10 07:13:21",
+            "description": "STARFACE: Authentication with Password Hash Possible",
+            "reference": "https://www.redteam-pentesting.de/en/advisories/rt-sa-2022-004/-starface-authentication-with-password-hash-possible"
+        },
+        {
+            "timestamp": "2023-07-09 11:37:01",
+            "description": "New macOS vulnerability, Migraine, could bypass System Integrity Protection",
+            "reference": "https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/"
+        },
+        {
+            "timestamp": "2023-07-08 11:40:08",
+            "description": "Shedding light on AceCryptor and its operation",
+            "reference": "https://www.welivesecurity.com/2023/05/25/shedding-light-acecryptor-operation/"
+        },
+        {
+            "timestamp": "2023-07-07 15:32:32",
+            "description": "Analysis of Attack Cases: From Korean VPN Installations to MeshAgent Infections",
+            "reference": "https://asec.ahnlab.com/en/53267/"
+        },
+        {
+            "timestamp": "2023-07-07 13:02:32",
+            "description": "PentestGPT - A GPT-empowered Penetration Testing Tool https://www.kitploit.com/2023/05/pentestgpt-gpt-empowered-penetration.html",
+            "reference": "https://www.kitploit.com/2023/05/pentestgpt-gpt-empowered-penetration.html?utm_source=dlvr.it&utm_medium=twitter"
+        },
+        {
+            "timestamp": "2023-07-07 09:47:50",
+            "description": "COMPSCI 390R\nReverse Engineering & Vulnerability Analysis (lectures and other material) https://pwn.umasscybersec.org/",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-07 06:12:01",
+            "description": "Fortigate - Authentication Bypass Lead to Full Device Takeover",
+            "reference": "https://labs.hakaioffsec.com/fortigate-authentication-bypass/"
+        },
+        {
+            "timestamp": "2023-07-06 16:56:01",
+            "description": "FortiOS, FortiProxy, and FortiSwitchManager Authentication Bypass Technical Deep Dive (CVE-2022-40684)",
+            "reference": "https://www.horizon3.ai/fortios-fortiproxy-and-fortiswitchmanager-authentication-bypass-technical-deep-dive-cve-2022-40684/"
+        },
+        {
+            "timestamp": "2023-07-06 15:09:01",
+            "description": "Fortinet Series 1 \u2014 Analysis of CVE-2022\u201340684",
+            "reference": "https://medium.com/@INTfinity/fortinet-series-1-analysis-of-cve-2022-40684-88870994e6e0"
+        },
+        {
+            "timestamp": "2023-07-06 13:07:16",
+            "description": "Don't Click That ZIP File! Phishers Weaponizing .ZIP Domains to Trick Victims https://thehackernews.com/2023/05/dont-click-that-zip-file-phishers.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 08:03:15",
+            "description": "Meterpreter vs Modern EDR(s)",
+            "reference": "https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023"
+        },
+        {
+            "timestamp": "2023-07-05 22:38:35",
+            "description": "WinDiff: open-source web-based tool to browse and compare symbol and type information of Microsoft Windows binaries across different versions of the OS https://windiff.vercel.app/ GitHub:",
+            "reference": "https://github.com/ergrelet/windiff"
+        },
+        {
+            "timestamp": "2023-07-05 12:25:37",
+            "description": "GobRAT malware written in Go language targeting Linux routers",
+            "reference": "https://blogs.jpcert.or.jp/en/2023/05/gobrat.html"
+        },
+        {
+            "timestamp": "2023-07-05 09:30:39",
+            "description": "The EVM Handbook",
+            "reference": "https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d"
+        },
+        {
+            "timestamp": "2023-07-05 08:15:43",
+            "description": "Mercenary mayhem: A technical analysis of Intellexa's PREDATOR spyware",
+            "reference": "https://blog.talosintelligence.com/mercenary-intellexa-predator/"
+        },
+        {
+            "timestamp": "2023-07-04 16:03:01",
+            "description": "Threat Brief: Attacks on Critical Infrastructure Attributed to Insidious Taurus (aka Volt Typhoon)",
+            "reference": "https://unit42.paloaltonetworks.com/volt-typhoon-threat-brief/"
+        },
+        {
+            "timestamp": "2023-07-04 12:03:03",
+            "description": "Man-in-the-Middle Attacks without Rogue AP:\nWhen WPAs Meet ICMP Redirects",
+            "reference": "https://csis.gmu.edu/ksun/publications/WiFi_Interception_SP23.pdf"
+        },
+        {
+            "timestamp": "2023-07-04 09:05:57",
+            "description": "Nice series here >> Hunting for Persistence in Linux (Part 1): Auditd, Sysmon, Osquery (and Webshells)  (and good summary map in https://pberba.github.io/assets/posts/common/20220201-linux-persistence.pdf)",
+            "reference": "https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/"
+        },
+        {
+            "timestamp": "2023-07-04 06:03:37",
+            "description": "Looting iOS App\u2019s Cache.db",
+            "reference": "https://www.trustedsec.com/blog/looting-ios-apps-cache-db/"
+        },
+        {
+            "timestamp": "2023-07-03 15:56:06",
+            "description": "Debugging the Windows Kernel and Undocumented Structures https://twitter.com/Steph3nSims/status/1662156705457909760?s=20",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-03 13:25:06",
+            "description": "Introducing LOOBins",
+            "reference": "https://infosecb.medium.com/introducing-loobins-9e732b9e06a6"
+        },
+        {
+            "timestamp": "2023-07-03 11:25:06",
+            "description": "Rooting with root cause: finding a variant of a Project Zero bug",
+            "reference": "https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/"
+        },
+        {
+            "timestamp": "2023-07-03 09:23:50",
+            "description": "Barracuda identified a vulnerability (CVE-2023-2868) in our Email Security Gateway appliance (ESG)",
+            "reference": "https://status.barracuda.com/incidents/34kx82j5n4q9"
+        },
+        {
+            "timestamp": "2023-07-02 11:59:10",
+            "description": "Future Exploitation Vector: File Extensions as Top-Level Domains",
+            "reference": "https://www.trendmicro.com/en_us/research/23/e/future-exploitation-vector-file-extensions-as-top-level-domains.html"
+        },
+        {
+            "timestamp": "2023-07-02 11:37:01",
+            "description": "Future Exploitation Vector: File Extensions as Top-Level Domains",
+            "reference": "https://www.trendmicro.com/en_us/research/23/e/future-exploitation-vector-file-extensions-as-top-level-domains.html"
+        },
+        {
+            "timestamp": "2023-07-01 11:37:01",
+            "description": "Cloud-Based Malware Delivery: The Evolution of GuLoader",
+            "reference": "https://research.checkpoint.com/2023/cloud-based-malware-delivery-the-evolution-of-guloader/"
+        },
+        {
+            "timestamp": "2023-06-30 16:05:32",
+            "description": "Introduction to the Z3 Solver framework with the Hex-Rays CTF Challenge 2023",
+            "reference": "https://www.youtube.com/watch?v=kZd1Hi0ZBYc"
+        },
+        {
+            "timestamp": "2023-06-30 12:07:13",
+            "description": "Salt Labs exposes a new vulnerability in popular OAuth framework, used in hundreds of online services",
+            "reference": "https://salt.security/blog/a-new-oauth-vulnerability-that-may-impact-hundreds-of-online-services"
+        },
+        {
+            "timestamp": "2023-06-30 09:02:57",
+            "description": "Exploring P4 Protocol: Usage, Implementation, and CVE-2021-37535",
+            "reference": "https://redrays.io/exploring-p4-protocol-usage-implementation-and-cve-2021-37535/"
+        },
+        {
+            "timestamp": "2023-06-30 05:59:56",
+            "description": "CVE-2023-33617 Writeup",
+            "reference": "https://blog.gbrls.space/blog/cve-2023-33617-writeup/"
+        },
+        {
+            "timestamp": "2023-06-29 17:10:15",
+            "description": "Compromised from Within: The Unauthorized Restoration of TorGuard\u2019s Telegram Channel",
+            "reference": "https://medium.com/@TorGuard/compromised-from-within-the-unauthorized-restoration-of-torguards-telegram-channel-dce4c5836"
+        },
+        {
+            "timestamp": "2023-06-29 11:57:11",
+            "description": "Trusted publishing: a new benchmark for packaging security",
+            "reference": "https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/"
+        },
+        {
+            "timestamp": "2023-06-29 08:55:26",
+            "description": "React Router Version 6 Tutorial \u2013 How to Set Up Router and Route to Other Components",
+            "reference": "https://www.freecodecamp.org/news/how-to-use-react-router-version-6/"
+        },
+        {
+            "timestamp": "2023-06-29 05:56:30",
+            "description": "Typical vulnerabilities in lending and CDP protocols",
+            "reference": "https://blog.decurity.io/typical-vulnerabilities-in-lending-and-cdp-protocols-e778e540e215"
+        },
+        {
+            "timestamp": "2023-06-28 16:01:24",
+            "description": "The Underground History of Russia\u2019s Most Ingenious Hacker Group https://www.wired.com/story/turla-history-russia-fsb-hackers/",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-28 12:17:37",
+            "description": "CVE 2023 25690 Proof of concept - mod_proxy vulnerable configuration on Apache HTTP Server versions 2.4.0 - 2.4.55 leads to HTTP Request Smuggling vulnerability",
+            "reference": "https://github.com/dhmosfunk/CVE-2023-25690-POC"
+        },
+        {
+            "timestamp": "2023-06-28 09:34:17",
+            "description": "ChatGPT Vulnerable to Prompt Injection via YouTube Transcripts",
+            "reference": "https://www.tomshardware.com/news/chatgpt-vulnerable-to-youtube-prompt-injection"
+        },
+        {
+            "timestamp": "2023-06-28 05:51:07",
+            "description": "IcedID Macro Ends in Nokoyawa Ransomware",
+            "reference": "https://thedfirreport.com/2023/05/22/icedid-macro-ends-in-nokoyawa-ransomware/"
+        },
+        {
+            "timestamp": "2023-06-27 15:46:39",
+            "description": "sniffnet:  Application to comfortably monitor your Internet traffic \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+            "reference": "https://github.com/GyulyVGC/sniffnet"
+        },
+        {
+            "timestamp": "2023-06-27 12:07:02",
+            "description": "Block C2 communication with Defender for Endpoint",
+            "reference": "https://jeffreyappel.nl/block-c2-communication-with-defender-for-endpoint/"
+        },
+        {
+            "timestamp": "2023-06-27 08:53:09",
+            "description": "Rendezvous with a Chatbot: Chaining Contextual Risk Vulnerabilities",
+            "reference": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/rendezvous-with-a-chatbot-chaining-contextual-risk-vulnerabilities/"
+        },
+        {
+            "timestamp": "2023-06-27 06:10:45",
+            "description": "CVE-2023-31070 Broadcom BCM47xx SDK EMF slab-out-of-bounds write - the uncomfortable reality of the IoT Linux kernel space",
+            "reference": "https://bugprove.com/knowledge-hub/cve-2023-31070-broadcom-bcm-47xx-sdk-emf-slab-out-of-bounds-write/"
+        },
+        {
+            "timestamp": "2023-06-26 16:37:58",
+            "description": "KeePass 2.X Master Password Dumper (CVE-2023-32784)",
+            "reference": "https://github.com/vdohney/keepass-password-dumper"
+        },
+        {
+            "timestamp": "2023-06-26 12:02:31",
+            "description": "Abusing Time-Of-Check Time-Of-Use (TOCTOU) Race Condition Vulnerabilities in Games, Harry Potter Style",
+            "reference": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/abusing-time-of-check-time-of-use-toctou-race-condition-vulnerabilities-in-games-harry-potter-style/"
+        },
+        {
+            "timestamp": "2023-06-26 10:00:34",
+            "description": "PASTIS For The Win!",
+            "reference": "https://blog.quarkslab.com/pastis-for-the-win.html"
+        },
+        {
+            "timestamp": "2023-06-26 08:35:46",
+            "description": "Google Chrome V8 ArrayShift Race Condition Remote Code Execution",
+            "reference": "https://blog.exodusintel.com/2023/05/16/google-chrome-v8-arrayshift-race-condition-remote-code-execution/"
+        },
+        {
+            "timestamp": "2023-06-25 15:06:54",
+            "description": "Black Basta: Anatomy of the Attack",
+            "reference": "https://blogs.infoblox.com/cyber-threat-intelligence/black-basta-anatomy-of-the-attack/"
+        },
+        {
+            "timestamp": "2023-06-24 13:39:29",
+            "description": "New Strain of Sotdas Malware Discovered",
+            "reference": "https://blog.qualys.com/vulnerabilities-threat-research/2023/05/17/new-strain-of-sotdas-malware-discovered"
+        },
+        {
+            "timestamp": "2023-06-23 17:42:25",
+            "description": "Finding the Footprints of Hidden Shellcode",
+            "reference": "https://i.blackhat.com/Asia-23/AS-23-Uhlmann-You-Can-Run-But-You-Cant-Hide.pdf"
+        },
+        {
+            "timestamp": "2023-06-23 09:55:05",
+            "description": "Respawning Malware Persists on PyPI",
+            "reference": "https://blog.phylum.io/respawning-malware-persists-on-pypi/"
+        },
+        {
+            "timestamp": "2023-06-23 08:43:08",
+            "description": "\u2018FriendlyName\u2019 Buffer Overflow Vulnerability in Wemo Smart Plug V2",
+            "reference": "https://sternumiot.com/iot-blog/mini-smart-plug-v2-vulnerability-buffer-overflow/"
+        },
+        {
+            "timestamp": "2023-06-22 15:55:33",
+            "description": "Sticky notes for pentesting.",
+            "reference": "https://exploit-notes.hdks.org/"
+        },
+        {
+            "timestamp": "2023-06-22 12:52:34",
+            "description": "Testing a new encrypted messaging app's extraordinary claims",
+            "reference": "https://crnkovic.dev/testing-converso/"
+        },
+        {
+            "timestamp": "2023-06-22 09:09:53",
+            "description": "Exploiting Windows\u2019 vulnerabilities with Hyper-V: A Hacker\u2019s swiss army knife",
+            "reference": "https://reversing.info/posts/hyperdeceit/"
+        },
+        {
+            "timestamp": "2023-06-22 06:01:27",
+            "description": "Avast Anti-Virus privileged arbitrary file create on virus restore (CVE-2023-1586)",
+            "reference": "https://the-deniss.github.io/posts/avast-privileged-arbitrary-file-create-on-restore/"
+        },
+        {
+            "timestamp": "2023-06-21 16:05:47",
+            "description": "Hardware Hacking 101: Identifying and Dumping eMMC Flash",
+            "reference": "https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/"
+        },
+        {
+            "timestamp": "2023-06-21 13:17:04",
+            "description": "Triple Threat: Breaking Teltonika Routers Three Ways",
+            "reference": "https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways"
+        },
+        {
+            "timestamp": "2023-06-21 08:54:30",
+            "description": "SID filter as security boundary between domains? (Part 1) - Kerberos authentication explained [7 parts, this is the first one]",
+            "reference": "https://improsec.com/tech-blog/o83i79jgzk65bbwn1fwib1ela0rl2d"
+        },
+        {
+            "timestamp": "2023-06-21 05:51:47",
+            "description": "CVE-2023-26818 - Bypass TCC with Telegram in macOS",
+            "reference": "https://danrevah.github.io/2023/05/15/CVE-2023-26818-Bypass-TCC-with-Telegram/"
+        },
+        {
+            "timestamp": "2023-06-20 15:59:05",
+            "description": "The Race to Patch: Attackers Leverage Sample Exploit Code in WordPress Plug-in",
+            "reference": "https://www.akamai.com/blog/security-research/attackers-leverage-sample-exploit-wordpress-plugin"
+        },
+        {
+            "timestamp": "2023-06-20 12:11:40",
+            "description": "rax30 patch diff analysis & nday exploit for zdi-23-496",
+            "reference": "https://blog.coffinsec.com/nday/2023/05/12/rax30-patchdiff-nday-analysis.html"
+        },
+        {
+            "timestamp": "2023-06-20 10:12:41",
+            "description": "Quasar Rat Analysis - Identification of 64 Quasar Servers Using Shodan and Censys",
+            "reference": "https://embee-research.ghost.io/hunting-quasar-rat-shodan/"
+        },
+        {
+            "timestamp": "2023-06-20 06:13:11",
+            "description": "Linux IPv6 \"Route of Death\" 0day https://www.interruptlabs.co.uk/articles/linux-ipv6-route-of-death",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-19 15:48:57",
+            "description": "2023 ransomware insights",
+            "reference": "https://assets.barracuda.com/assets/docs/dms/2023-Ransomware-insights-report.pdf"
+        },
+        {
+            "timestamp": "2023-06-19 11:53:03",
+            "description": "You\u2019ve been kept in the dark (web): exposing Qilin\u2019s RaaS program",
+            "reference": "https://www.group-ib.com/blog/qilin-ransomware/?utm_source=twitter&utm_campaign=qilin-ransomware&utm_medium=social"
+        },
+        {
+            "timestamp": "2023-06-19 08:47:30",
+            "description": "CS:GO: From Zero to 0-day",
+            "reference": "https://neodyme.io/blog/csgo_from_zero_to_0day/"
+        },
+        {
+            "timestamp": "2023-06-19 06:26:44",
+            "description": "Kernel Object Names Lifetime",
+            "reference": "https://scorpiosoftware.net/2023/05/15/kernel-object-names-lifetime/"
+        }
+    ],
+    "ZerodayExploitware": [
+        {
+            "timestamp": "2023-07-14 10:41:26",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 07:17:00",
+            "description": "__**\ud83c\udf4d\ud835\udc0f\ud835\udc14\ud835\udc00__**__** \ud835\udc00\ud835\udc0d\ud835\udc03 \ud835\udc0f\ud835\udc14\ud835\udc0f \ud835\udc15\ud835\udc08\ud835\udc11\ud835\udc14\ud835\udc12\ud83c\udf4d__**__**__**__**\n\n__**__**\u2764\ufe0f\u200d\ud83d\udd25__**__**PUA AND PUP VIRUS MAINLY FOUND IN MODS AND CRACKED SOFTWARES__****__\u2764\ufe0f\u200d\ud83d\udd25**__**__\n\n**____**\u2620\ufe0f__****__Common PUAs**__**__\u2620\ufe0f**__**__\n\n**__**__\ud83c\udf4e**__**__Adware\nAdware is software that displays unwanted advertising on a computer or mobile device, usually in the form of pop-up ads, or they may redirect your browser to a certain website. While it usually doesn\u2019t cause any direct harm to the users\u2019 device, it can cause very annoying behaviors and could contain spyware, as well.\n\n**____**\ud83c\udf4e__**__**Browser hijacker\nBrowser hijacking is caused by malicious software. Generally used to display advertising, a browser hijacker can also be used to generate visits to a specific website, or can redirect you to a fraudulent website that could download malware onto your computer.\n\n__**__**\ud83c\udf4e__****__Spyware\nSpyware is designed to do exactly what it sounds like \u2014 it can hide on your computer and record your keystrokes and track your online activity. Cyberthieves can then obtain sensitive personal information, like your passwords or payment card information.\n\nModding may be an unauthorized change made to a software or hardware to a platform in gaming. ... However, the DMCA states that\u00a0it is illegal to circumvent copyright protection software, even for non-infringing uses such as backing up legally owned games.\n\n**____**\u2705__**__**Before opening any telegram file must scan it with __****__@VirusTotalAV_bot**__**__ or **____**virustotal.com__****__\n\n**____**\ud83d\udd29__**__**Use Avast Antivirus For Android \n__****__\ud83d\udd29**____**Use MalwareBytes For Pc\n\n\n\ud83d\udd79\ufe0fGuide\ud83d\udd79\ufe0f\n__****__https://telegra.ph/PUA-VIRUS-MUST-READ-10-15**____**\n\n__****__\ud83c\udfae**____**Uninstallation Guide__****__\ud83c\udfae**____**\n__**__**https://youtu.be/rdKKT1c_7Cw__**__**\n\n__**__**\u2b50\ufe0f__**__**Regards : __**__**@its_me_kali__**__** \n\n\u2661 \u3164\u00a0\u00a0\u00a0 \u274d\u3164\u00a0\u00a0\u00a0 \u2399\u3164\u00a0 \u2332\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \n\u02e1\u1da6\u1d4f\u1d49\u00a0 \u1d9c\u1d52\u1d50\u1d50\u1d49\u207f\u1d57\u00a0 \u02e2\u1d43\u1d5b\u1d49\u00a0 \u02e2\u02b0\u1d43\u02b3\u1d49__**",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 05:00:59",
+            "description": "\ud83d\udc9a **AndroBugs Framework****\ud83e\udd16****\n\n**Androbug framework is used to check the android apps vulnerabilities to find bugs in android application.\n\n\u2699\ufe0f Installation[:\n](http://t.me/TheStarkArmyX)$ apt install git\n$ apt install python2\n$ git clone https://github.com/AndroBugs/AndroBugs_Framework\n$ cd AndroBugs_Framework\n$ chmod +x *\n\n\ud83d\udd1b Usage:\nNow move your app to AndroBugs_Framework folder\n$ mv app.apk /$HOME/AndroBugs_Framework\n$ python2 androbugs.py -f app.apk -o result.txt\n\napp.apk = is your app name\nresult.txt = to store all information\n\nIt shows all bugs and vulnerabilities of your app\nthat's it\n\nBY @Mr_Neophyte\nContact for posting these content in your channel\n\nShare With your mates\ud83d\udd35",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 04:13:23",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 04:13:17",
+            "description": "How to Open  GP  Links in Telegram\n\nNote:- Use [Brave Browser](https://brave.com/) for skip ads.",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 03:54:31",
+            "description": "Download Link updated. gplink added. Easy step to download. Just follow the steps.",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-13 17:44:46",
+            "description": "**EazyDiner Prime : Get Free 3 Months Membership\n\n**Link : https://www.eazydiner.com/premium-prime-dining\n\nSelect 3 Months , Apply Code : `EDNIIT\n\n`**Benefits** : Minimum 25% off upto 50% off on the entire table",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-13 17:11:41",
+            "description": "#Paid Promotion\n\n\ud83d\udd10\ud83d\udca5Red Team vs Blue Team | Metasploitable v2 2023 | Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=HGxzTcf1lP8"
+        },
+        {
+            "timestamp": "2023-07-13 17:06:10",
+            "description": "2023 UPDATED BEST HACKING COLLECTION.\n\nFREE CREDIT CARDS\n\nFREE X2 2.7 GOLD EDITION CLONING EMV CHIP  \n\nFREE FACEBOOK WHATSAPP HACKING TOOLS\n\nFREE BTC GEN SOFTWARE\n\nFACEBOOK BTC EMV SOFTWARE FAKE BTC FAKE PAYMENTS WUP CC DUMPS   UPDATED      \n                           \n Download Link:-\n\nhttps://gplinks.co/87T2Jp\n                     \nhttps://link-target.net/886759/2023-updated-best-hacking\n\nHow To Download File From Linkvertise Links\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZerodayExploitware/1478\n\n\nJoin the Telegram channel:-\nhttps://t.me/ZerodayExploitware\n\nJoin the Telegram Group for Discussion:-\nhttps://t.me/ZeroDayDiscussion",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-13 06:34:38",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-13 06:34:33",
+            "description": "How To Download File From Linkvertise Links\n\nStep1:- Visit Linkvertise website\n\nStep2:-  Scroll Down\n\nStep3:- Click on the \"Free Access\"",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-12 17:21:45",
+            "description": "F-Secure Freedome VPN for **3 devices / 12 months**.\n\n1. Download Freedome VPN [here ]()and then run the app\n\nIf you have an iOS device:\n\n1. Download Freedome VPN [here\n\n](https://redirect.nospam.today/aHR0cHM6Ly91MTkwMTgwNTMuY3Quc2VuZGdyaWQubmV0L2xzL2NsaWNrP3Vwbj1qODB6VmRjV3dwMlRvN1YwQThyd3lTVTNua3V5aVB0NzVDQ1h0T01GcDlRWDdtR2JLMmttcS0yRk5vcUd5UGktMkJFMlNGeXhFbWhudm45MU5tUjB1bVU2NThkRmRCNElsVXBsS2hMNWdIWWR0UEktM0QyVDd0X09GemJlOVJNNElBS2JRbS0yRnFjT1g5WXAzR2NvUlQxRWZLWkVsS3hCdjYtMkZGRndhT05FelBpRXZaZUcxejVjY0RlWEhnRTNSU1VDaExNdGdKcGJBd2Yya3FBRzZ1U3hjRmhTTjZkc1Roc1BVallRQVBKN3JUekFjN2dDdnpMWW8ybzk0ZDNrdVVxOUxDLTJCcWJ2WjhBWk01RGlkeUlma2ptaGZvNFlqREtieFJhYkR5bXBSLTJCSUNnaWZHSHhhVEtQc20xY2QxYVJ1SUpEUUc3U0p6WHBZU2dlQS0zRC0zRA==)2. Open the app and go to \u201cSubscription\u201d through the side menu\n\n3. Choose \u201cDid you already buy a multi-platform subscription\u201d and type in this code: \n\n`REP9-KFBM-DXG6`",
+            "reference": "https://redirect.nospam.today/aHR0cHM6Ly91MTkwMTgwNTMuY3Quc2VuZGdyaWQubmV0L2xzL2NsaWNrP3Vwbj1qODB6VmRjV3dwMlRvN1YwQThyd3llcmhvQ3lHdXIwSVVKclVlYXBlTEIzUnlNVHZ6dEJTeFdLRkJSbGhqREl1b2UzWlE2MEJaWjdCZndDNlF4SEhGZkplM2lKeG1FdU1BUDlFLTJGUllLSnFNLTNEQ0NwUl9PRnpiZTlSTTRJQUtiUW0tMkZxY09YOVlwM0djb1JUMUVmS1pFbEt4QnY2LTJGRkZ3YU9ORXpQaUV2WmVHMXo1Y2NEZTYtMkZ1cVg1T2NTM0R2aHdSNmlrejlGODNqWWEyWlhPQUFMRkVvTDFGcWFpSkwwbDdLeU10eU5jdWVRLTJCWUxtWGhFUThpM1Rzb1JBSU9WSkdCT3Z6UDNTcjlERWNtU2FxN2cxS1c0Qm5lUWcwaXM5RU0xS3h1aHkyLTJCdUhyT1p1RXZzUVJ5Q0U3TnJ5ck4zRmJVQzFYSUZTZy0zRC0zRA=="
+        },
+        {
+            "timestamp": "2023-07-12 17:15:59",
+            "description": "\ud83d\udd10\ud83d\udca5How to Hack Wifi Using Airgeddon Evil Twin Attack | Metasploitable v2 2023 | Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=l7WpFi2FuIY"
+        },
+        {
+            "timestamp": "2023-07-12 16:50:17",
+            "description": "\ud83c\udff4\u200d\u2620\ufe0f\ud83c\udff4\u200d\u2620\ufe0fCOMPLETE HACKING COURSE\ud83c\udff4\u200d\u2620\ufe0f\ud83c\udff4\u200d\u2620\ufe0f\n\n\u2623\ufe0f Ethical Hacking Complete Course \u2623\ufe0f\n\n\ud83d\udcb0Original Price:- Atleast 250$\n\nFREE FOR YOU\n\nWhat will you learn in this course :\n\n\ud83d\udd38Important Terms Used In Ethical Hacking\n\ud83d\udd38Introduction To Footprinting\n\ud83d\udd38Get Information From Website Name\n\ud83d\udd38How To Collect Information Using E-mail\n\ud83d\udd38Information Collection Using Network\n\ud83d\udd38Information Gathering Using Search Engine\n\ud83d\udd38Deep learn Of Footprinting (conclusion)\n\ud83d\udd38How To Disable Httrack & Web Mirroring\n\ud83d\udd38Completely Hide Your Personl Details From Internet\n\ud83d\udd38Practical Of Ip Address And Local Host\n\ud83d\udd38Introduction To Ip Addres\n\ud83d\udd38Virtual Lab Setting\n\ud83d\udd38Introduction To Proxy\n\ud83d\udd38How To Use Tor Browser\n\ud83d\udd38How To Use Multiple Proxies\n\ud83d\udd38How To Use Free Proxy Server\n\ud83d\udd38What Is Scanning\n\ud83d\udd38Live Network, Port And Ip Scanning\n\ud83d\udd38How To Check Target Basic Details\n\ud83d\udd38Banner Grabbing Explained With Practical\n\ud83d\udd38Vulnerability Scanning Explained\n\ud83d\udd38Mask Your Banner To Confuse Hackers\n\ud83d\udd38Close Open Ports And Secure Your Data\n\ud83d\udd38What Is Enumeration\n\ud83d\udd38Web Enumeration Explained\n\ud83d\udd38Netbios Enumeration Practical\n\ud83d\udd38System Hacking Explained\n\ud83d\udd38How To Work In Computer Without Login\n\ud83d\udd38How To Recover Windows Password\n\ud83d\udd38What Is Virus, Malware And Worms Explained\n\ud83d\udd38What Is Trojan Explained\n\ud83d\udd38Virus Maker Explained\n\ud83d\udd38The Working Of Trojan\n\ud83d\udd38What Is Sniffing Explained\n\ud83d\udd38What Is Man In The Middle Attack Explained\n\ud83d\udd38What Is Mac Flooding Attack\n\ud83d\udd38Penetst Sniffing\n\ud83d\udd38What Is Spoofing Explained\n\ud83d\udd38What Is Arp Spoofing Explained With Practical\n\ud83d\udd38Mac Address Spoofing Explained\n\ud83d\udd38Email Spoofing Explained With Practical\n\ud83d\udd38What Is Social Engineering\n\ud83d\udd38What Is Phishing Explained\n\ud83d\udd38online phishing\n\ud83d\udd38How To Setup A Lab For Online Hacking\n\ud83d\udd38How To Create A Page In Phishing\n\ud83d\udd38How To Detect And Prevent Phishing\n\ud83d\udd38What Is Dos & Ddos Attack Explaind\n\ud83d\udd38Dos Attack A Small Demo\n\ud83d\udd38Different Ways Of Dos & Ddos\n\ud83d\udd38A Unique Method Of Dos Using Google\n\ud83d\udd38ways To protect Dos & ddos\n\ud83d\udd38What Is Cookie Stealing Demo\n\ud83d\udd38Sidejacking Explained With Practical\n\ud83d\udd38Session Hijacking Explained\n\ud83d\udd38Session Hijacking Explained With Practical\n\ud83d\udd38Web Application And Server Explained\n\ud83d\udd38How To Install Dvwa And Mutillide On Virtual Box\n\ud83d\udd38How To Collect Server Information Of Any Website Live\n\ud83d\udd38What Is Buffer Overflow Explained\n\ud83d\udd38Practical Of Buffer Overflow On Website\n\ud83d\udd38Lab Setting For Buffer Overflow\n\ud83d\udd38Buffer Overflow Explained With Practical\n\ud83d\udd38Cross Site Scripting Attack Explained\n\ud83d\udd38Cross Site Scripting Attack Demo\n\ud83d\udd38What Is Sql Injetion Explained\n\ud83d\udd38Live Sql Vulnerability Testing\n\ud83d\udd38Live Advance Sql Injection Practical\n\ud83d\udd38Best Way To Be Safe From Sql Injection\n\ud83d\udd38How To Catch Hackers Using Fake Info\n\ud83d\udd38What Is Steganography\n\ud83d\udd38Image & Text Steganography Practical\n\ud83d\udd38Video & Audio Steganography Practical\n\ud83d\udd38Redirect User Authentication Using Csrf\n\ud83d\udd38Pentesting With Formula Injection\n\ud83d\udd38Penetesting With Css Injection\n\ud83d\udd38Path Traversal Attack Detection & Prevention\n\ud83d\udd38Command Injection Explained With Demo\n\ud83d\udd38Web Hacking Using Repeater\n\ud83d\udd38Web Application Pentesting Bypass Website Info\n\ud83d\udd38Sensitive Infromation Stored In Target Tab Burp Suit\n\ud83d\udd38Scan Vulnerabilities In A Web Application\n\ud83d\udd38What Is Cryptography\n\ud83d\udd38How To Encrypt Or Decrypt Messages\n\ud83d\udd38Chat Anonymously With Anyone\n\ud83d\udd38Basic Terms Related To Wi-Fi\n\ud83d\udd38Best Mobile Security Tips\n\ud83d\udd38Latest Banking Security Tips\n\nDownload Link:-   https://linkvertise.com/886759/complete-hacking-course/1 \n       \nJoin the Telegram channel:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n\n\nJoin the Telegram Group for Discussion:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZeroDayDiscussion",
+            "reference": "https://t.me/ZerodayExploitware"
+        },
+        {
+            "timestamp": "2023-07-11 17:01:30",
+            "description": "\ud83d\udd10\ud83d\udca5What is Enterprise Information Security Architecture (EISA)| Metasploitable v2 2023 | Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/shorts/fyO4WBnGR7E"
+        },
+        {
+            "timestamp": "2023-07-11 15:17:11",
+            "description": "**GET YOUR .PRO DOMAIN NAME FOR FREE!\n\n**Promo Code: DOTPROFREE2\n\nLink:\n\nhttps://porkbun.com/land/dot-pro-domain-name-registration",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-11 13:53:38",
+            "description": "**__\u27a1\ufe0f**____**Batch Scripting Guide__**__**\u27a1\ufe0f__****__\n\nIn batch scripting, also known as Windows Command Prompt scripting, you can automate repetitive tasks by writing a series of commands in a text file with a .bat extension.Learn and master the Basics of Batch Scripting in this comprehensive course\n\n**____**\ud83d\udd29__****__Modules**____**\ud83d\udd29__**__**\n\n__****__\u27a1\ufe0f**__**__Batch script introduction and create Batch file.\n\n**__**__\u27a1\ufe0f**____**Basic Batch script commands.\n\n__**__**\u27a1\ufe0f__****__Variables in batch script.\n\n**__**__\u27a1\ufe0f**__**__Strings in batch script.\n\n**__**__\u27a1\ufe0f**__**__Arrays in batch script.\n\n**____**\u27a1\ufe0f__**__**Decision making condition.\n\n__****__\u27a1\ufe0f**__**__Operators and function in batch script.__\n\n**__**\ud83d\udcdb__****Note****\ud83d\udcdb****\nIts only for educational purpose.\n\n****\u2618****Pass: ****@its_me_kali**** \n\n\u2661 \u3164\u00a0\u00a0\u00a0 \u274d\u3164\u00a0\u00a0\u00a0 \u2399\u3164\u00a0 \u2332\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \n\u02e1\u1da6\u1d4f\u1d49\u00a0 \u1d9c\u1d52\u1d50\u1d50\u1d49\u207f\u1d57\u00a0 \u02e2\u1d43\u1d5b\u1d49\u00a0 \u02e2\u02b0\u1d43\u02b3\u1d49**",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-11 09:43:21",
+            "description": "__**FastVideoDownloader 1 Year Licenses | x100\n\n**Tool Info: ________\n\nDownload Link: ____https://fastpctools.com/appdownload/fvd____\n\nLink: ____https://privatebin.net/?d42d57fe8fff7d36#7GSLdoAgzdcFzHeQDeenhtBX9o6UL4rmC9xLdXUD6DLF____\n\nPaste auto expires in 24 hours__",
+            "reference": "https://fastpctools.com/fast-video-downloader/"
+        },
+        {
+            "timestamp": "2023-07-11 09:42:50",
+            "description": "Apple Music Codes | x100 (IP: US)\nRedeem here: https://music.apple.com/includes/commerce/redeem/code-entry\n2 months for new users, 1 month for existing ones\n\n#4rNbm9rwqf1usKLonVAtjjuyKntin7fo99Q3wpuNmRdR\n\nPaste auto expires in 24 hours, better be active",
+            "reference": "https://privatebin.net/?e809b97218fd475b"
+        },
+        {
+            "timestamp": "2023-07-09 17:33:36",
+            "description": "\ud83d\udd10\ud83d\udca5How To Install and Use Zphisher in Kali Linux | Metasploitable v2 2023 | Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=8XoTSFI1HAs"
+        },
+        {
+            "timestamp": "2023-07-08 17:47:05",
+            "description": "CrimeFlare\nCrimeFlare is back again! This tools can help you to see the real IP behind CloudFlare protected websites.\nIntroduction\nThis tool serves to find the original IP behind websites that have been protected by CloudFlare, the information generated can be useful for further penetration.\nthis tool does not guarantee 100% to be able to bypass websites that have been protected by CloudFlare. Some websites sometimes cannot be detected by their original IP.\n\nInstallation\nBefore running CrimeFlare make sure you have php-curl installed, install it with the command sudo apt install php-curl and follow the next installation steps.\ngit clone https://github.com/zidansec/CloudPeler.git\ncd CloudPeler\n./crimeflare.php exemple.com\nSimple install CrimeFlare on Ubuntu:\nsudo wget https://github.com/.../CloudPeler/raw/master/crimeflare.php -O /bin/crimeflare && sudo chmod +x /bin/crimeflare\nRun command: crimeflare or crimeflare exemple.com\n\nI\n\u2717 [ZeroDay Exploit](https://t.me/ZerodayExploitware) \u2717",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-08 16:56:30",
+            "description": "MRFHH64AXTFN\nMRFH3PPXP6M4\nMRFFL64JMRAN\nMRFF6LTTTEJM\nMRFFJRHN3WPE\nMRFETNL9EW94\nMRFAWNYFNXTK\nMRFERKMPXPAJ\nMRFAWJ96PP99\nMRFAW7697PT4\n\nhttps://music.apple.com/includes/commerce/redeem/code-entry\n2 months for new users, 1 month for existing ones",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-08 16:48:51",
+            "description": "\ud83d\udd10\ud83d\udca5How To Install Nmap in Windows 10 or 11 | Metasploitable v2 2023 | Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=hJfesT-VPqQ"
+        },
+        {
+            "timestamp": "2023-07-07 16:50:22",
+            "description": "https://www.iscreenkit.com/ 1 Year Keys\n\nNLQ6-E2HL-H5G8-Z2T6-TLF2\nKS2W-2R5U-EU3C-4VUA-4BUG\nMP4B-2YWJ-UYVX-W2NN-AALN\nHZ3W-GW4R-EZPG-GD3Q-WS52\n666H-JJ2P-YMUF-PNKL-MSBZ\nZBCE-S3KB-A45A-RD7K-GZ63\n54HL-FX6V-B74U-7AZN-SE2J\n6524-XKRW-BCQL-2779-X3MM\nAMER-2445-J9LE-Z4VX-PNF9\nYPCM-SVPW-LUNG-SJQP-4DLD\nKEDG-BCHT-GVUX-EBL9-49CW\n87T5-VVPA-6QLU-AX8U-VJ7V\n7PJX-J2W9-N8ME-ZN7R-UVE7\nRXLT-EMY3-LHR5-SQBG-Y4JR\nDV99-8MDT-2XEW-7SFB-JXT5\nXJKZ-6JTA-LSTT-N926-5SQE\n\n\u2705 Like & Share\u00a0 \n\u2705 Join: \n\n\nhttps://t.me/ZeroDayDiscussion\n\nhttps://www.youtube.com/@Hacker101vids\n\nLike and Subscribe Youtube channel\n\nEnjoy \ud83c\udf81",
+            "reference": "https://t.me/ZerodayExploitware"
+        },
+        {
+            "timestamp": "2023-07-07 16:49:03",
+            "description": "\ud83d\udd10\ud83d\udca5How To Use Fern Wifi Cracker In Kali Linux| Metasploitable v2 2023 | Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=K2rIQHcqm_8"
+        },
+        {
+            "timestamp": "2023-07-07 15:30:29",
+            "description": "__**\ud83d\udcbb__**__**Web Hacking Guide__****__\ud83d\udcbb**__**__\n\nIn this course will gain a deep understanding of the vulnerabilities and attack vectors commonly exploited by hackers.\n\n**__**__\ud83d\udfe2**____**Key topics covered in this course__****__\ud83d\udfe2**__**__\n\n**__**__\ud83c\udf3f**____**Introduction to Website Security: Understanding the importance of website security and the role of ethical hacking. \n\n__****__\ud83c\udf3f**____**Web Fundamentals: Exploring the technologies and protocols used in website development and their potential vulnerabilities. \n\n__****__\ud83c\udf3f**__**__Reconnaissance and Information Gathering: Learning techniques to gather information about a target website and identify potential entry points. \n\n**__**__\ud83c\udf3f**____**Web Application Attacks: Studying common vulnerabilities like SQL injection, cross-site scripting (XSS), cross-site request forgery (CSRF), and more. \n\n__****__\ud83c\udf3f**__**__Exploitation Techniques: Demonstrating how hackers exploit identified vulnerabilities for unauthorized access or data manipulation. \n\n**__**__\ud83c\udf3f**____**Web Application Security Controls: Implementing effective security measures and best practices to protect against attacks. \n\n__**__**\ud83c\udf3f__**__**Security Assessment and Testing: Conducting comprehensive security assessments of websites using various tools and methodologies. \n\n__****__\ud83c\udf3f**__**__Web Server Security: Examining server-side vulnerabilities and hardening techniques. \n\n**__**__\ud83c\udf3f**____**Secure Coding Practices: Understanding secure coding principles to develop robust web applications. \n\n__****__\ud83c\udf3f**____**Web Application Firewall (WAF): Exploring the role of WAFs in protecting websites against common attacks.\n\n__**__**\ud83d\udcdb__****__Note**__**__\ud83d\udcdb**____**\nIts only for educational purpose.\n\n__****__\u2618**__**__Pass: **__**__@its_me_kali**__**__ \n\n\u2661 \u3164\u00a0\u00a0\u00a0 \u274d\u3164\u00a0\u00a0\u00a0 \u2399\u3164\u00a0 \u2332\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \n\u02e1\u1da6\u1d4f\u1d49\u00a0 \u1d9c\u1d52\u1d50\u1d50\u1d49\u207f\u1d57\u00a0 \u02e2\u1d43\u1d5b\u1d49\u00a0 \u02e2\u02b0\u1d43\u02b3\u1d49**__",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-07 14:46:51",
+            "description": "\ud83c\udf10 **DARK WEB UPDATED LINKS **\ud83c\udf10\n\n__**\ud83d\udcccNote :- USE TOR BROWSER ONLY TO ACCESS\n\n\ud83c\udf00Data Base\n\ud83c\udf00Best Hiden Wiki\n\ud83c\udf00Uk Guns and Ammo Store\n\ud83c\udf00Scary & Creepy Videos \n\ud83c\udf00USfakeIDs \u2013 US fake ID store \n\ud83c\udf00Kamagra 4 Bitcoin \u2013 Like Viagra but cheaper\n\ud83c\udf00Bitcoin Investment Trust \u2013 earn 5-9% per week! \n\ud83c\udf00Mobile Store \u2013 Best unlocked cell phones vendor \n\ud83c\udf00Dark Web Hackers for Social Media Account Hacking\n\ud83c\udf00Bitcoin mining with stolen electricity Darkmining\n\ud83c\udf00Premium Paypal, Ebay and bank accounts - AccMarket\n\ud83c\udf00Cardshop \u2013 USA CVV KNOWN BALANCE & Worldwide CC & CVV\n\ud83c\udf00Fake passports and ID cards for Bitcoin Onion Identity Services\n\nGet All Tor Links : __**[**Click Here\n\n](https://telegra.ph/DARK-WEB-UPDATED-LINKS-07-07)****__\u26a0\ufe0f__DISCLAIMER** : **__This tool is only for educational purpose \u2757\ufe0f\n\n__How To Use Tor **: [\ud83c\udd32\ud83c\udd3b\ud83c\udd38\ud83c\udd32\ud83c\udd3a \ud83c\udd37\ud83c\udd34\ud83c\udd41\ud83c\udd34\n\n](https://tb-manual.torproject.org/mobile-tor/)BY @Mr_Neophyte\nContact for posting these content in your channel\n\n**\u2714\ufe0fShare with Your Friends.**",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 18:11:02",
+            "description": "\ud83d\udd30 **ASURA** \ud83d\udd30\n\n\n\u2622\ufe0f **ABOUT TOOL** \u2622\ufe0f\n\nAn automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !\n\n\ud83d\udd30 **REQUIRMENT** \ud83d\udd30\n\n\u25aa\ufe0f First internet connection.\n\u25aa\ufe0f Latest version **TERMUX\n**\u25aa\ufe0fInstall GIT\n\n\ud83d\udd30 **INSTALL WITH TERMUX** \ud83d\udd30\n\n\u2022 `pkg update & pkg upgrade \n\n`\u2022 `pkg install git -y\n\n`\u2022 `git clone https://github.com/princekrvert/Asura.git\n\n`\u2022 `cd Asura\n\n`\u2022 `chmod +x *\n\n`\u2022 `./install.sh\n\n\n`\ud83d\udeab DISCLAIMER \ud83d\udeab\n\nThis tool is only for educational purpose \u2757\ufe0f\n\nBY @Mr_Neophyte\nContact for posting these content in your channel\n\n**\u2714\ufe0fShare with Your Friends.**",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 17:11:33",
+            "description": "\ud83c\udf81 CANVA PRO TEAM INVITE \ud83c\udf81\n\u00a0\u00a0\u00a0\u00a0 Updated :06/07/2023\n\n\u250f Expiry: August 6, 2023 \n\u2523 User Limit: 500 Only\n\u2517 Join Now: Invitation Link \n\n\ud83d\udd17https://www.canva.com/brand/join?token=1PFZngYfbNLYQoEde6m18g&referrer=team-invite\n\n\u2705 Like & Share\u00a0 \n\u2705 Join: \nhttps://t.me/ZerodayExploitware\n\nhttps://t.me/ZeroDayDiscussion\n\nhttps://www.youtube.com/@Hacker101vids\n\nLike and Subscribe Youtube channel\n\nEnjoy \ud83c\udf81",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 17:07:58",
+            "description": "**[GIVEAWAY] Lifetime VMware 14 Keys!\n\n\nThese keys will never expire. Use the software like a charm, forever!\n\n**```AG352-4YED3-0852Q-LPXXT-MGKG4\n \nFC1R0-2EX4M-H854Y-2NWGE-Q2KXA\n\nZU3EH-0YXD4-4819Q-CFWQZ-MZHX4\n\nUF3H2-0ME0J-M8EAY-CMNNT-NZ0ZA\n\nGU38K-DJW07-488MY-85YXT-P3HU4\n\nYU1R2-8RZ16-4816Y-WYNET-WQUFD\n\nVV140-2ZFD1-H88YY-N5X5C-PF8Z6\n\nFF7N0-DEX81-H85HP-4ZXZX-YYRU4\n\nCU14H-AEZDM-081MZ-RPXQT-WFKG6\n\nAA1T2-2KE13-088JQ-JEY7C-WUHT0\n\nYZ35U-4PED5-M881Z-87WEV-NY2XA\n\nFC382-DFDDL-4801Q-KNYNT-YVAR6\n\n```t.me/ZeroDayDiscussion\n**\u267b\ufe0fShare And Support Us\u267b\ufe0f \n\n\u2796\u2796\u2796****https://t.me/ZerodayExploitware\u2796\u2796\u2796**",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 17:05:26",
+            "description": "\ud83d\udd10\ud83d\udca5How To Use Proxychains In Kali Linux| Metasploitable v2 2023 | Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=KWwOU1z5E8E"
+        },
+        {
+            "timestamp": "2023-07-06 08:15:18",
+            "description": "\u2705 **WebSecurity - Web Applications Security Scanner  Best Powerful Tool for Termux ** \u2705\n\n\u26a0\ufe0f**ABOUT**- __This information is only for educationla purpose and we are not responsible for any kind of illegal activity done by this tool__\ud83d\udee1\n\n\ud83d\udd34 **FEATURES** \ud83d\udd34\n\n\n1- s\u1d04\u1d00\u0274 \u1d00 \u1d1c\u0280\u029f \u1d0f\u0280 \u029f\u026as\u1d1b \u1d0f\u0493 \u1d1c\u0280\u029f\u2019s\n2- \u1d05\u1d07\u1d1b\u1d07\u1d04\u1d1b \u1d00\u0274\u1d05 \u1d07x\u1d18\u029f\u1d0f\u026a\u1d1b \u0280\u1d07\u1d0d\u1d0f\u1d1b\u1d07 \u1d04\u1d0f\u1d05\u1d07 \u026a\u0274\u1d0a\u1d07\u1d04\u1d1b\u026a\u1d0f\u0274 \u1d20\u1d1c\u029f\u0274\u1d07\u0280\u1d00\u0299\u026a\u029f\u026a\u1d1b\u026a\u1d07s.\n3- \u0280\u1d07\u1d0d\u1d0f\u1d1b\u1d07 \u1d04\u1d0f\u1d0d\u1d0d\u1d00\u0274\u1d05 \u1d07x\u1d07\u1d04\u1d1c\u1d1b\u026a\u1d0f\u0274 \u1d20\u1d1c\u029f\u0274\u1d07\u0280\u1d00\u0299\u026a\u029f\u026a\u1d1b\u026a\u1d07s.\n4- s\u03d9\u029f \u026a\u0274\u1d0a\u1d07\u1d04\u1d1b\u026a\u1d0f\u0274 \u1d20\u1d1c\u029f\u0274\u1d07\u0280\u1d00\u0299\u026a\u029f\u026a\u1d1b\u026a\u1d07s.\n5- \u1d1b\u028f\u1d18\u026a\u1d04\u1d00\u029f xss \u1d20\u1d1c\u029f\u0274\u1d07\u0280\u1d00\u0299\u026a\u029f\u026a\u1d1b\u026a\u1d07s.\n6- \u1d05\u1d07\u1d1b\u1d07\u1d04\u1d1b \u1d21\u1d07\u0299\u1d0b\u0274\u026a\u0262\u029c\u1d1b \u1d21\u1d00\u0493.\n7- \u026a\u1d0d\u1d18\u0280\u1d0f\u1d20\u1d07\u1d05 \u1d18\u1d00\u028f\u029f\u1d0f\u1d00\u1d05s \u1d1b\u1d0f \u0299\u028f\u1d18\u1d00ss s\u1d07\u1d04\u1d1c\u0280\u026a\u1d1b\u028f \u0493\u026a\u029f\u1d1b\u1d07\u0280s/\u1d21\u1d00\u0493\u2019s.\n8- \u0493\u026a\u0274\u0262\u1d07\u0280-\u1d18\u0280\u026a\u0274\u1d1b \u1d1b\u029c\u1d07 \u0299\u1d00\u1d04\u1d0b\u1d07\u0274\u1d05 \u1d1b\u1d07\u1d04\u029c\u0274\u1d0f\u029f\u1d0f\u0262\u026a\u1d07s.\n\n\ud83d\udcc0 **INSTALLATION** \ud83d\udcc0\n\n\n$ `apt install git \n\n`$ `apt install python` \n\n$ `apt install python2` \n\n$ `git clone https://github.com/zigoo0/webpwn3r\n\n`$ `cd webpwn3r\n\n`$ `chmod +x * \n\n`$ `ls\n\n`$ `python2 scan.py\n\n\n`BY @Mr_Neophyte\nContact for posting these content in your channel\n\n**\u2714\ufe0fShare with Your Friends.**",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-05 16:55:34",
+            "description": "\ud83d\udca5\ud83d\udca5Fresh Paid Hackpack\ud83d\udca5\ud83d\udca5\nSIZE : 51 GB\n\n\ud83d\udd3bZsecurity All Courses(updated)\n\ud83d\udd3bBuild A Python Speech Assistant\u00a0\u00a0 \n\u00a0\u00a0\u00a0\u00a0 App\n\ud83d\udd3bPython Project Create Real Software\n\ud83d\udd3bMake Google Translate App in \n\u00a0\u00a0\u00a0 Python app developmenot with \n\u00a0\u00a0\u00a0 CID\n\ud83d\udd3bBuild A Python App That Tracks Amazon Prices!\n\ud83d\udd3bCoding Livestream Creating an Online Chat App with Python\n\ud83d\udd3bHow to Create Calculator in Python - Full Tutorial\n\ud83d\udd3bHow to make a Billing Software in Python \n\ud83d\udd3bHow To Make a Chatbot in Python\n\ud83d\udd3bPython Snake Game Written and Deployed on IPHONE in TWENTY MINUTES\n\ud83d\udd3bAnkit Fadia All Materials\n\ud83d\udd3bComputer virus guide\n\ud83d\udd3bGmail Hacking guide\n\ud83d\udd3bGreyhat hacking\n\ud83d\udd3bGoogle secret guide\n\ud83d\udd3bHacking highschool all ebook\n\ud83d\udd3bwebsite hacking secret\n\ud83d\udd3bwindow xp hack\n\ud83d\udd3bPrograming materials\n\ud83d\udd3bKali linux All Materials\n\ud83d\udd3bOperating Systems Instalation guide(kali linux,Arch linux,Parrot Os,Termux,ubuntu)\n\ud83d\udd3b CyberTraining365 Certified Ethical Hacker (CEH)\n\ud83d\udd3bOthet 250 materials\n\ud83d\udd3bBug bounty Course\n\ud83d\udd3bKali linux basic course\n\ud83d\udd3bKali linux complete course\n\ud83d\udd3bEthical Hacking complete course\nAnd many more.....\n\nDownload link:\n#qEzhyi-DmXLLSXfQuAJuyg\n\n51 GB MEGA PACK \ud83d\udd12\n\nShare with your friends\n\n\nJoin the Telegram channel:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZerodayExploitware\n\nJoin the Telegram Group for Discussion:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZeroDayDiscussion\n\nLike and Subscribe our Youtube channel.\nhttps://www.youtube.com/@Hacker101vids",
+            "reference": "https://mega.nz/folder/4VFXBKpT"
+        },
+        {
+            "timestamp": "2023-07-05 16:52:40",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-05 16:52:40",
+            "description": "-: LECTRON \u26a1\ufe0f DDoS Protection for the Underserved.:-\nWe protect and speed up game servers, mail servers, backend, and any apps that use TCP/UDP protocols at the lowest price.\nCloudflare Spectrum & Path Network \u2192 cheaper \ud83e\udd11\n\u26a1\ufe0f Anycast by default\n\ud83d\udddd NO vendor lock-in\n\ud83d\ude80 Quick setup. NO nameserver change needed\n-: Use Cases:-\nLectron is a great fit for non-HTTP use cases, such as gaming (TCP + UDP), IoT (MQTT), or Voice over IP,\nand some backend HTTP use cases that don\u2019t require default web port 80/443 to work,\nsuch as Proxmox and Pterodactyl admin panel.\n-: Limitless Scalability Ultimate Shield :-\nUDP / TCP Shield\nLectron Cosmic Guard\nLectron Cosmic Global\nArtificial Intelligence\n\nVisit the Website For Information\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n https://www.lectron.com/",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-05 16:51:57",
+            "description": "\ud83d\udd10\ud83d\udca5How to Hack SMTP Username and Password | Metasploitable v2 2023 | Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=gXj4gG1CcEc&t=170s"
+        },
+        {
+            "timestamp": "2023-07-05 06:05:41",
+            "description": "Free 1 Year of Skill Share Premium Subscription for...\u00a0\nSteps:\nStep 1: Open any VPN and connect it to California, USA [IP: Los Angeles, San Francisco, San Jose etc].\u00a0\nStep 2: Use Gmail for signup\nStep 3: Enter your Full Name, mail and a fill a Super Strong Password.\nStep 4: At the Payment page, either the coupon will be pre-applied or manually enter \"pgDU9q\" and click on Apply.\nCODE:-pgDU9q\nStep 5: Finally, click on Activate and boom, your 1 Year Membership will Start.\n\n\nJoin the Telegram channel:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n\n\nJoin the Telegram Group for Discussion:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZeroDayDiscussion\n\nLike and Subscribe our Youtube channel.\nhttps://www.youtube.com/@Hacker101vids",
+            "reference": "https://t.me/ZerodayExploitware"
+        },
+        {
+            "timestamp": "2023-07-05 05:39:01",
+            "description": "\ud83d\udcda **Make Skill for Future Jobs + Earn Certificates** \ud83c\udf93\n\nMaster digital marketing skills to level up your productivity, credibility, confidence and career.\nhttps://www.facebook.com/business/learn/certification\n\nMarketing & sales\nhttps://academy.hubspot.com/certification-overview\n\ngoogle Analytics\nhttps://analytics.google.com/analytics/academy/\n\nSEO\nhttps://moz.com/training\n\nCredit : @Mr_Neophyte\nContact for posting these content in your channel\n\n**\u2714\ufe0fShare with Your Friends.**",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-05 03:28:12",
+            "description": "Fullz Info\n\n250 FULLZ WITH DRIVER ID / LICENSE / SELFIE / SSN / USA",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 17:16:31",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 17:16:26",
+            "description": "We need financial support to run our various platforms. As everyone knows that we provide everyone with premium subjects and free courses and other things free of cost. So it's time to show your support for us for running our platforms.\nDonate us.\nOur PayPal ID:- zaida8808@gmail.com\nFrom:- ZeroDay Exploit",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 17:03:45",
+            "description": "\ud83e\udeac CYBERSECURITY FUNDAMENTALS IN DETAIL \ud83e\udeac\n\nhttps://www.edx.org/course/cybersecurity-fundamentals\n\n\nJoin the Telegram channel:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZerodayExploitware\n\nJoin the Telegram Group for Discussion:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZeroDayDiscussion\n\nLike and Subscribe our Youtube channel.\nhttps://www.youtube.com/@Hacker101vids",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 17:01:33",
+            "description": "Driver Booster 10 Pro \n\nExpiry: April 04, 2024\n\n \nKey: 5BA57-82B0B-1AA25-C3540\n \nKey: 07CB7-C38C6-5B122-05440\n \nKey: 4A833-0FF38-A2F7E-42840\n \nKey: 344F3-D086F-EF7AD-8FA40\n \nKey: 4A833-0FF38-A2F7E-42840\n \nkey: 7A4A7-27FA2-BBDDB-CBE40\n\nKey: 19AF0-E05BA-7613D-A2F40\n\nKey: 344F3-D086F-EF7AD-8FA40",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 17:01:19",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 17:01:19",
+            "description": "-: LECTRON \u26a1\ufe0f DDoS Protection for the Underserved.:-\nWe protect and speed up game servers, mail servers, backend, and any apps that use TCP/UDP protocols at the lowest price.\nCloudflare Spectrum & Path Network \u2192 cheaper \ud83e\udd11\n\u26a1\ufe0f Anycast by default\n\ud83d\udddd NO vendor lock-in\n\ud83d\ude80 Quick setup. NO nameserver change needed\n-: Use Cases:-\nLectron is a great fit for non-HTTP use cases, such as gaming (TCP + UDP), IoT (MQTT), or Voice over IP,\nand some backend HTTP use cases that don\u2019t require default web port 80/443 to work,\nsuch as Proxmox and Pterodactyl admin panel.\n-: Limitless Scalability Ultimate Shield :-\nUDP / TCP Shield\nLectron Cosmic Guard\nLectron Cosmic Global\nArtificial Intelligence\n\nVisit the Website For Information\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n https://www.lectron.com/",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 17:00:28",
+            "description": "\ud83d\udd10\ud83d\udca5Unleash the Power of Nmap: A Beginner's Guide to Network Exploration! | Metasploitable v2 2023: Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=YhMGyYiGGOY"
+        },
+        {
+            "timestamp": "2023-07-04 03:16:16",
+            "description": "**50 Best App to Make Money Online\n\nCategories :\n\nSELLING OLD STUFF\nWRITING SERVICE\nPROOF READING\nSELLING PHOTOS\nVIDEO ADS\nVOICE WORK\nPHYSICAL TASKS\nONLIE SURVEYS\nWRITIG (EBOOKS)\n\nLink : **[**BestAppLinkHere\n\n](https://telegra.ph/50-APPS-TO-MAKE-MONEY-ONLINE-07-03)**BY @Mr_Neophyte\nContact for posting these content in your channel",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-03 16:58:30",
+            "description": "**\ud83d\udc7a CISCO FREE CYBERSECURITY CERTIFICATION FOR BEGINNERS** \ud83d\udc7a\n\nhttps://skillsforall.com/course/introduction-to-cybersecurity?utm_medium=event&utm_source=skillsforall.com&utm_campaign=writ&utm_content=getstartedbuttonI2cyber&utm_team=field_global&courseLang=en-US\n\n\ud83e\udd19\ud83c\udffb SHARE WITH YOUR NOOB FRIENDS \nhttps://t.me/ZeroDayDiscussion\n\ud83d\udc41 https://t.me/ZeroDayDiscussion\ud83d\udc41",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-03 16:49:54",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-03 16:49:54",
+            "description": "-: LECTRON \u26a1\ufe0f DDoS Protection for the Underserved.:-\nWe protect and speed up game servers, mail servers, backend, and any apps that use TCP/UDP protocols at the lowest price.\nCloudflare Spectrum & Path Network \u2192 cheaper \ud83e\udd11\n\u26a1\ufe0f Anycast by default\n\ud83d\udddd NO vendor lock-in\n\ud83d\ude80 Quick setup. NO nameserver change needed\n-: Use Cases:-\nLectron is a great fit for non-HTTP use cases, such as gaming (TCP + UDP), IoT (MQTT), or Voice over IP,\nand some backend HTTP use cases that don\u2019t require default web port 80/443 to work,\nsuch as Proxmox and Pterodactyl admin panel.\n-: Limitless Scalability Ultimate Shield :-\nUDP / TCP Shield\nLectron Cosmic Guard\nLectron Cosmic Global\nArtificial Intelligence\n\nVisit the Website For Information\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n https://www.lectron.com/",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-03 16:49:00",
+            "description": "\ud83d\udd10\ud83d\udca5How To Install Metasploit on Windows 10 or 11| Metasploitable v2 2023: Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=y4-oIl6bkbE"
+        },
+        {
+            "timestamp": "2023-07-03 15:11:11",
+            "description": "**__\ud83c\udff4\u200d\u2620\ufe0f**__**__IDA PRO GUIDE + TOOL**__**__\ud83c\udff4\u200d\u2620\ufe0f**____**\n\nIn this course, you will embark on an exciting journey to explore the capabilities of IDA Pro Software, a highly regarded disassembler and debugger used by professionals in the field of reverse engineering.\n\n__****__\ud83d\udca1**__**__Modules**____**\ud83d\udca1__****__\n\n**__**__\ud83d\udca1**____**Module 1: Introduction to IDA Pro\n__**__**\ud83d\udca1__**__**Module 2: Disassembly Fundamentals\n__**__**\ud83d\udca1__****__Module 3: Advanced Analysis Techniques\n**__**__\ud83d\udca1**____**Module 4: Plugin Development\n\n__**__**\ud83d\udcbb__****__Tool Features**__**__\ud83d\udcbb**__**__\n\n**____**\ud83d\udcbb__****__Fast. IDA analyzes binaries in a matter of seconds.\n**____**\ud83d\udcbb__****__Fully interactive. Work seamlessly and quickly with the disassembler and analyse code more intuitively.\n**____**\ud83d\udcbb__**__**All standard platforms supported. \n__****__\ud83d\udcbb**__**__Multiple processor handling. \n**__**__\ud83d\udcbb**__**__Handles numerous file formats. \n**____**\ud83d\udcbb__****__Powerful debugger. \nProgrammable. \n**__**__\ud83d\udcbb**____**Open plug-in architecture.**\n\n____\u2618____Pass: ____@its_me_kali____ \n\n\u2661 \u3164\u00a0\u00a0\u00a0 \u274d\u3164\u00a0\u00a0\u00a0 \u2399\u3164\u00a0 \u2332\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \n\u02e1\u1da6\u1d4f\u1d49\u00a0 \u1d9c\u1d52\u1d50\u1d50\u1d49\u207f\u1d57\u00a0 \u02e2\u1d43\u1d5b\u1d49\u00a0 \u02e2\u02b0\u1d43\u02b3\u1d49__",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-03 13:30:18",
+            "description": "**Do freelancing using Al in 2023\n\n**Logo - makelogo.ai\nDesign - kittl.com\nWebsite - durable.co\nCopywriting - peppertype.ai\nContent - markcopy.ai\nYour Intern - chat.openai.com\nEmails - monica.im\n\nWritten by @Mr_Neophyte\nContact for posting these content in your channel\n\n**\u2714\ufe0fShare with Your Friends.**",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-03 09:45:53",
+            "description": "\ud83d\udd30 BIN AMAZON PRIME VIDEO \ud83d\udd30\n\n\ud83e\uddec| GEN: https://namsogen.co\n\ud83d\udce4| BIN: 522303000729xxxx\n\ud83d\udce4| BIN: 52230300072xxxxx\n\ud83d\udce9| FECHA: 06/29\n\ud83d\udce9| CVV: GEN \n\ud83c\udf10| IP: CANADA\n\n1. \ud83d\udd17|  PRIME VIDEO: http://www.primevideo.com/\nhttps://gaming.amazon.com/\nhttps://www.amazon.com/music/unlimited\nhttp://www.spotify.com/ec/premium\nhttp://www.canva.com/\nhttp://www.scribd.com/slideshare\n\n\ud83d\udce5|Address: x mill Street \n\ud83d\udce5|City: stoney creek \n\ud83d\udce5|State: Ontario \n\ud83d\udce5|zip code: L8G 3R4\n\ud83d\udce5|Phone: 015502XXXX\nhttps://t.me/ZerodayExploitware\n\ud83d\udccc| USE REAL EMAIL, not temp mail",
+            "reference": "https://namsogen.co/"
+        },
+        {
+            "timestamp": "2023-07-02 17:25:29",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-02 17:25:29",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-02 17:25:29",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-02 17:25:29",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-02 17:25:29",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-02 17:25:29",
+            "description": "NekRos - Ransomware\nNekRos is a Ransomware Generator for Windows, which is written in Python 3, NekRos means DEAD in Greek, now you can imagine that why I named it NekRos.\nProject is made for good purpose, unethical use is prohibited, misuse of this project can lead you behind the Bar/Jail, Project is made to give Practical and Deep Knowledge of Ransomware and their side effects.\nIt is the responsibility of end user to use this Software ethically and for testing purpose only : )\nWhat is Ransomware ?\nRansomware is a type of malware which encrypts the Data of Victim's PC making Data un-usable, they are mainly published to Encrypt victim's data which perpetually block the access to data unless a ransom is paid to Attacker/Hacker so that Decryption/Recovery of Data could be done.\nFeatures  https://github.com/PushpenderIndia/nekros",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-02 16:20:07",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-02 16:20:07",
+            "description": "-: LECTRON \u26a1\ufe0f DDoS Protection for the Underserved.:-\nWe protect and speed up game servers, mail servers, backend, and any apps that use TCP/UDP protocols at the lowest price.\nCloudflare Spectrum & Path Network \u2192 cheaper \ud83e\udd11\n\u26a1\ufe0f Anycast by default\n\ud83d\udddd NO vendor lock-in\n\ud83d\ude80 Quick setup. NO nameserver change needed\n-: Use Cases:-\nLectron is a great fit for non-HTTP use cases, such as gaming (TCP + UDP), IoT (MQTT), or Voice over IP,\nand some backend HTTP use cases that don\u2019t require default web port 80/443 to work,\nsuch as Proxmox and Pterodactyl admin panel.\n-: Limitless Scalability Ultimate Shield :-\nUDP / TCP Shield\nLectron Cosmic Guard\nLectron Cosmic Global\nArtificial Intelligence\n\nVisit the Website For Information\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n https://www.lectron.com/",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-02 16:19:09",
+            "description": "\ud83d\udd10\ud83d\udca5What Are Advanced Persistent Threats APTs | Metasploitable v2 2023: Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/shorts/4hC1VPiV3x8"
+        },
+        {
+            "timestamp": "2023-07-02 12:20:59",
+            "description": "Kaspersky Standard Keys\n\nATYYE-KT8WR-M49E5-D2S1A /DZA /113\nREXMT-ZBGFW-TT9UW-T8CGD /EU /124\nV3VA4-ZJUC7-YUM1K-WXGUT /EU /112\nMR3B1-78MRC-RM1UC-W1GHE /KHM /118\nYWZRU-XJ9E3-ZGGVM-R6UZU /EU /321\n7MJAX-BEUQG-SC6DQ-NNA64 /ZAF /126\nN2JER-F6V21-W3HA4-J2QPE /LKA /118\nE93BU-R2BS3-32Y7A-QHK6P /EU /308\nGMR9C-UQF82-A15UG-B74JA /ZAF /119\nYWEFW-395D9-ZX4PC-MJQ92 /BGD /124\n1ZYAN-GVN2Y-8CRWN-AMZ3U /EU /353\nW4Y1X-YG9M8-7TF42-QJVXH /ARE /114\nJ2374-7N2RN-2PE3Y-RR6HY /EU /126\n7HQRU-3Q8RV-32Z1H-KYAC8 /EU /118\nM8WX5-2JZ93-G2HF2-HQ7DK /COL /119",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-02 07:39:44",
+            "description": "**New PhoneSploit Pro is available on\n\nGithub. PhoneSploit Pro is all-in-one pentesting tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.\n\nFeatures : \n\u2605Connect device using ADB remotely.\n\u2605List connected devices.\n\u2605Disconnect all devices.\n\u2605Access connected device shell.\n\u2605Stop ADB Server.\n\u2605Take screenshot and pull it to computer automatically.\n\u2605Screen Record target device screen for a specified time and automatically pull it to computer.\n\u2605Download file/folder from target device.\n\u2605Send file/folder from computer to target device.\n\u2605Run an app.\n\u2605Install an APK file from computer to target device.\n\u2605Uninstall an app.\n\u2605List all installed apps in target device.\n\nLink -** **https://github.com/AzeemIdrisi/PhoneSploit-Pro** \n\nBY @Mr_Neophyte\nContact for posting these content in your channel\n\n**\u2714\ufe0fShare with Your Friends.**",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-01 17:24:40",
+            "description": "SEC554:",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-01 17:23:47",
+            "description": "Main Link to buy the courses:- https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-01 17:16:03",
+            "description": "RansomeWare\nDogma V1.5.3\n<# This Ransomware musn't be used to harm/threat/hurt other person's computer. It's purpose is only to share knowledge and awareness about Malware/Operating Systems/Programming. #>\nEnvironement:\nUbuntu 18.4 | Tested | No compile\nWindows 10 | Tested | Compiled\nPycharm\nPython 3.6\nModule:\nPillow\nimport tkinter as tk\nimport tkinter\nimport os\nimport sys\nimport webbrowser\nimport pyAesCrypt\nCompilation:\npip install auto-py-to-exe\nauto-py-to-exe\ninsert manually all visual data\nInformations:\nif you get all of the module and change the \"path\" in dogma.py to ./Encrypted_Data the script is ready to use.\nI create multipe file in Encryped_Data to encrypt (.txt, .csv, .docx, .py). This folder have also 2 child folder with exact the same file for show the recursive encryption of DOGMA.\nCopy And Paste from test_file to Encrypted Data if you want re-encrypt all the file.\n[!] Warning : By default Dogma.py is configured for encrypte C:\\Users\\\nDownload Link:-\nhttps://github.com/swagkarna/RansomeWare.git",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-01 16:26:19",
+            "description": "\ud83c\udf34 SEC554: Blockchain and Smart Contract Security\n\n    Price :-  $7,785 USD      FREE FOR YOU\nMain Link to buy :- https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/\n\n\ud83d\udd25Free :- https://mega.nz/folder/Vj1HyIhA#eboPG6m2cAbS9ccHnY61pw\n\n\n        \n\ud83c\udf89\u25ac\u269c\ufe0fJoin the Telegram channel:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZerodayExploitware\u269c\ufe0f\u25ac\ud83c\udf89\n\nJoin the Telegram Group for Discussion:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZeroDayDiscussion\n\nLike and Subscribe our Youtube channel.\nhttps://www.youtube.com/@Hacker101vids",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-01 16:23:42",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-01 16:23:42",
+            "description": "-: LECTRON \u26a1\ufe0f DDoS Protection for the Underserved.:-\nWe protect and speed up game servers, mail servers, backend, and any apps that use TCP/UDP protocols at the lowest price.\nCloudflare Spectrum & Path Network \u2192 cheaper \ud83e\udd11\n\u26a1\ufe0f Anycast by default\n\ud83d\udddd NO vendor lock-in\n\ud83d\ude80 Quick setup. NO nameserver change needed\n-: Use Cases:-\nLectron is a great fit for non-HTTP use cases, such as gaming (TCP + UDP), IoT (MQTT), or Voice over IP,\nand some backend HTTP use cases that don\u2019t require default web port 80/443 to work,\nsuch as Proxmox and Pterodactyl admin panel.\n-: Limitless Scalability Ultimate Shield :-\nUDP / TCP Shield\nLectron Cosmic Guard\nLectron Cosmic Global\nArtificial Intelligence\n\nVisit the Website For Information\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n https://www.lectron.com/",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-01 16:21:45",
+            "description": "\ud83d\udd10\ud83d\udca5 How to Hack a Website (http 80) with Metasploit | Metasploitable v2 2023: Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=rpBCBl9pwkw"
+        },
+        {
+            "timestamp": "2023-07-01 16:16:59",
+            "description": "\ud83d\udc7e **This are Recon-X Tool Installation Commands In Termux.\n\n**\ud83d\udcdf **Installation Commands\n\n\n**$ `apt update && apt upgrade\n\npkg install git -y\n\ngit clone https://github.com/Yashvendra/Recon-X\n\n` `cd Recon-X\n\n` `chmod +x install.sh\n\n` `bash install.sh\n\n` `chmod +x reconX.sh\n\n` `bash reconX.sh\n\n`BY @Mr_Neophyte\nContact for posting these content in your channel\n\n\u2714\ufe0fShare with Your Friends.",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-01 09:16:00",
+            "description": "**__\ud83d\udcf1**__**__AR APPLICATION GUIDE**____**\ud83d\udcf1__****__\n\nAugmented reality (AR) is\u00a0the integration of digital information with the user's environment in real time. Unlike virtual reality (VR), which creates a totally artificial environment, AR users experience a real-world environment with generated perceptual information overlaid on top of it.\n\n**____**\ud83d\udfe9__****__Modules**__**__\ud83d\udfe9**__**__\n\n**____**\ud83c\udf3f__**__**Understand different forms of Augmented Reality and their applications.\n__**__**\ud83c\udf3f__**__**Understand the basic difference between Virtual Reality & Augmented Reality\n__****__\ud83c\udf3f**__**__What is Augmented Reality?\n**__**__\ud83c\udf3f**____**How does Augmented Reality work?\n__****__\ud83c\udf3f**____**Types of Augmented Reality\n__****__\ud83c\udf3f**__**__Augmented reality devices\n**__**__\ud83c\udf3f**__**__What is an Augmented Reality Cube?\n**__**__\ud83c\udf3f**__**__Make Your Own Augmented **____**\ud83c\udf3f__****__Reality Cube at Home\n**____**\ud83c\udf3f__**__**How to setup Augmented \n__****__\ud83c\udf3f**____**Reality Cubes in your home and everywhere.\n\n__**__**\ud83d\udfe6__****__Projects : **__[Here](https://www.hackster.io/augmented-reality/projects)[__\n\n\ud83d\udfe5Course: Here](https://mega.nz/folder/1hIGkQhI#sTJjtS7ams8JRsQ2-dzHuQ)____\n\n\n____\u2618__Regards__: __@its_me_kali__ \n\n\u2661 \u3164\u00a0\u00a0\u00a0 \u274d\u3164\u00a0\u00a0\u00a0 \u2399\u3164\u00a0 \u2332\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \n\u02e1\u1da6\u1d4f\u1d49\u00a0 \u1d9c\u1d52\u1d50\u1d50\u1d49\u207f\u1d57\u00a0 \u02e2\u1d43\u1d5b\u1d49\u00a0 \u02e2\u02b0\u1d43\u02b3\u1d49__",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-30 17:08:44",
+            "description": "(Course) ChatGPT 2023 \u2013 Passive Income W/ Artificial Intelligence\n\n\u25aa\ufe0fSize :- 1 Gb \n\n\u25aa\ufe0fMega Link :- https://mega.nz/file/JmVBxITJ#ZzUdeD6QgZ-5U3JwG_eG2WfBigECOPMmLcCUdAHA7rI\n\n\n\n\ud83c\udf89\u25ac\u269c\ufe0fJoin the Telegram channel:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZerodayExploitware\u269c\ufe0f\u25ac\ud83c\udf89\n\nJoin the Telegram Group for Discussion:-\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\nhttps://t.me/ZeroDayDiscussion\n\nLike and Subscribe our Youtube channel.\nhttps://www.youtube.com/@Hacker101vids",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-30 16:47:05",
+            "description": "",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-30 16:47:04",
+            "description": "-: LECTRON \u26a1\ufe0f DDoS Protection for the Underserved.:-\nWe protect and speed up game servers, mail servers, backend, and any apps that use TCP/UDP protocols at the lowest price.\nCloudflare Spectrum & Path Network \u2192 cheaper \ud83e\udd11\n\u26a1\ufe0f Anycast by default\n\ud83d\udddd NO vendor lock-in\n\ud83d\ude80 Quick setup. NO nameserver change needed\n-: Use Cases:-\nLectron is a great fit for non-HTTP use cases, such as gaming (TCP + UDP), IoT (MQTT), or Voice over IP,\nand some backend HTTP use cases that don\u2019t require default web port 80/443 to work,\nsuch as Proxmox and Pterodactyl admin panel.\n-: Limitless Scalability Ultimate Shield :-\nUDP / TCP Shield\nLectron Cosmic Guard\nLectron Cosmic Global\nArtificial Intelligence\n\nVisit the Website For Information\n\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb\n https://www.lectron.com/",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-30 16:44:53",
+            "description": "\ud83d\udd10\ud83d\udca5 Get Ready to Hack Metasploitable 2: Join Our Exhilarating Playlist! \ud83d\udca5\ud83d\udd10\n\nAre you ready to dive into the thrilling world of hacking? Join our exclusive Hack Metasploitable 2 playlist on YouTube and embark on an adrenaline-pumping journey of cybersecurity exploration!\n\n\ud83c\udfaf\ud83d\udcbb In this power-packed playlist, we unlock the secrets of Metasploitable 2, a purposely vulnerable virtual machine designed for ethical hacking and penetration testing. With step-by-step tutorials, real-world demonstrations, and expert insights, you'll learn the art of exploiting vulnerabilities and strengthening your defensive skills.\n\n\ud83d\udd27\ud83d\udd13 Discover the latest hacking techniques, advanced penetration testing methodologies, and cutting-edge tools used by cybersecurity professionals. Unleash the power of Metasploit Framework, Nmap, Nessus, and more as we unravel the secrets hidden within Metasploitable 2.\n\n\ud83d\udd25\ud83c\udf10 Whether you're a beginner or an experienced hacker, our playlist offers something for everyone. From reconnaissance to privilege escalation, remote code execution to post-exploitation, we cover it all. Elevate your ethical hacking game and master the art of securing vulnerable systems.\n\n\ud83c\udf1f\ud83d\udca1 Join our growing community of cybersecurity enthusiasts, ethical hackers, and passionate learners. Subscribe to our YouTube channel and be the first to access our exclusive Hack Metasploitable 2 playlist. Stay updated with the latest episodes, insider tips, and mind-blowing demonstrations.\n\n\u26a0\ufe0f\ud83d\udd12 Remember, ethical hacking is about understanding and strengthening security, not engaging in malicious activities. Always adhere to ethical guidelines, obtain proper permissions, and use your knowledge responsibly.\n\n\ud83c\udf89\ud83d\udd10\ud83d\udcbb Don't miss out on this incredible opportunity to expand your hacking skills and knowledge. Join us on this thrilling adventure by subscribing to our channel and diving into the Hack Metasploitable 2 playlist today!",
+            "reference": "https://www.youtube.com/watch?v=1rIvnMenA2g&list=PLZEN0mW2CQl38fx0wtv53VEmn5CKJIrLA"
+        },
+        {
+            "timestamp": "2023-06-30 06:43:05",
+            "description": "\ud83c\udfad Dark Web 101  Anonymous and Secure Browsing 2023 \ud83c\udfad\n\n1. Introduction\n2. What is the Dark Web\n3. How the Dark Web Works\n4. Navigating the Dark Web\n5. Illegal Activities on the Dark Web\n6. Risks and Dangers of the Dark Web\n7. Case Studies\n8. Ethics and the Dark Web\n9. Conclusion\n\nPrice :-~~ 30$~~    FREE \n\n\ud83d\udd17 https://mega.nz/folder/FrUR1IiK#YnLUeNnVEa046KW07G2EAQ\n\nBY @Mr_Neophyte\nContact for posting these content in your channel\n\n\u2714\ufe0f**Share with Your Friends.**",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-29 17:43:14",
+            "description": "FULL ETHICAL HACKING COURSE BY HACKERLOI | [MEGA] (Easiest yet)\n\nDownload Link \ud83d\udd87 - \n\nhttps://mega.nz/folder/a1BABBYS#ddX8ogxpECE1PqepSdzmVw\n\nDecryption Key: ddX8ogxpECE1PqepSdzmVw",
+            "reference": null
+        }
+    ],
+    "thehackernews": [
+        {
+            "timestamp": "2023-07-14 11:09:33",
+            "description": "\u26a0\ufe0f Heads up: Over a million WordPress sites are affected by a critical bug in the All-In-One Security (AIOS) plugin. \n \nIt stored user passwords in plaintext, posing a risk if admins reused them on other services.  \n \nRead: https://thehackernews.com/2023/07/aios-wordpress-plugin-faces-backlash.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 10:16:09",
+            "description": "TeamTNT has expanded its cloud credential stealing campaign beyond AWS, now also targeting Azure and Google Cloud Platform. \n \nLearn more about it: https://thehackernews.com/2023/07/teamtnts-cloud-credential-stealing.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 07:45:33",
+            "description": "\ud83d\udea8 Alert! A new malware strain called AVrecon has quietly targeted over 70,000 small office/home office (SOHO) routers worldwide, forming a massive botnet of 40,000 nodes across 20 countries. \n \nRead: http://thehackernews.com/2023/07/new-soho-router-botnet-avrecon-spreads.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-14 07:11:12",
+            "description": "Zimbra users, be cautious! Email collaboration software company has warned of an actively exploited zero-day vulnerability in its software. \n \nRead details here: https://thehackernews.com/2023/07/zimbra-warns-of-critical-zero-day-flaw.html \n \nApply the patch ASAP to eliminate the attack vector.",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-13 16:08:43",
+            "description": "A new report reveals a series of cyberattacks targeting government entities, military organizations, & civilian users in #Ukraine & Poland. The attacks aim to steal sensitive data and gain remote access to infected systems.  \n \nLearn more: https://thehackernews.com/2023/07/picassoloader-malware-used-in-ongoing.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-13 16:00:00",
+            "description": "\ud83d\udea8 A highly aggressive cloud campaign by the TeamTNT group called Silentbob has infected 196 hosts! They're targeting Docker, Kubernetes, Redis, Postgres, and more. The focus appears to be testing the botnet rather than cryptomining.  \n \nRead: https://thehackernews.com/2023/07/teamtnts-silentbob-botnet-infecting-196.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-13 13:05:15",
+            "description": "Watch out, researchers! A recently discovered proof-of-concept (PoC) exploit on GitHub for CVE-2023-35829 turns out to be a malicious downloader. It silently executes a bash script disguised as a kernel-level process. \n \nRead more: https://thehackernews.com/2023/07/blog-post.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-13 09:02:34",
+            "description": "U.S. CISA warns of critical vulnerabilities in Rockwell Automation ControlLogix ENIP modules, allowing remote code execution and DoS attacks.  \n \nRead details: https://thehackernews.com/2023/07/rockwell-automation-controllogix-bugs.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-13 06:23:43",
+            "description": "A sophisticated China-based hacking campaign has targeted U.S. government agencies and organizations, compromising email accounts via Microsoft Outlook Web Access in Exchange Online (OWA) & Outlook. \n \nRead: https://thehackernews.com/2023/07/us-government-agencies-emails.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-13 05:18:34",
+            "description": "\u26a1\ufe0f SonicWall and Fortinet both address critical vulnerabilities in their network security software. Update SonicWall's GMS and Analytics, and Fortinet's FortiOS and FortiProxy immediately to protect against unauthorized access. \n \nRead: https://thehackernews.com/2023/07/new-vulnerabilities-disclosed-in.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-12 18:13:19",
+            "description": "Phishing attacks are becoming more sophisticated with AI. Discover how cybercriminals leverage AI to enhance their phishing techniques and what organizations can do to defend against them. \n \nRead: https://thehackernews.com/2023/07/the-risks-and-preventions-of-ai-in.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-12 13:11:10",
+            "description": "Ransomware attacks continue to rise in 2023, with cybercriminals extorting a staggering $449.1 million in the first half of the year alone. These extortionists are showing no signs of slowing down, with their sights set on a potential $898.6 million haul in 2023. \n \nRead: https://thehackernews.com/2023/07/ransomware-extortion-skyrockets-in-2023.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-12 10:50:04",
+            "description": "Microsoft thwarts cyber attack by a Chinese nation-state actor targeting government agencies and organizations, focused on espionage and data theft. \n \nRead more: https://thehackernews.com/2023/07/microsoft-thwarts-chinese-cyber-attack.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-12 10:28:24",
+            "description": "\ud83d\udea8\ud83d\udd79\ufe0f Attention gamers! A new rootkit signed by Microsoft has been discovered, targeting the #gaming sector in China. \n \nRead details here: https://thehackernews.com/2023/07/chinese-hackers-deploy-microsoft-signed.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-12 07:45:28",
+            "description": "A sophisticated threat actor has been employing a new Python-based fileless attack called PyLoose to mine cryptocurrency on cloud workloads, bypassing traditional detection methods. \n \nRead details: https://thehackernews.com/2023/07/python-based-pyloose-fileless-attack.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-12 05:37:59",
+            "description": "Heads up, everyone! Microsoft has released updates to fix 130 security flaws, including 6 zero-day vulnerabilities being actively exploited. Update your software now to keep your systems secure.  \n \nLearn more: https://thehackernews.com/2023/07/microsoft-releases-patches-for-130.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-11 17:08:24",
+            "description": "\ud83d\udea8 Security Alert: Hackers are exploiting a Microsoft Windows policy loophole to forge signatures on kernel-mode drivers, gaining complete system access. \n \nLearn more about this major threat: https://thehackernews.com/2023/07/hackers-exploit-windows-policy-loophole.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-11 16:40:22",
+            "description": "Discover the power of MITRE ATT&CK! This widely adopted framework categorizes tactics, techniques, and procedures used in cyberattacks, helping security professionals build strong defense strategies. \n \nLearn more: https://thehackernews.com/2023/07/how-to-apply-mitre-att-to-your.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-11 10:03:27",
+            "description": "New report reveals ongoing SCARLETEEL attack campaign targeting AWS Fargate. Cybercriminals escalate privileges, exploit vulnerabilities, and profit through crypto mining. \n \nLearn more about this attack: https://thehackernews.com/2023/07/scarleteel-cryptojacking-campaign.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-11 08:48:05",
+            "description": "Protect your systems against Big Head ransomware's diverse attack vectors! It's not just about encryption\u2014it also incorporates a file infector called Neshta to deceive security solutions. \n \nRead: https://thehackernews.com/2023/07/beware-of-big-head-ransomware-spreading.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-11 04:11:31",
+            "description": "\u26a1 Apple just released critical updates to patch an actively exploited zero-day (CVE-2023-37450) flaw. \n \n\ud83d\udee1\ufe0f Update to iOS 16.5.1 (a), iPadOS 16.5.1 (a), macOS Ventura 13.4.1 (a), and Safari 16.5.2.  \n \nRead: https://thehackernews.com/2023/07/apple-issues-urgent-patch-for-zero-day.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-10 12:59:28",
+            "description": "\ud83d\udd12 Mozilla Firefox has introduced a new feature called Quarantined Domains, which blocks certain add-ons on specific sites due to security risks. \n \nRead details: https://thehackernews.com/2023/07/new-mozilla-feature-blocks-risky-add.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-10 12:26:05",
+            "description": "RomCom RAT strikes again! Cyber threat actors are targeting the NATO Summit in Vilnius with phishing attacks. \n \nRead: https://thehackernews.com/2023/07/romcom-rat-targeting-nato-and-ukraine.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-10 12:25:33",
+            "description": "Beware, LATAM businesses! A sophisticated banking trojan called TOITOIN is targeting Latin American organizations. Evading detection with custom-designed modules and a multi-stage attack strategy, it demands immediate attention. \n \nRead: https://thehackernews.com/2023/07/new-toitoin-banking-trojan-targeting.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-10 05:25:13",
+            "description": "\ud83d\udea8 ALERT: $20 million stolen from Revolut in a massive cyber attack. The organized criminal groups took advantage of a loophole, leading to significant financial losses: \n \nRead: http://thehackernews.com/2023/07/hackers-steal-20-million-by-exploiting.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-08 07:48:13",
+            "description": "\ud83d\udea8 Beware, Android users! Two popular file management apps on #Google Play Store revealed as spyware, sending users' data to servers in China. \n \nOver 1.5M users' security and privacy are at risk.  \n \nRead details: https://thehackernews.com/2023/07/two-spyware-apps-on-google-play-with-15.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-07 18:19:20",
+            "description": "Beware! Voice phishing has taken an advanced twist with \"Letscall.\" \n \nThis multi-step vishing attack combines hi-tech malware, voice traffic routing, and social engineering to deceive victims into micro-loans and disclose personal info. \n \nRead: https://thehackernews.com/2023/07/vishing-goes-high-tech-new-letscall.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-07 14:06:58",
+            "description": "\ud83d\udee1\ufe0f Struggling with limited visibility into cyber threats? Discover how \"Continuous Threat Exposure Management\" empowers CISOs and SOC teams to proactively protect their assets, data, and systems.   \n \nRead details: https://thehackernews.com/2023/07/close-security-gaps-with-continuous.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-07 14:02:19",
+            "description": "\ud83d\udd12 Yet another critical SQL injection vulnerability (CVE-2023-36934) uncovered in popular MOVEit Transfer\u2014the same software that was exploited in a series of recent cyberattacks to deploy Clop #ransomware. \n \nRead details: https://thehackernews.com/2023/07/another-critical-unauthenticated-sqli.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-07 12:57:44",
+            "description": "Mastodon, the decentralized social network, releases critical security update. Update your instance ASAP to prevent potential DoS and remote code execution attacks. \n \nRead details: https://thehackernews.com/2023/07/mastodon-social-network-patches.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-07 10:22:39",
+            "description": "Microsoft uncovers the ruthless efficiency of ransomware attacks. \n \nIn just 5 days, hackers complete the entire attack process, breaching systems, encrypting vital data, and holding organizations hostage. \n \nDetails: https://thehackernews.com/2023/07/blackbyte-20-ransomware-infiltrate.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-07 07:26:56",
+            "description": "\ud83d\udd10 Google's latest Android security updates are here!  Patching 46 new vulnerabilities, including 3 actively exploited flaws. One flaw enabled spyware infiltration on Samsung devices. \n \nRead details here: https://thehackernews.com/2023/07/google-releases-android-patch-update.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-07 06:21:08",
+            "description": "JumpCloud takes precautionary action against an ongoing cybersecurity incident by resetting API keys for affected clients. \n \nLearn more: https://thehackernews.com/2023/07/jumpcloud-resets-api-keys-amid-ongoing.html \n \nBrace yourself for temporary disruptions in certain functionalities.",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-07 05:15:55",
+            "description": "\ud83d\udea8 New TrueBot variants strike US and Canada. Exploiting Netwrix Auditor's vulnerability, they infiltrate networks, steal data, and distribute ransomware. \n \nPatch up. Details here: https://thehackernews.com/2023/07/cybersecurity-agencies-sound-alarm-on.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 18:08:50",
+            "description": "Iranian nation-state actor TA453 continues to evolve its tactics, deploying novel infection chains and malware (GorjolEcho and NokNok) to infiltrate both Windows and macOS systems. \n \nLearn more: https://thehackernews.com/2023/07/iranian-hackers-sophisticated-malware.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 16:28:38",
+            "description": "DDoS attacks are becoming stronger, larger, and more complex! Power spikes from 600 Gbps to 800 Gbps, warns Gcore Radar. \n \nDiscover how to combat this growing threat: https://thehackernews.com/2023/07/surviving-800-gbps-storm-gain-insights.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 10:58:42",
+            "description": "New Linux kernel vulnerability uncovered \u2192 StackRot (CVE-2023-3269) opens doors to unauthorized elevated privileges.  \n \nDetails here: https://thehackernews.com/2023/07/researchers-uncover-new-linux-kernel.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 10:57:03",
+            "description": "Is your organization eligible for cyber insurance? \n \nDiscover the crucial role of regular penetration testing in assessing your cybersecurity risk profile. \n \nLearn more: https://thehackernews.com/2023/07/how-pen-testing-can-soften-blow-on.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 10:39:51",
+            "description": "A potentially massive cyberattack campaign is targeting cloud-native environments. Researchers unearthed an aggressive worm exploiting JupyterLab and Docker APIs. It deploys Tsunami malware and hijacks resources. \n \nRead: https://thehackernews.com/2023/07/silentbob-campaign-cloud-native.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-06 08:54:03",
+            "description": "Suspected leader of OPERA1ER hacking crew, responsible for $11 Million+ in theft, has been arrested in an international operation. \n \nLearn more here: https://thehackernews.com/2023/07/interpol-nabs-hacking-crew-opera1ers.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-05 14:12:40",
+            "description": "RedEnergy, a sophisticated stealer-as-a-ransomware threat, is targeting energy utilities, oil, gas, telecom, and machinery sectors, using LinkedIn pages to deceive and compromise valuable information. \n \nLearn more about this cyberattack: https://thehackernews.com/2023/07/redenergy-stealer-as-ransomware-threat.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-05 11:58:23",
+            "description": "\u26a1 Discover the power of automated IoT security testing with BugProve firmware analysis tool.\n\n\u2705 Detects zero-day vulnerabilities\n\u2705 Monitors emerging threats\n\u2705 Compliance support\n\u2705 Remediation recommendations\n\nTry it for FREE \nGet 50% OFF - Limited time offer: https://thn.news/BugProve",
+            "reference": "https://thn.news/firmware-analysis-tool"
+        },
+        {
+            "timestamp": "2023-07-05 09:03:15",
+            "description": "\ud83d\udd25Developers, beware! npm packages are vulnerable to \"manifest confusion.\" \n \nThis could serve as a backdoor for malicious code, hiding in your project dependencies, potentially triggering a dreaded supply chain attack. \n \nLearn more: https://thehackernews.com/2023/07/nodejs-users-beware-manifest-confusion.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-05 08:40:18",
+            "description": "Meta's Instagram Threads, poised as the next Twitter rival, hits a roadblock in Europe over privacy concerns.  \n \nWhy? The app's extensive user data collection may not comply with EU's strict privacy standards.  \n \nLearn more: https://thehackernews.com/2023/07/instagrams-twitter-alternative-threads.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 18:02:04",
+            "description": "\ud83d\udd14 Attention companies: the Swedish watchdog warns against using Google Analytics over Data Protection risks linked to U.S. surveillance. \n \nLearn the full story here: https://thehackernews.com/2023/07/swedish-data-protection-authority-warns.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 10:45:48",
+            "description": "DDoSia attack tool gets an upgrade! Now conceals target lists with new encryption methods. \n \nLearn more: https://thehackernews.com/2023/07/ddosia-attack-tool-evolves-with.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 10:01:45",
+            "description": "Neo_Net, a Mexican e-crime actor, is behind an Android malware campaign that's stolen \u20ac350,000+ and compromised PII data. \n \nRead details: https://thehackernews.com/2023/07/mexico-based-hacker-targets-global.html \n \nDon't be fooled by the fa\u00e7ade - ensure your banking app is legit!",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-04 06:59:41",
+            "description": "\ud83d\udea8 Critical Alert! Over 330,000 FortiGate firewalls are still vulnerable to the critical CVE-2023-27997 RCE exploit!  \n \nDon't be a sitting duck, PATCH NOW!  \n \nLearn more: https://thehackernews.com/2023/07/alert-330000-fortigate-firewalls-still.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-03 10:49:39",
+            "description": "\ud83d\udce3 ALERT: CISA flags 8 severe vulnerabilities currently exploited in the wild - 6 affecting Samsung phones and 2 in D-Link devices. \n \nFull info here \ud83d\udc49 https://thehackernews.com/2023/07/cisa-flags-8-actively-exploited-flaws.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-03 09:40:17",
+            "description": "Your crypto wallet, your secrets, even your games \u2013 NOTHING is safe from Meduza Stealer. \n \nDiscover how this crimeware stays ahead of the game. https://thehackernews.com/2023/07/evasive-meduza-stealer-targets-19.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-03 04:49:52",
+            "description": "BlackCat ransomware now spreading via malvertising! Watch out for rogue installers disguised as legitimate apps like WinSCP. \n \nLearn more: https://thehackernews.com/2023/07/blackcat-operators-distributing.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-07-01 06:03:52",
+            "description": "North Korea's BlueNoroff, part of Lazarus Group, has upgraded their macOS #malware, Rustbucket, to avoid detection and persist longer. \n \nFind out more here\ud83d\udc49 https://thehackernews.com/2023/07/beware-new-rustbucket-malware-variant.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-30 09:06:25",
+            "description": "\ud83d\udcaa WhatsApp rolls out an upgrade to its proxy feature! Share more than just texts - a step towards countering internet \ud83d\udeab censorship. \n \nLearn more: https://thehackernews.com/2023/06/whatsapp-upgrades-proxy-feature-against.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-30 08:33:06",
+            "description": "Beware of proxyjacking! Vulnerable SSH servers are under attack in a financially motivated campaign, covertly ensnaring them into a proxy network. \n \nRead details: https://thehackernews.com/2023/06/cybercriminals-hijacking-vulnerable-ssh.html \n \nDiscover how threat actors exploit unused bandwidth to run services and monetize it.",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-30 05:53:31",
+            "description": "\u26a1 Attention all software developers and programmers! MITRE's Top 25 list of dangerous software weaknesses for 2023 is here. \n \nDiscover the crucial mistakes to avoid early in your product development process: \n \nhttps://thehackernews.com/2023/06/mitre-unveils-top-25-most-dangerous.html \n \nBuild secure software from the ground up!",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-29 16:02:54",
+            "description": "Iranian state-sponsored group, MuddyWater, deploys new PhonyC2 framework in targeted cyber attacks. New findings reveal connections to Technion breach and ongoing PaperCut server exploitation. \n \nDetails: https://thehackernews.com/2023/06/from-muddyc3-to-phonyc2-irans.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-29 13:41:14",
+            "description": "\u26a0\ufe0f Attention Android users! \n \nFluhorse has evolved and become more sophisticated. It conceals its encrypted payload and listens to your SMS messages. \n \nRead details: https://thehackernews.com/2023/06/fluhorse-flutter-based-android-malware.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-29 10:53:39",
+            "description": "Andariel, affiliated with North Korea's Lazarus Group, strikes with EarlyRat #malware exploiting Log4j vulnerability. \n \nLearn how they compromise systems: https://thehackernews.com/2023/06/north-korean-hacker-group-andariel.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-29 10:36:10",
+            "description": "LetMeSpy, an Android phone monitoring app, suffers a major security breach, compromising sensitive data of thousands. Personal information, messages, and more accessed by unauthorized third-party. \n \nLearn more: https://thehackernews.com/2023/06/android-spy-app-letmespy-suffers-major.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-29 07:25:53",
+            "description": "\ud83d\udea8 A critical flaw in miniOrange's Social Login and Register plugin for WordPress has been exposed, allowing hackers to log in as any user. \n \nRead details: https://thehackernews.com/2023/06/critical-security-flaw-in-social-login.html \n \nUpdate to version 7.6.5 or later NOW to protect your site!",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-29 04:49:02",
+            "description": "\ud83d\udd12 Discover the newly unearthed Windows-based information stealer, ThirdEye! This malware operates stealthily, harvesting sensitive data from infected hosts. \n \nRead more: https://thehackernews.com/2023/06/newly-uncovered-thirdeye-windows-based.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-28 15:06:47",
+            "description": "Your drone may be vulnerable! New research reveals electromagnetic fault injection attacks can gain control of drones during firmware updates.  \n \nRead: https://thehackernews.com/2023/06/alert-new-electromagnetic-attacks-on.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-28 13:49:05",
+            "description": "CryptosLabs scam ring exposed, amassing \u20ac480 million in illegal profits! French-speaking individuals in France, Belgium, and Luxembourg targeted since 2018. \n \nLearn about their tactics: https://thehackernews.com/2023/06/cryptoslabs-scam-ring-targets-french.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-28 10:25:33",
+            "description": "A new ransomware threat called 8Base has emerged from the shadows with a \"massive spike in activity.\" \n \nFind out how this group utilizes encryption and 'name-and-shame' techniques to compel victims to pay ransoms. \n \nDetails: https://thehackernews.com/2023/06/8base-ransomware-spikes-in-activity.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-28 07:26:10",
+            "description": "Critical SQL injection vulnerabilities found in Gentoo Soko! Exploiting these flaws could lead to remote code execution (RCE) on affected systems. \n \nDiscover the details: https://thehackernews.com/2023/06/critical-sql-injection-flaws-expose.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-27 14:34:13",
+            "description": "New npm attack discovered! Cybersecurity researchers find an ongoing campaign with a unique execution chain. \n \nDiscover details here: https://thehackernews.com/2023/06/new-ongoing-campaign-targets-npm.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-27 14:33:16",
+            "description": "Asset discovery alone won't cut it in the battle against cyber threats! Uncover the weaknesses and vulnerabilities lurking in your attack surface. Attack Surface Management (ASM) integrates vulnerability prioritization and remediation. \n \nhttps://thehackernews.com/2023/06/beyond-asset-discovery-how-attack.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-27 14:23:33",
+            "description": "\ud83d\udd12 Brace yourself for the new Mockingjay process injection technique! This advanced method enables hackers to execute malicious code undetected, bypassing traditional detection mechanisms.  \n \nRead details: https://thehackernews.com/2023/06/new-mockingjay-process-injection.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-27 11:25:32",
+            "description": "\u26a1The takedown of EncroChat, the infamous encrypted phone network used by organized crime, results in 6,558 global arrests and the recovery of \u20ac900 million in illicit funds. \n \nRead details: https://thehackernews.com/2023/06/encrochat-bust-leads-to-6558-criminals.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-27 10:36:52",
+            "description": "\ud83d\udea8 Alert! Anatsa banking trojan apps, distributed via Google Play Store, have infected 30,000+ users in the U.S., U.K., Germany, and Switzerland. \n \nRead: https://thehackernews.com/2023/06/anatsa-banking-trojan-targeting-users.html \n \nExploiting Android accessibility services API, it bypasses fraud controls to hijack transactions.",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-27 05:37:41",
+            "description": "\u26a1\ufe0f Urgent security alert! Fortinet has released urgent updates to fix a critical vulnerability (CVE-2023-33299) in FortiNAC, exposing networks to arbitrary code execution.  \n \nLearn more: https://thehackernews.com/2023/06/new-fortinets-fortinac-vulnerability.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-26 16:47:18",
+            "description": "\ud83d\udd12 Researchers have uncovered an ingenious side-channel attack that can recover secret keys from a device using video footage of its power LED.\n\nFind out how threat actors exploit this: https://thehackernews.com/2023/06/researchers-find-way-to-recover.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-26 16:45:15",
+            "description": "Did you know that generative AI tools can lead to data leaks? Protect your organization from inadvertent data exposure and breaches. \n \nDiscover effective strategies for securing your SaaS environment from AI-related risks. \n \nRead: https://thehackernews.com/2023/06/how-generative-ai-can-dupe-saas.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-26 12:40:31",
+            "description": "A Japanese cryptocurrency exchange fell victim to a recent cyberattack, deploying the stealthy JokerSpy backdoor on Apple macOS. \n \nFind out how this sophisticated toolkit targets macOS machines: https://thehackernews.com/2023/06/japanese-cryptocurrency-exchange-falls.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-26 10:56:55",
+            "description": "Microsoft exposes a surge in \ud83d\udd12 credential-stealing attacks by Russian hacker group Midnight Blizzard. These hackers employ residential proxy services to conceal their targeting of governments, defense, and critical sectors.  \n \nDetails: https://thehackernews.com/2023/06/microsoft-warns-of-widescale-credential.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-26 05:53:56",
+            "description": "Chinese group Volt Typhoon poses a new cyber espionage threat. Learn how they infiltrate and persistently access critical infrastructure targets using web shells, living-off-the-land binaries, and stealthy tactics. \n \nRead: https://thehackernews.com/2023/06/chinese-hackers-using-never-before-seen.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-24 15:33:17",
+            "description": "\ud83d\udd12 6 known exploited vulnerabilities have been added to CISA's catalog. Apple, VMware, and Zyxel devices are affected, exposing them to code execution, zero-click exploits, & cyberespionage attacks. \n \nGet the details and patch your systems ASAP: https://thehackernews.com/2023/06/us-cybersecurity-agency-adds-6-flaws-to.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-24 15:19:53",
+            "description": "U.K. hacker Joseph James O'Connor sentenced to 5 years for massive Twitter breach, targeting 130 high-profile accounts, executing a crypto scam, and netting $120,000 in illegal profits.  \n \nRead details: https://thehackernews.com/2023/06/twitter-hacker-sentenced-to-5-years-in.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-23 14:45:03",
+            "description": "Watch out, BPOs! Discover how 'Muddled Libra' cybercrime group is leveraging the 0ktapus phishing kit and social engineering tactics to infiltrate organizations and steal sensitive data.  \n \nLearn more: https://thehackernews.com/2023/06/cybercrime-group-muddled-libra-targets.html",
+            "reference": null
+        },
+        {
+            "timestamp": "2023-06-23 12:31:08",
+            "description": "Attackers are increasingly targeting vulnerable developer laptops to infiltrate production systems without directly attacking them, warned cloud security expert Lee Atchison. \n \nLearn more:",
+            "reference": "https://thn.news/HIq4tcGM"
+        }
+    ]
+}

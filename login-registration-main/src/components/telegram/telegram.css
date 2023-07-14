@@ -1,0 +1,152 @@
+  /* telegram style*/
+
+  .page-title {
+	text-align: center;
+	font-size: 3rem;
+	color: #088691;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	font-weight: bold;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  
+  .message-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: #e6e6e6;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .group-container {
+    margin-bottom: 50px;
+	max-width: 90%;
+  }
+
+  .message-container.loading {
+	opacity: 0.5; /* Dim the container while loading */
+	pointer-events: none; /* Disable interactions during loading */
+  }
+  
+  .message-group {
+	animation: fade-in 1s ease;
+  }
+  
+  @keyframes fade-in {
+	0% {
+	  opacity: 0;
+	  transform: translateY(20px);
+	}
+	100% {
+	  opacity: 1;
+	  transform: translateY(0);
+	}
+  }
+  
+  .group-title {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 10px;
+	background-color: #3f8efc;
+	color: #fff;
+	padding: 8px 16px;
+	border-radius: 4px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+  
+ /* CSS styles */
+.group-filter {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+  }
+  
+  .group-box {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: auto; /* Adjusted width */
+	min-width: 120px; /* Added min-width */
+	height: 40px;
+	margin-right: 15px; /* Increased margin for spacing */
+	padding: 5px 10px; /* Added padding */
+	border-radius: 20px;
+	background-color: #ebebeb;
+	cursor: pointer;
+	font-weight: bold;
+	color: #333;
+	transition: background-color 0.3s;
+	overflow: hidden;
+	text-align: center; /* Added text-align property */
+	white-space: normal; /* Changed white-space to normal */
+  }
+  
+  .group-box.selected {
+	background-color: #333;
+	color: #fff;
+  }
+  
+  .group-container {
+	display: none;
+	margin-top: 20px;
+  }
+  
+  .group-container.active {
+	display: block;
+  }
+  
+  .message-list {
+	margin-top: 20px;
+  }
+  
+.message-card {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  /* Add the following properties to ensure consistent card sizes */
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+  
+  .message-card .description {
+	margin-bottom: 5px;
+	font-size: 20px;
+	font-weight: 600;
+	color: #333;
+  }
+  
+  .message-card .timestamp {
+	font-size: 14px;
+	color: #777;
+  }
+  
+  .message-card .reference-link {
+	display: block;
+	margin-top: 5px;
+	font-size: 14px;
+	color: #007bff;
+	text-decoration: none;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+	.group-filter {
+	  flex-wrap: wrap;
+	}
+  
+	.group-box {
+	  width: 100px;
+	  height: 30px;
+	  margin-bottom: 10px;
+	}
+  }
